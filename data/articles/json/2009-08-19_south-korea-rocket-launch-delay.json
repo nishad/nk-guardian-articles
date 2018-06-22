@@ -1,0 +1,28 @@
+{
+    "date": "2009-08-19T13:18:00Z",
+    "title": "South Korea aborts rocket launch minutes before lift-off",
+    "url": "https://www.theguardian.com/world/2009/aug/19/south-korea-rocket-launch-delay",
+    "content": "South Korea's entry into the Asian space race was delayed again today after the launch of its first rocket was aborted minutes before lift-off. The country's science ministry has yet to give a reason for the delay, and a new attempt is not expected for several days. The planned launch was certain to raise tensions with North Korea, which drew widespread condemnation after test-launching a ballistic missile in early April. Pyongyang insisted the rocket was carrying a communications satellite but the US, Japan and South Korea claimed the launch was a disguised attempt to test ballistic missile technology banned under UN sanctions. South Korean officials said today's launch was supposed to have been of a satellite \u2013 a crucial part of its quest to become a regional space power alongside China, India and Japan. The mission was aborted less than eight minutes before the rocket \u2013 known as the Naro-I \u2013 was due to blast off from a new space centre 300 miles south of Seoul. The country's space agency had earlier tried to play down expectations for the launch. It said that countries attempting to put their own satellite into orbit have a first-time success rate of only about 30%. The launch had already been delayed several times because of technical hitches. The $400m (\u00a3245m) rocket \u2013 whose first, liquid-fuel stage was built by Russia \u2013 is intended to put a satellite into orbit to monitor the atmosphere and ocean, the South Korean science ministry said. A successful launch would mark the first time South Korea has put a rocket into orbit from its own territory. Although it has launched 11 satellites since 1992, all lifted off from overseas sites on foreign-made rockets. The launch will earn the country membership of an exclusive club of nine nations that have put a domestically built satellite into orbit from their own territory. North Korea said it would \"closely watch\" other countries' response to Seoul's rocket launch. South Korea insists its space programme is peaceful and transparent, and dismissed any comparisons between the Naro-I and North Korean missile tests. The Naro-I's launch will determine how seriously Seoul is taken as a player in the regional space race. It hopes to build a rocket without outside help by 2018 and to send a probe to the moon by 2025. Japan has launched several satellites, while India has one orbiting the moon and China put its first man in space in 2003. Although few believe North Korean claims that it has successfully launched a satellite, with an economy just 2% the size of the South's, its rocket tests have given it a minor victory in the peninsula's propaganda war. Seoul says it is adhering to a 2001 agreement with the US not to develop long-range ballistic missiles but critics of the Naro-I launch warn that peaceful \"space programmes\" employ technology that could be transferred to nuclear and conventional missiles.",
+    "keywords": [
+        "launch",
+        "south",
+        "korea",
+        "space",
+        "aborts",
+        "seoul",
+        "satellite",
+        "liftoff",
+        "orbit",
+        "minutes",
+        "rocket",
+        "north",
+        "korean"
+    ],
+    "summary": "South Korea's entry into the Asian space race was delayed again today after the launch of its first rocket was aborted minutes before lift-off.\nThe planned launch was certain to raise tensions with North Korea, which drew widespread condemnation after test-launching a ballistic missile in early April.\nA successful launch would mark the first time South Korea has put a rocket into orbit from its own territory.\nNorth Korea said it would \"closely watch\" other countries' response to Seoul's rocket launch.\nSouth Korea insists its space programme is peaceful and transparent, and dismissed any comparisons between the Naro-I and North Korean missile tests.",
+    "sentiment": {
+        "neg": 0.0595,
+        "neu": 0.8755,
+        "pos": 0.065,
+        "compound": 0.015
+    }
+}

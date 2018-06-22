@@ -1,0 +1,26 @@
+{
+    "date": "2000-06-13T10:11:55Z",
+    "title": "Korea - the story in links",
+    "url": "https://www.theguardian.com/news/2000/jun/13/netnotes.northkorea",
+    "content": "1. The two presidents of Korea, Kim Dae Jung of the South and Kim Jong-il of the North, are due to meet today - the first summit in the troubled and bloody history of the peninsula. 2. The summit should have started yesterday, but North Korea demanded a postponement \"for technical reasons\". 3. No further enlightenment is offered by North Korea's Central News Agency, whose website is almost entirely free of news. 4. Trade and security issues will dominate the discussions, but there is also a piece of outstanding historical business: ending the war which broke out almost exactly 50 years ago. 5. The war started when seven divisions of North Korean troops crossed the 38th parallel to invade the South, on June 25, 1950. 6. The US led a formidable United Nations army to the rescue of democracy, or what passed for it, in the South. But when the North Koreans seemed defeated, the Chinese joined in, and the world stood on the brink of a new global conflict. 7. The Americans believed they could win the war virtually by air power alone. They came close to using nuclear weapons. 8. Three years of bitter fighting finally ended in July 1953, with the 38th parallel restored as the ceasefire line, but there has never been a formal peace treaty. 9. Throughout its 52-year history, North Korea has been a hard-line communist state. South Korea too has known despotism, but unlike its northern neighbour, it has prospered mightily. 10. The admirably dispassionate 'factbooks' published on the internet by the CIA, reveal that North Korea has a per capita GDP of just \u00a3600 - less than a twelfth of South Korea's. Between a quarter and a third of all the northern state's income goes on buying arms.",
+    "keywords": [
+        "summit",
+        "links",
+        "south",
+        "war",
+        "started",
+        "korea",
+        "northern",
+        "parallel",
+        "kim",
+        "north",
+        "koreas"
+    ],
+    "summary": "The summit should have started yesterday, but North Korea demanded a postponement \"for technical reasons\".\nNo further enlightenment is offered by North Korea's Central News Agency, whose website is almost entirely free of news.\nThroughout its 52-year history, North Korea has been a hard-line communist state.\nSouth Korea too has known despotism, but unlike its northern neighbour, it has prospered mightily.\nThe admirably dispassionate 'factbooks' published on the internet by the CIA, reveal that North Korea has a per capita GDP of just \u00a3600 - less than a twelfth of South Korea's.",
+    "sentiment": {
+        "neg": 0.0807,
+        "neu": 0.8802,
+        "pos": 0.0391,
+        "compound": -0.1155
+    }
+}

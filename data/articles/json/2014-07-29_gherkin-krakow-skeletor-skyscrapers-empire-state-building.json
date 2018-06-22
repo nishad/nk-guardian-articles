@@ -1,0 +1,30 @@
+{
+    "date": "2014-07-29T16:38:00Z",
+    "title": "From the Gherkin to Krakow's Skeletor: famous skyscrapers that flopped",
+    "url": "https://www.theguardian.com/artanddesign/shortcuts/2014/jul/29/gherkin-krakow-skeletor-skyscrapers-empire-state-building",
+    "content": "Skyscrapers are usually considered signs of success, steel-framed declarations of triumph. But they're equally associated with corporate hubris, architectural ego and recession \u2013 the latter tallied via the Skyscraper Index, which plots the striking correlation between the completion of a new \"world's tallest building\" and the arrival of a global economic downturn. The failure of Norman Foster's Gherkin is just the latest example. Made unprofitable by changes in currency exchange rates, it was recently put into receivership and is now up for sale at an estimated price of \u00a3640m. It may yet recover, of course, but for now it joins the already long list of skyscraping architecture's most conspicuous flops. The Empire State Building The architects of the longest-serving \"world's tallest\" \u2013 which reigned from the early 30s until the mid-70s \u2013 were given a staggeringly idiotic brief. In a possibly apocryphal story, the boss of General Motors picked up a pencil, balanced it on the desk and asked, \"How tall can you make it without it falling over?\" One hundred and three storeys was the answer, but it became the first of the recession-predicting skyscrapers on the Index, known as the \"Empty State Building\" through the Great Depression, and presaging other Index members such as the World Trade Centre (mid-70s recession), the Petronas Towers (the Asian financial crash) and the Burj Khalifa (the current recession). Centre Point The most famous of over a dozen very tall office blocks designed by the prolific Colonel Richard Seifert in London, Birmingham, Glasgow and elsewhere, Centre Point is now a listed building used by the Confederation of British Industry as a headquarters \u2013 but it was once a byword for the irresponsibility and cruelty of property speculation: through the late 60s and 70s, developer Harry Hyams found it more profitable to keep it empty. Skeletor There are several skyscrapers that faced sudden obsolescence when their countries' respective economies collapsed, leaving them perpetually unfinished \u2013 such as \"Skeletor\", the tallest building in Krakow, an office block begun in 1975 and abandoned in 1981 as an empty steel frame. Designed for the Polish Federation of Engineering Associations, it is now used as a giant frame for billboards. The Ryugyong Hotel The tallest building in Pyongyang, begun in 1987, is the most notorious example of this genre. Now an insanely overambitious remnant from when North Korea was as rich as South Korea, it was left unfinished as the Soviet collapse plunged the country into famine. It is now finally being completed, 27 years on. Torre David This unfinished, partly mirror-glass-clad Caracas office block has been a cause celebre for those few architects more interested in social than architectural change: years after being abandoned, it was squatted by a tightly organised group of citizens, creating a \"vertical slum\". After years with the tacit support of the Ch\u00e1vez and Maduro governments, it is now being sold to Chinese developers and its inhabitants rehoused elsewhere. It remains an exceptional example of a skyscraper being claimed by the masses, rather than by big business. \u2022 This article was amended on 31 July 2014. An earlier version said incorrectly that the squatting of the Centrepoint tower gave rise to the homelessness charity of the same name.",
+    "keywords": [
+        "krakows",
+        "index",
+        "recession",
+        "worlds",
+        "example",
+        "tallest",
+        "centre",
+        "building",
+        "skyscrapers",
+        "office",
+        "skeletor",
+        "famous",
+        "unfinished",
+        "flopped",
+        "gherkin"
+    ],
+    "summary": "The failure of Norman Foster's Gherkin is just the latest example.\nIt may yet recover, of course, but for now it joins the already long list of skyscraping architecture's most conspicuous flops.\nThe Empire State Building The architects of the longest-serving \"world's tallest\" \u2013 which reigned from the early 30s until the mid-70s \u2013 were given a staggeringly idiotic brief.\nSkeletor There are several skyscrapers that faced sudden obsolescence when their countries' respective economies collapsed, leaving them perpetually unfinished \u2013 such as \"Skeletor\", the tallest building in Krakow, an office block begun in 1975 and abandoned in 1981 as an empty steel frame.\nThe Ryugyong Hotel The tallest building in Pyongyang, begun in 1987, is the most notorious example of this genre.",
+    "sentiment": {
+        "neg": 0.0744,
+        "neu": 0.867,
+        "pos": 0.0585,
+        "compound": -0.1317
+    }
+}

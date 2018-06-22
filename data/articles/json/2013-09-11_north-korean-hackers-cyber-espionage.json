@@ -1,0 +1,27 @@
+{
+    "date": "2013-09-11T16:35:00Z",
+    "title": "North Korean hackers suspected of cyber-espionage attack on South",
+    "url": "https://www.theguardian.com/technology/2013/sep/11/north-korean-hackers-cyber-espionage",
+    "content": "North Korean hackers are suspected of launching a covert cyber-espionage campaign against the South Korean government in an attempt to steal highly classified intelligence on defence and security. South Korea's ministry of unification and several leading Seoul thinktanks were targeted by the rare spy program, security researchers said on Wednesday. Experts at Kaspersky Lab said it was the first time they had discovered a cyber-attack that directly points to hackers in North Korea. A detailed tranche of evidence has been handed to the Korean Information Security Agency and the computer emergency response team in Seoul. \"This discovery is interesting because the vast majority of attacks we are seeing are from Chinese origins, so for it to come from North Korea is very unusual and rare,\" said Costin Raiu, research director of Kaspersky Lab. \"There were some attacks earlier this year that targeted banks, media companies and the suspicion there was also towards attackers in North Korea but this is the first time we have come by something that directly points to North Korea.\" Analysts have identified at least 11 targets inside South Korea, including thinktanks such as the Sejong Institute, the Korea Institute for Defence Analyses and supporters of Korean unification. It is also believed that the computers of Seoul's ministry of unification and the shipping giant Hyundai Merchant Marine were targeted by hackers. The cyber-espionage campaign \u2013 dubbed \"Kimsuky\" \u2013 was first detected by security experts on 3 April, amid heightened tensions on the Korean peninsula after Pyongyang carried out its third nuclear tests and threatened attacks on neighbouring countries. A small group of North Korean hackers are believed to have \"infected\" the machines using so-called spear-phishing emails, which target their victims with personalised messages in the hope of stealing passwords or other security details. According to researchers, the \"unsophisticated\" spy program was designed specifically to search and steal Hangul word processor (HWP) documents, which are used widely by South Korean officials. Once they had infected a target computer, the hackers were able to take over the machine or secretly monitor the actions of its user. \"We don't know exactly what was stolen but we suspect they were looking for all sorts of HWP documents relating to work done by thinktanks towards unification and on defence and security strategy,\" said Raiu. The researchers identified 10 IP addresses indicating that the attackers used networks in China's Jilin and Liaoning provinces, which border North Korea. \"There are suspicions that some landlines in parts of China are used from within North Korea,\" he added. Security experts could not say whether the Kimsuky attack was state-sponsored, but the discovery will add to concerns about geopolitical cyber-espionage. The New York Times said earlier this year that it had been targeted by a Chinese cyber-espionage campaign, and in May the Pentagon directly accused China for the first time of being behind cyber-attacks on its systems. \u2022 To contact the MediaGuardian news desk email media@theguardian.com or phone 020 3353 3857. For all other inquiries please call the main Guardian switchboard on 020 3353 2000. If you are writing a comment for publication, please mark clearly \"for publication\". \u2022 To get the latest media news on your desktop or mobile, follow MediaGuardian on Twitter and Facebook.",
+    "keywords": [
+        "suspected",
+        "south",
+        "korea",
+        "targeted",
+        "used",
+        "unification",
+        "attack",
+        "hackers",
+        "cyberespionage",
+        "security",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korean hackers are suspected of launching a covert cyber-espionage campaign against the South Korean government in an attempt to steal highly classified intelligence on defence and security.\nExperts at Kaspersky Lab said it was the first time they had discovered a cyber-attack that directly points to hackers in North Korea.\nAnalysts have identified at least 11 targets inside South Korea, including thinktanks such as the Sejong Institute, the Korea Institute for Defence Analyses and supporters of Korean unification.\nThe researchers identified 10 IP addresses indicating that the attackers used networks in China's Jilin and Liaoning provinces, which border North Korea.\n\"There are suspicions that some landlines in parts of China are used from within North Korea,\" he added.",
+    "sentiment": {
+        "neg": 0.0766,
+        "neu": 0.853,
+        "pos": 0.0705,
+        "compound": -0.0929
+    }
+}

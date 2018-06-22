@@ -1,0 +1,27 @@
+{
+    "date": "2002-02-02T01:53:45Z",
+    "title": "North Korea 'selling missiles'",
+    "url": "https://www.theguardian.com/world/2002/feb/02/northkorea.armstrade",
+    "content": "North Korea, one of the three countries labelled an \"axis of evil\" by President George Bush, is a major exporter of ballistic missile technology to the Middle East, according to a new report released by the CIA. \"Pyongyang [the capital] attaches a high priority to the development and sale of ballistic missiles, equipment and related technology,\" the report says. \"North Korea continued to export significant ballistic missile-related equipment, components, materials and technical expertise to countries in the Middle East, south Asia and north Africa.\" In his speech on Tuesday in which North Korea was singled out for condemnation, along with Iran and Iraq, Mr Bush said that Pyongyang was \"a regime arming with missiles and weapons of mass destruction while starving its citizens\". Late on Thursday, official North Korean news sources quoted officials at the foreign ministry as saying that \"the option to 'strike', impudently advocated by the US, is not its monopoly\". A ministry spokesman told the KCNA news agency that Washington had \"groundlessly linked those countries that go against the grain with the US with terrorism\". The CIA report says that exports of ballistic missile technology are \"one of [North Korea's] major sources of hard currency, which fuel continued missile development and production\". Despite signing a nuclear non-proliferation agreement with Washington in 1994, Pyongyang has continued to develop its nuclear capability and may have enough plutonium for two weapons, it says. Mr Bush said yesterday that he would be \"more than happy to enter into a dialogue\" with North Korea and Iran if the countries \"make [the] right decisions\". \"A wrong decision will be to continue to export weapons of mass destruction, and I certainly hope that North Korea, for example, listens to what we suggested,\" he told reporters during a meeting at the White House with King Abdullah of Jordan.",
+    "keywords": [
+        "selling",
+        "continued",
+        "ballistic",
+        "korea",
+        "missiles",
+        "report",
+        "weapons",
+        "technology",
+        "missile",
+        "countries",
+        "pyongyang",
+        "north"
+    ],
+    "summary": "\"Pyongyang [the capital] attaches a high priority to the development and sale of ballistic missiles, equipment and related technology,\" the report says.\n\"North Korea continued to export significant ballistic missile-related equipment, components, materials and technical expertise to countries in the Middle East, south Asia and north Africa.\"\nIn his speech on Tuesday in which North Korea was singled out for condemnation, along with Iran and Iraq, Mr Bush said that Pyongyang was \"a regime arming with missiles and weapons of mass destruction while starving its citizens\".\nThe CIA report says that exports of ballistic missile technology are \"one of [North Korea's] major sources of hard currency, which fuel continued missile development and production\".\nMr Bush said yesterday that he would be \"more than happy to enter into a dialogue\" with North Korea and Iran if the countries \"make [the] right decisions\".",
+    "sentiment": {
+        "neg": 0.0727,
+        "neu": 0.8861,
+        "pos": 0.0412,
+        "compound": -0.1455
+    }
+}

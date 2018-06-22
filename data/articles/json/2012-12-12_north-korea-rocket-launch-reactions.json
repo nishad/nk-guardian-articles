@@ -1,0 +1,31 @@
+{
+    "date": "2012-12-12T14:46:00Z",
+    "title": "North Korea still has long way to go to produce viable weapon, say experts",
+    "url": "https://www.theguardian.com/world/2012/dec/12/north-korea-rocket-launch-reactions",
+    "content": "After four failed rocket launches, the success of North Korea's latest attempt will have greatly heartened the regime \u2013 and alarmed other powers. Pyongyang said it was launching a satellite to help track the weather and gather data, such as information on crop conditions. But because the launch technology is so similar to that required for a ballistic missile, the effort has been widely condemned as part of its weapon development programme. \"Clearly this is much more successful than their last attempt,\" Jonathan McDowell of the Harvard-Smithsonian Centre for Astrophysics told Associated Press. \"It's at least as good as they've ever done. They've proved the basic design of it.\" He said success would be defined as \"something that completes at least one orbit of the Earth\". Analysts suggest that while Pyongyang is celebrating the launch, it still has a long way to go. \"From past launches, we knew that North Korea has been able to build or buy working components for a rocket. The main difficulty is getting all the parts to work together and at the same time, given the enormous complexity of rockets,\" wrote David Wright, co-director of the Union of Concerned Scientists. \"Even with this success, North Korea has no confidence in the reliability of the rocket, which undermines its utility for military purposes. Politically, however, the launch will very likely have an impact on the way other countries view North Korea.\" The country has been working on its missile programme for years, seeing it \"both an investment in its security and a means of generating cash\", says the Nuclear Threat Initiative, a non-proliferation thinktank. The Unha-3 rocket is a three-stage \"carrier rocket\", which experts believe has a range of around 10,000 kilometres. The four previous launches, the first of which took place in 1998, had failed at different stages of the process, suggesting to some that the country was struggling to make consistent progress. In 2009 the first two stages succeeded and North Korea later announced it had actually put a satellite into orbit \u2013 a claim dismissed by experts and other countries. In April's attempt, the first stage failed around 90 seconds after launch. But mastering successful launch technology is only part of the challenge North Korea faces. The country has already conducted two nuclear tests. In 2009 it claimed it had weaponised enough plutonium for four or five warheads and the following year it unveiled a uranium enrichment programme. But mounting devices on a missile is another issue. Last year, the then US defence secretary, Robert Gates, suggested North Korea was becoming a direct threat to the US \u2013 not simply a danger through proliferation \u2013 and would develop an intercontinental ballistic missile within five years. Proliferation experts questioned that prediction. \"A successful launch puts North Korea closer to the capability to deploy a weaponised missile,\" said Denny Roy, a senior fellow at the East-West Centre in Hawaii, told Reuters. \"But this would still require fitting a weapon to the missile and ensuring a reasonable degree of accuracy. The North Koreans probably do not yet have a nuclear weapon small enough for a missile to carry.\"",
+    "keywords": [
+        "weapon",
+        "launch",
+        "korea",
+        "experts",
+        "viable",
+        "success",
+        "produce",
+        "way",
+        "nuclear",
+        "missile",
+        "say",
+        "long",
+        "successful",
+        "programme",
+        "rocket",
+        "north"
+    ],
+    "summary": "\"From past launches, we knew that North Korea has been able to build or buy working components for a rocket.\n\"Even with this success, North Korea has no confidence in the reliability of the rocket, which undermines its utility for military purposes.\nPolitically, however, the launch will very likely have an impact on the way other countries view North Korea.\"\nIn 2009 the first two stages succeeded and North Korea later announced it had actually put a satellite into orbit \u2013 a claim dismissed by experts and other countries.\nBut mastering successful launch technology is only part of the challenge North Korea faces.",
+    "sentiment": {
+        "neg": 0.0671,
+        "neu": 0.8408,
+        "pos": 0.0922,
+        "compound": 0.0783
+    }
+}

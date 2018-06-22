@@ -1,0 +1,29 @@
+{
+    "date": "2015-04-17T10:27:52Z",
+    "title": "WikiLeaks republishes all Sony hacking scandal documents",
+    "url": "https://www.theguardian.com/technology/2015/apr/16/wikileaks-documents-sony-hacking-school",
+    "content": "WikiLeaks has republished the Sony data from last year\u2019s hacking scandal, making all the documents and emails \u201cfully searchable\u201d with a Google-style search engine. The move provides much easier access to the stolen information. Searching the name of, for example, former Sony Pictures chief Amy Pascal, whose controversial comments were revealed by the hack, immediately yields nearly 5,700 results. Julian Assange, WikiLeaks\u2019 editor-in-chief, said: \u201cThis archive shows the inner workings of an influential multinational corporation. It is newsworthy and at the centre of a geopolitical conflict. It belongs in the public domain. WikiLeaks will ensure it stays there.\u201d But Sony accused WikiLeaks of contributing to the damage done by the data theft, which it condemned as \u201ca malicious criminal act.\u201d \u201cThe attackers used the dissemination of stolen information to try to harm SPE and its employees, and now WikiLeaks regrettably is assisting them in that effort,\u201d a Sony spokesperson wrote in an unbylined statement. \u201cWe vehemently disagree with WikiLeaks\u2019 assertion that this material belongs in the public domain and will continue to fight for the safety, security, and privacy of our company and its more than 6,000 employees.\u201d Former senator Chris Dodd, chairman of the MPAA, also spoke out against the republication of the material. \u201cThis information was stolen from Sony Pictures as part of an illegal and unprecedented cyberattack,\u201d he wrote in a press statement. \u201cWikileaks is not performing a public service by making this information easily searchable. Instead, with this despicable act, Wikileaks is further violating the privacy of every person involved.\u201d WikiLeaks said the stolen files shed light on cooperation between government agencies and entertainers. \u201cThe connections and alignments between Sony Pictures Entertainment and the Democratic party are detailed through the archives, including SPE\u2019s CEO [Michael] Lynton attending dinner with President Obama at Martha\u2019s Vineyard and Sony employees being part of fundraising dinners for the Democratic party.\u201d The hacked Sony documents were originally not much more than hard-drive images converted into common compressed file formats, meaning that anyone curious about the information could download it from a filesharing service like BitTorrent. But, if interested in company emails or financial data, users needed to wade through spreadsheet-like directory trees or run memory-taxing searches stretching the abilities of most personal computers. The files, in total, comprised several terabytes of material, including video ranging from movies to high-resolution promotional spots. The video material appears to have been redacted from the searchable files on WikiLeaks. The new site removes the processing burden from users\u2019 PCs and means that anyone will be able to look through the data available with a minimum of trouble. It is possible there is information there that no one has publicized before because of the difficulty of searching through the original leaks. A group calling itself Guardians of Peace distributed the files originally in November last year by seeding the files to peer-to-peer filesharing services across the internet; the files spread quickly and affected the release schedule for several movies, in particular the Seth Rogen-James Franco comedy The Interview, which made fun of North Korean leader Kim Jong-un. US intelligence officials asserted that the hack was sponsored by North Korea, something other experts have cast doubt upon.",
+    "keywords": [
+        "sony",
+        "wikileaks",
+        "hacking",
+        "public",
+        "scandal",
+        "documents",
+        "pictures",
+        "republishes",
+        "information",
+        "files",
+        "data",
+        "searchable",
+        "material",
+        "stolen"
+    ],
+    "summary": "WikiLeaks has republished the Sony data from last year\u2019s hacking scandal, making all the documents and emails \u201cfully searchable\u201d with a Google-style search engine.\nThe move provides much easier access to the stolen information.\nSearching the name of, for example, former Sony Pictures chief Amy Pascal, whose controversial comments were revealed by the hack, immediately yields nearly 5,700 results.\n\u201cThis information was stolen from Sony Pictures as part of an illegal and unprecedented cyberattack,\u201d he wrote in a press statement.\nInstead, with this despicable act, Wikileaks is further violating the privacy of every person involved.\u201d WikiLeaks said the stolen files shed light on cooperation between government agencies and entertainers.",
+    "sentiment": {
+        "neg": 0.1098,
+        "neu": 0.8168,
+        "pos": 0.0735,
+        "compound": -0.0669
+    }
+}

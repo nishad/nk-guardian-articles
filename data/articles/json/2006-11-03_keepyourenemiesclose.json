@@ -1,0 +1,27 @@
+{
+    "date": "2006-11-03T12:52:56Z",
+    "title": "Armed and dangerous",
+    "url": "https://www.theguardian.com/commentisfree/2006/nov/03/keepyourenemiesclose",
+    "content": "President Bush. Photographer: Dan Chung A poll published this morning in the Guardian reveals that America's closest ally views the president as a greater threat to world peace than either Kim Jong-il or Mahmoud Ahmedinejad - the leaders of two-thirds of George Bush's infamous \"axis of evil\". Sixty-nine per cent of British respondents, meanwhile, felt Bush's foreign policy has made the world less safe. What do you think?",
+    "keywords": [
+        "think",
+        "reveals",
+        "world",
+        "views",
+        "twothirds",
+        "threat",
+        "president",
+        "bushs",
+        "safe",
+        "dangerous",
+        "armed",
+        "sixtynine"
+    ],
+    "summary": "President Bush.\nPhotographer: Dan Chung A poll published this morning in the Guardian reveals that America's closest ally views the president as a greater threat to world peace than either Kim Jong-il or Mahmoud Ahmedinejad - the leaders of two-thirds of George Bush's infamous \"axis of evil\".\nSixty-nine per cent of British respondents, meanwhile, felt Bush's foreign policy has made the world less safe.\nWhat do you think?",
+    "sentiment": {
+        "neg": 0.0175,
+        "neu": 0.9165,
+        "pos": 0.066,
+        "compound": 0.1912
+    }
+}

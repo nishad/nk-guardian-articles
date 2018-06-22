@@ -1,0 +1,31 @@
+{
+    "date": "2013-04-11T13:33:00Z",
+    "title": "North Korea v South Korea: mapping every incident from 1958 to 2013",
+    "url": "https://www.theguardian.com/news/datablog/2010/nov/23/north-korea-yeonpyeong-island-incidents-map",
+    "content": "Tensions between North and South Korea are at a high, as the US and Seoul brace themselves for a missile test. There is a history of flare-ups in the area: two South Korean marines died in 2010 after North Korea fired shells at the South Korean island of Yeonpyeong. South Korea's Joint Chief of Staff said 16 others were injured during the bombardment of the island, which is located near the countries' disputed western border. This is obviously not the first time this has happened - there have been over 150 incidents since the Korean War in 1950, that we know about. The reason we do know about these is because of an exhaustive report by the Congressional Research Service, published in 2007. It covers every incident, from diplomatic hostilities, through to the more serious events where people have died. Some of these events have occured around the world. We wanted to map those events, using Google Fusion tables - and that's what you can see above. There are some hefty caveats here. Where we didn't know the precise location, we have made an educated guess, based on reports and the location details we do have. The other thing worth noting is that this was compiled in the US - a report compiled in Pyongyang would look very very different. This is just a starting point. What can you add to the data? Download the data \u2022 DATA: download the full spreadsheet NEW! Buy our book \u2022 Facts are Sacred: the power of data More open data Data journalism and data visualisations from the Guardian World government data \u2022 Search the world's government data with our gateway Development and aid data \u2022 Search the world's global development data with our gateway Can you do something with this data? \u2022 Flickr Please post your visualisations and mash-ups on our Flickr group \u2022 Contact us at data@guardian.co.uk \u2022 Get the A-Z of data \u2022 More at the Datastore directory \u2022 Follow us on Twitter \u2022 Like us on Facebook",
+    "keywords": [
+        "1958",
+        "south",
+        "worlds",
+        "korea",
+        "world",
+        "events",
+        "visualisations",
+        "incident",
+        "report",
+        "data",
+        "know",
+        "search",
+        "v",
+        "mapping",
+        "north",
+        "korean"
+    ],
+    "summary": "Tensions between North and South Korea are at a high, as the US and Seoul brace themselves for a missile test.\nThere is a history of flare-ups in the area: two South Korean marines died in 2010 after North Korea fired shells at the South Korean island of Yeonpyeong.\nIt covers every incident, from diplomatic hostilities, through to the more serious events where people have died.\nDownload the data \u2022 DATA: download the full spreadsheet NEW!\nBuy our book \u2022 Facts are Sacred: the power of data More open data Data journalism and data visualisations from the Guardian World government data \u2022 Search the world's government data with our gateway Development and aid data \u2022 Search the world's global development data with our gateway Can you do something with this data?",
+    "sentiment": {
+        "neg": 0.0691,
+        "neu": 0.9173,
+        "pos": 0.0136,
+        "compound": -0.1594
+    }
+}

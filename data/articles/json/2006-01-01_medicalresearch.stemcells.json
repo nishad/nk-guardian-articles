@@ -1,0 +1,28 @@
+{
+    "date": "2006-01-01T09:26:00Z",
+    "title": "Scientists forced back to the drawing board",
+    "url": "https://www.theguardian.com/science/2006/jan/01/medicalresearch.stemcells",
+    "content": "The aim of Hwang Woo-suk and his colleagues was simple. By making cloned embryos of adult humans, they would create a source of cells that could replace damaged or lost tissue. The ravaged brains of Alzheimer's victims would one day be provided with new nerve cells; diabetics would be given pancreatic cells to replace those killed off by their condition; and victims of cardiac disease would be treated with fresh heart muscle cells.The promise was immense. The trouble is that apart from Hwang's, few scientific groups have so far produced much in the way of results that could, in any way, be described as encouraging. Most stem-cell scientists were following his lead. 'Researchers now face a long slog to rebuild the foundations of their field,' as a special report in Nature, the international journal which has been painstaking in its pursuit of the Korean scientist, put it last week. Hwang's team had claimed two world firsts: the cloning of human embryos in 2004, and a year later, the extraction of lines of stem cells from these clones. The latter 'breakthrough' was crucial. Stem cells are the progenitors of all the body's different tissues, including skin, heart, brain and liver cells. Thus Hwang appeared to have opened up the route to a true scientific breakthrough. One day in the near future, scientists could use an individual's skin cells to make a cloned embryo and from that extract kidney, liver or heart stem cells. These could replace diseased tissue. The problem of organ rejection would not arise, as an individual's own cells would be the object of the transplant. It was immensely encouraging work. However, with the revelation that Hwang has now 'lost confidence' in his studies, those hopes have been dashed. 'The loss of confidence in [Hwang's] 2005 study leaves scientists with no proof that adult cells can be cloned - let alone used to produce stem cells,' as Nature puts it. Hwang also appears to have diverted scientists from other approaches that might have produced crucial developments. 'His results shifted the research focus on to emulating his work,' complained Alison Murdoch, the Newcastle University researcher who leads Britain's cloning efforts. As she and her fellow workers point out, young researchers have flocked to Hwang's laboratory to learn his methods and had been preparing to emulate his techniques. Their time now looks as if it was wasted. As Kevin Eggan of Harvard University put it: 'We're back to wondering whether cloning can be done in humans. This is an enormous setback.' Indeed, the picture is particularly worrying because human stem-cell research is banned or restricted in most countries around the world, including the United States. Outside Britain, Scandinavia, Japan and South Africa, South Korea represented a beacon of considerable scientific hope. Or at least, it did.",
+    "keywords": [
+        "scientific",
+        "replace",
+        "cells",
+        "hwangs",
+        "cloned",
+        "hwang",
+        "heart",
+        "cloning",
+        "scientists",
+        "board",
+        "drawing",
+        "forced",
+        "stem"
+    ],
+    "summary": "By making cloned embryos of adult humans, they would create a source of cells that could replace damaged or lost tissue.\nStem cells are the progenitors of all the body's different tissues, including skin, heart, brain and liver cells.\nOne day in the near future, scientists could use an individual's skin cells to make a cloned embryo and from that extract kidney, liver or heart stem cells.\n'The loss of confidence in [Hwang's] 2005 study leaves scientists with no proof that adult cells can be cloned - let alone used to produce stem cells,' as Nature puts it.\nHwang also appears to have diverted scientists from other approaches that might have produced crucial developments.",
+    "sentiment": {
+        "neg": 0.0665,
+        "neu": 0.869,
+        "pos": 0.0645,
+        "compound": -0.0476
+    }
+}

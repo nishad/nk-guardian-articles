@@ -1,0 +1,29 @@
+{
+    "date": "2003-01-13T15:45:51Z",
+    "title": "What the south-east Asian papers say",
+    "url": "https://www.theguardian.com/world/2003/jan/13/northkorea2",
+    "content": "As the most likely direct targets of any possible military action from North Korea, the Japanese and South Korean papers reflect a good deal of tension over the standoff on North Korea's nuclear programme. Japan's Asahi Shimbun fears that North Korea could be pushing itself into a dangerously isolationist position, particularly at a time when millions of its citizens require food aid to avoid starvation. \"North Korean leader Kim Jong-il is playing a dangerous game of brinkmanship if he is adopting a hard-line strategy because he thinks that the US cannot confront him as it is fully occupied with Iraq. If this political game goes too far, North Korea may be trapped in a showdown,\" the paper says in a leader column. The Daily Yomiuri reports that Japan's prime minister, Junichiro Koizumi - in Russia to meet with federal affairs representative Konstantin Pulikovskii, - said North Korea would need to cancel its withdrawal from the nuclear non-proliferation treaty before fuel shipments could resume. However, the paper says that Mr Pulikovskii, who is said to have close ties to both the North Korean leader and the Russian president, had insisted that North Korea wanted the fuel first. \"North Korea's energy problem is catastrophic,\" the paper quotes Mr Pulikovskii as saying. \"If the energy problem is resolved, the nuclear issue will be addressed.\" The South Korean papers feel unsure whether North Korea is simply playing hardball for diplomatic advantage or if it really intends to push the situation into a military confrontation. The South Korean JoongAng Daily blames the North's \"misjudgement of international affairs\" on \"an extremely poor understanding of the United States\", which the paper explains behaves far differently after September 11 than it did before. The paper urges the North to seek international help in drawing the US into negotiations. \"[North Korea] has brought complete isolation onto itself; even China's president, Jiang Zemin, turns his back. North Korea must not find an ally in South Korea, since South Koreans will never accept nuclear weapons development in the North. Seoul must make that point crystal clear,\" the paper argues. The Korea Times urges North Korea to pull back from the brink. \"The dictatorial leadership of Pyongyang should understand that the massive rally of one million citizens staged in Kim Il-sung Square in support of withdrawal from the nuclear non-proliferation treaty made the people of the world's blood run cold. If North Korea continues to act recklessly, jeopardising the world peace and stability, such as making its latest threat to resume its missile launch test, the US will be able to secure its right to punish it under the name of the UN.\"",
+    "keywords": [
+        "papers",
+        "south",
+        "leader",
+        "korea",
+        "southeast",
+        "nuclear",
+        "paper",
+        "withdrawal",
+        "asian",
+        "say",
+        "urges",
+        "pulikovskii",
+        "north",
+        "korean"
+    ],
+    "summary": "Japan's Asahi Shimbun fears that North Korea could be pushing itself into a dangerously isolationist position, particularly at a time when millions of its citizens require food aid to avoid starvation.\nThe South Korean papers feel unsure whether North Korea is simply playing hardball for diplomatic advantage or if it really intends to push the situation into a military confrontation.\n\"[North Korea] has brought complete isolation onto itself; even China's president, Jiang Zemin, turns his back.\nNorth Korea must not find an ally in South Korea, since South Koreans will never accept nuclear weapons development in the North.\nThe Korea Times urges North Korea to pull back from the brink.",
+    "sentiment": {
+        "neg": 0.1064,
+        "neu": 0.8184,
+        "pos": 0.0753,
+        "compound": -0.1432
+    }
+}

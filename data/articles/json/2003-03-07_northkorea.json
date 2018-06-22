@@ -1,0 +1,27 @@
+{
+    "date": "2003-03-07T14:46:49Z",
+    "title": "North Korea: US intends to attack us",
+    "url": "https://www.theguardian.com/world/2003/mar/07/northkorea",
+    "content": "North Korea today said that the US president, George Bush, signalled his intention to attack its nuclear facilities by saying he had not ruled out military force. KCNA, the North's state-run news agency, said Mr Bush's remarks to US newspaper journalists on Monday were \"little short of a signal to go into action\". \"It is an undisguised revelation of the US intention to make a pre-emptive strike at [North Korea's] nuclear facilities,\" it said. Mr Bush was asked by the journalists about the success of a diplomatic effort aimed at ending Pyongyang's stand-off with Washington. \"It's in process,\" he replied. \"If they don't work diplomatically, they'll have to work militarily. And military option is our last choice. \"Options are on the table, but I believe we can deal with this diplomatically. I truly do.\" The president made no mention of the \"military option\" last night in a televised press conference dealing mainly with the Iraq crisis. He said the US was pursuing multilateral diplomacy to convince Russia, South Korea, China and Japan they had a \"stake\" in the prospect of a nuclear-armed North because bilateral negotiations had failed. \"Those nations [...] must stand up to their responsibility, along with the United States, to convince Kim Jong-il that the development of a nuclear arsenal is not in his nation's interest; and that should he want help in easing the suffering of the North Korean people, the best way to achieve that help is to not proceed forward,\" he said. \"We've tried bilateral negotiations with North Korea. My predecessor, in a good-faith effort, entered into a framework agreement. The United States honoured its side of the agreement; North Korea didn't. While we felt the agreement was in force, North Korea was enriching uranium.\" North Korea had no immediate comment on Mr Bush's remarks on multilateral dialogue. It has previously insisted on direct US-North Korean talks on the issue. The current stand-off over North Korea's nuclear capabilities began with an oil embargo imposed by the US after a Pyongyang official admitted it had a secret uranium enrichment programme. North Korea then expelled UN monitors, gave notice that it was to withdraw from the nuclear non-proliferation treaty and re-started a plutonium reactor it had mothballed under a 1994 agreement with the then US president, Bill Clinton, in return for fuel aid and an alternative civilian nuclear power programme. Pyongyang insisted it was resuming use of the Yongbyon reactor to meet its energy needs but Washington said it was part of a covert nuclear weapons programme using spent plutonium fuel rods. Rodong Sinmun, the North's main newspaper, today dismissed the US concerns and reiterated that its nuclear activities were for the production of electricity. \"As far as North Korea's operation of its nuclear facilities is concerned, there is nothing to arouse US concern nor is there anything to cause the international community to worry about it,\" it said",
+    "keywords": [
+        "mr",
+        "military",
+        "korea",
+        "president",
+        "nuclear",
+        "facilities",
+        "intends",
+        "agreement",
+        "koreas",
+        "programme",
+        "north",
+        "attack"
+    ],
+    "summary": "North Korea today said that the US president, George Bush, signalled his intention to attack its nuclear facilities by saying he had not ruled out military force.\n\"It is an undisguised revelation of the US intention to make a pre-emptive strike at [North Korea's] nuclear facilities,\" it said.\n\"We've tried bilateral negotiations with North Korea.\nThe United States honoured its side of the agreement; North Korea didn't.\nWhile we felt the agreement was in force, North Korea was enriching uranium.\"",
+    "sentiment": {
+        "neg": 0.0436,
+        "neu": 0.8491,
+        "pos": 0.1074,
+        "compound": 0.0647
+    }
+}

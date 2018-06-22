@@ -1,0 +1,28 @@
+{
+    "date": "2009-07-21T17:00:42Z",
+    "title": "Burma suspected of nuclear link with North Korea",
+    "url": "https://www.theguardian.com/world/2009/jul/21/burma-north-korea-nuclear-clinton",
+    "content": "Hillary Clinton today expressed concern over military links between North Korea and Burma, after evidence emerged that the Burmese junta may be trying to acquire nuclear technology from Pyongyang. Experts said there is no proof of a Burmese nuclear programme but pointed to worrying signs. The Burmese military has been doing business with a North Korean company that specialises in nuclear technology. The junta has also made suspicious purchases of sophisticated dual-use equipment. A North Korean ship suspected of heading to Burma with an unknown cargo turned back after being shadowed by American warships earlier this month. Finally, reports have emerged of a secret visit by senior Burmese officials to North Korea late last year. \"We know that there are also growing concerns about military co-operation between North Korea and Burma, which we take very seriously,\" Clinton, the US secretary of state, told journalists in Bangkok. \"It would be destabilising for the region. It would pose a direct threat to Burma's neighbours.\" David Albright, the head of the Washington-based Institute for Science and International Security, which specialises in monitoring nuclear proliferation, said: \"There's no hard evidence, just suspicions right now. We're watching it.\" Albright said one of the principal causes of suspicion was the link between the Burmese military and a North Korean firm, Namchongang Trading Corp (NCG), which is under UN and US sanctions for its role in trading in nuclear technology. NCG set up an office in Damascus, and western officials have alleged the company channelled equipment and materials towards the construction of a nuclear reactor in Syria which was destroyed by an Israeli air raid in September 2007. NCG's chief executive is Yun Ho-jin, a nuclear expert who was once North Korea's delegate to the International Atomic Energy Agency. Albright said Burma had also attempted to acquire suspicious technology. \"This is hi-tech equipment, capable of making very high precision components. It has other end uses, but it's hard to see why else Burma would be buying it,\" he said. Last month, Japan arrested one North Korean and two Japanese businessmen for attempting to export a magnetometer (a device for measuring magnetic fields) to Burma. Magnetometers can be used in archaeology and geophysics, but they are also a critical component in missile guidance systems. Two years ago, the Burmese junta made an overt attempt to begin a nuclear programme. It signed an agreement with Russian atomic agency Rosatom for the construction of a 10-megawatt research reactor, but the deal stalled, possibly as a result of diplomatic pressure on Moscow. US officials fear Burma may have decided to pursue a covert route through Pyongyang. Earlier this month, a North Korean freighter, the Kang Nam I, which had made previous trips to Burma, was shadowed at sea by the US navy until it reversed course. It remains unclear what its freight was, and US officials were reluctant to board it, fearing it might be an empty decoy designed to embarrass Washington. The Associated Press today quoted a South Korean intelligence expert as saying satellite images suggested the Kang Nam I was carrying equipment for a nuclear programme and Scud-type missiles. Recent reports in Burmese exile media have spoken of a military pact late last year between the two countries, including the construction of underground installations, but the existence of such a pact has yet to be publicly confirmed.",
+    "keywords": [
+        "suspected",
+        "military",
+        "korea",
+        "burma",
+        "nuclear",
+        "programme",
+        "link",
+        "technology",
+        "burmese",
+        "officials",
+        "equipment",
+        "north",
+        "korean"
+    ],
+    "summary": "Hillary Clinton today expressed concern over military links between North Korea and Burma, after evidence emerged that the Burmese junta may be trying to acquire nuclear technology from Pyongyang.\nExperts said there is no proof of a Burmese nuclear programme but pointed to worrying signs.\nThe Burmese military has been doing business with a North Korean company that specialises in nuclear technology.\nA North Korean ship suspected of heading to Burma with an unknown cargo turned back after being shadowed by American warships earlier this month.\nFinally, reports have emerged of a secret visit by senior Burmese officials to North Korea late last year.",
+    "sentiment": {
+        "neg": 0.097,
+        "neu": 0.8704,
+        "pos": 0.0326,
+        "compound": -0.1682
+    }
+}

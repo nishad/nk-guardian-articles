@@ -1,0 +1,31 @@
+{
+    "date": "2016-03-11T12:00:01Z",
+    "title": "Edward Snowden, Pussy Riot and Ai Weiwei protest cyber censorship",
+    "url": "https://www.theguardian.com/world/2016/mar/11/edward-snowden-pussy-riot-ai-weiwei-protest-cyber-censorship",
+    "content": "Prominent activists ranging from Edward Snowden to Pussy Riot plan on Friday to spread online protests against growing government restrictions on citizens\u2019 expression, marking an annual world day against cyber censorship. In one message, Snowden, who has been in self-imposed exile in Russia since 2013 after revealing via the Guardian that the US government ran secret and illegal domestic and international surveillance programmes, will tell the public: \u201cEven if you\u2019re not doing anything wrong, you\u2019re being watched and recorded.\u201d The Chinese artist Ai Weiwei will also take part. One of his messages will read: \u201cWithout freedom of speech there is no modern world, just a barbaric one.\u201d Ai has long suffered from various forms of oppression and censorship by China\u2019s government. Other messages will be published from citizens of North Korea. Amnesty International says North Korea subjects its people to the highest levels of censorship in the world, with the vast majority of citizens denied any access to the internet. The online messages are part of activities to mark World Day Against Cyber Censorship, an annual online event started in 2008 by Reporters Without Borders and Amnesty International. This year, Amnesty has teamed up with the controversial online advertisement-blocking company AdBlock to bring activists\u2019 voices to the public. On Friday, when users of AdBlock begin browsing online they will be presented with an announcement asking if they would like to see messages from Amnesty International where ads would normally appear, if they were not blocked. According to a statement from Amnesty International, if users click through, they will see the notes written by the activists as well as content from ordinary people \u201cwhom governments have tried to silence\u201d. \u201cAuthorities don\u2019t just use handcuffs and arrests but also media attacks,\u201d the message from Pussy Riot will read. Pussy Riot, an activist female punk collective that has had frequent high-profile run-ins with Russian authorities, released its latest protest song last month. Many governments around the world are \u201cavidly\u201d seeking to control \u201cever greater\u201d aspects of their citizens\u2019 online communication, Amnesty warned on Friday, while some seek laws empowering their authorities to carry out intrusive mass surveillance while censoring what people see online. \u201cOthers are trying to acquire technologies that allow them to spy on people, hack their devices or censor free expression online,\u201d the Amnesty statement said. In 2015, Amnesty recorded people being arrested in more than 16 countries for saying or doing online what would in most countries be regarded as normal freedom of expression. \u201cSome states are engaged in Orwellian levels of surveillance, particularly targeting the lives and work of the people who defend our human rights \u2013 lawyers, journalists and peaceful activists,\u201d said Salil Shetty, Amnesty International secretary general. \u201cThis continuing development of new methods of repression in reaction to increased connectivity is a major threat to our freedom of expression.\u201d Gabriel Cubbage, chief executive of AdBlock, said the company would show Amnesty\u2019s online banners in place of ads to its 40 million users for one day only. The rise of advert blocking software has prompted great anxiety in the online news media, which relies on ad revenue, especially when content is free. The controversy over ad blocking does not seem to have deterred the likes of Snowden and Pussy Riot from participating in AdBlock\u2019s event with Amnesty.",
+    "keywords": [
+        "cyber",
+        "snowden",
+        "riot",
+        "amnesty",
+        "weiwei",
+        "world",
+        "online",
+        "expression",
+        "censorship",
+        "ai",
+        "pussy",
+        "protest",
+        "citizens",
+        "messages",
+        "edward",
+        "international"
+    ],
+    "summary": "Prominent activists ranging from Edward Snowden to Pussy Riot plan on Friday to spread online protests against growing government restrictions on citizens\u2019 expression, marking an annual world day against cyber censorship.\nThe online messages are part of activities to mark World Day Against Cyber Censorship, an annual online event started in 2008 by Reporters Without Borders and Amnesty International.\n\u201cAuthorities don\u2019t just use handcuffs and arrests but also media attacks,\u201d the message from Pussy Riot will read.\nPussy Riot, an activist female punk collective that has had frequent high-profile run-ins with Russian authorities, released its latest protest song last month.\nThe controversy over ad blocking does not seem to have deterred the likes of Snowden and Pussy Riot from participating in AdBlock\u2019s event with Amnesty.",
+    "sentiment": {
+        "neg": 0.0955,
+        "neu": 0.8318,
+        "pos": 0.0727,
+        "compound": -0.0451
+    }
+}

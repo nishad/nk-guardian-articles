@@ -1,0 +1,30 @@
+{
+    "date": "2018-06-14T20:30:08Z",
+    "title": "Spacewatch: Japan's new 'spy cam' cuts through the clouds",
+    "url": "https://www.theguardian.com/science/2018/jun/14/spacewatch-japans-new-spy-cam-cuts-through-the-clouds",
+    "content": "This month Japan launched the 16th mission in its spy satellites programme, using the IGS Radar 6 spacecraft, part of the information gathering satellite scheme run by the country\u2019s intelligence agency. This programme consists of optical and radar spacecraft, and supports civilian disaster management services as well as supplying information to the Japanese military. The radar aspect allows surveillance images to be taken through clouds. The IGS satellite, built by Mitsubishi Electric, was carried into orbit by a H-IIA rocket from the Yoshinobu launch complex at the Tanegashima Space Centre, lifting off at 13:20 local time (05:20 BST) on 12 June. The first IGS satellites \u2013 one optical and one radar \u2013 were deployed into orbit in March 2003 and Japan has maintained a steady rate of launches ever since. This week\u2019s launch comes just over three months after the last IGS launch, when an optical spy satellite, IGS Optical 6, was sent into orbit. The programme itself began in 1998 in response to North Korea\u2019s attempt to launch its first satellite, Kwangmy\u014fngs\u014fng-1 (meaning Bright Star). Although that satellite failed to get into orbit the rocket flew over Japan, proving that the country would be within reach of North Korean missiles.",
+    "keywords": [
+        "clouds",
+        "cam",
+        "launch",
+        "spacecraft",
+        "japans",
+        "optical",
+        "cuts",
+        "japan",
+        "programme",
+        "igs",
+        "spy",
+        "radar",
+        "satellite",
+        "orbit",
+        "spacewatch"
+    ],
+    "summary": "This month Japan launched the 16th mission in its spy satellites programme, using the IGS Radar 6 spacecraft, part of the information gathering satellite scheme run by the country\u2019s intelligence agency.\nThis programme consists of optical and radar spacecraft, and supports civilian disaster management services as well as supplying information to the Japanese military.\nThis week\u2019s launch comes just over three months after the last IGS launch, when an optical spy satellite, IGS Optical 6, was sent into orbit.\nThe programme itself began in 1998 in response to North Korea\u2019s attempt to launch its first satellite, Kwangmy\u014fngs\u014fng-1 (meaning Bright Star).\nAlthough that satellite failed to get into orbit the rocket flew over Japan, proving that the country would be within reach of North Korean missiles.",
+    "sentiment": {
+        "neg": 0.0329,
+        "neu": 0.9085,
+        "pos": 0.0585,
+        "compound": 0.047
+    }
+}

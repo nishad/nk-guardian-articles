@@ -1,0 +1,26 @@
+{
+    "date": "2000-06-15T13:19:03Z",
+    "title": "When Kim met Kim",
+    "url": "https://www.theguardian.com/world/2000/jun/15/northkorea2",
+    "content": "A conversation between the two leaders which was staged for the the cameras before yesterday's summit Kim Jong-il (KJI): Did you sleep well last night? Kim Dae-jung (KDJ): I slept well. I even had naengmyon [cold noodles] at Okryugwan restaurant. KJI: I hope you weren't rushed at lunch. You won't be able to fully appreciate the taste of naegnmyon if you hurry. KDJ: I thank you for your warm welcome. I am sure the people in the South were surprised to see you come to greet me at the airport. KJI: Some Europeans have wondered why I am so reclusive. I am not such a great figure worthy to be called a recluse. The fact is I have made many secret trips to countries like China and Indonesia. How is it that people say I made a rare appearance to welcome you? I have been here and there without people knowing. Is the food to your liking? KDJ: The food is delicious.",
+    "keywords": [
+        "wont",
+        "met",
+        "kdj",
+        "yesterdays",
+        "worthy",
+        "kji",
+        "kim",
+        "werent",
+        "food",
+        "welcome",
+        "wondered"
+    ],
+    "summary": "A conversation between the two leaders which was staged for the the cameras before yesterday's summit Kim Jong-il (KJI): Did you sleep well last night?\nKim Dae-jung (KDJ): I slept well.\nYou won't be able to fully appreciate the taste of naegnmyon if you hurry.\nI am sure the people in the South were surprised to see you come to greet me at the airport.\nKDJ: The food is delicious.",
+    "sentiment": {
+        "neg": 0.0166,
+        "neu": 0.7484,
+        "pos": 0.235,
+        "compound": 0.3256
+    }
+}

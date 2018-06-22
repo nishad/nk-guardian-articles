@@ -1,0 +1,31 @@
+{
+    "date": "2014-12-23T17:29:43Z",
+    "title": "House Democrat seeks full details from Sony on sweeping cyber-attack",
+    "url": "https://www.theguardian.com/us-news/2014/dec/23/us-house-sony-pictures-cyber-attack",
+    "content": "The top Democrat on the powerful US House Oversight and Government Reform Committee has asked Sony Pictures Entertainment to hand over details of what he describes \u201cthe most damaging cyberattack ever inflicted on an American business.\u201d In a letter sent to Sony on Tuesday, Elijah Cummings \u2013 the committee\u2019s ranking minority member \u2013 requested information about the hack, which compromised the personal information of more than 47,000 current and former employees as well as revealing embarrassing emails from the studio\u2019s top executives. \u201cThe increasing number and sophistication of cyber attacks on both public and private entities pose a clear and present danger to our national security and highlight the urgent need for greater collaboration to improve data security\u201d, wrote Cummings. \u201cSony\u2019s knowledge, information, and experience will be helpful as Congress examines federal cybersecurity laws and any necessary improvements to protect sensitive consumer and government financial information.\u201d Cummings has requested detailed descriptions of previous data breaches Sony has suffered as well as more information about how the hack has affected current and former employees. He also asked for an assessment as to \u201cwhy the breaches went undetected for the length of time they did.\u201d He has also requested a briefing by 19 January from Sony\u2019s chief information security officer or similar top IT executive. Last week the FBI said the attack on Sony was conducted by the government of North Korea. The hackers, calling themselves Guardians of Peace, linked the attack to Sony\u2019s release of The Interview, a comedy depicting the assassination of North Korean leader Kim Jong-un. North Korea has denied involvement. Cummings wrote that the attack was even more notable because of the threats of violence that accompanied it, including emails from the hackers threatening violence against movie theaters where operators intended to show the film. Reuters contributed to this report.",
+    "keywords": [
+        "sony",
+        "details",
+        "sonys",
+        "sweeping",
+        "house",
+        "democrat",
+        "seeks",
+        "cummings",
+        "wrote",
+        "cyberattack",
+        "information",
+        "security",
+        "requested",
+        "violence",
+        "north",
+        "attack"
+    ],
+    "summary": "\u201cThe increasing number and sophistication of cyber attacks on both public and private entities pose a clear and present danger to our national security and highlight the urgent need for greater collaboration to improve data security\u201d, wrote Cummings.\nHe also asked for an assessment as to \u201cwhy the breaches went undetected for the length of time they did.\u201d He has also requested a briefing by 19 January from Sony\u2019s chief information security officer or similar top IT executive.\nLast week the FBI said the attack on Sony was conducted by the government of North Korea.\nThe hackers, calling themselves Guardians of Peace, linked the attack to Sony\u2019s release of The Interview, a comedy depicting the assassination of North Korean leader Kim Jong-un.\nCummings wrote that the attack was even more notable because of the threats of violence that accompanied it, including emails from the hackers threatening violence against movie theaters where operators intended to show the film.",
+    "sentiment": {
+        "neg": 0.1579,
+        "neu": 0.7413,
+        "pos": 0.1008,
+        "compound": 0.0547
+    }
+}

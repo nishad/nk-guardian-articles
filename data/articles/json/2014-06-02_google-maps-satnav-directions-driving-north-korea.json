@@ -1,0 +1,29 @@
+{
+    "date": "2014-06-02T11:53:39Z",
+    "title": "Google Maps offers first satnav directions for driving in North Korea",
+    "url": "https://www.theguardian.com/world/2014/jun/02/google-maps-satnav-directions-driving-north-korea",
+    "content": "North Korea has strict controls on internal movement, a scarcity of private car owners, and almost no Internet users. Yet it now has satellite navigation for plotting driving and walking routes through Google Maps. The service is available through the web and mobile apps and allows users to calculate travel time by car or foot between points of interest in the Google database. It\u2019s limited to roads that have already been mapped out on the service. It\u2019s been over a year since Google began adding roads, buildings, railway lines and other data to its map of North Korea. The country had for years appeared as a grey void but that began to change when users were asked to help start building the map. \u201cWe encourage people from around the world to continue helping us improve the quality of these maps for everyone with Google Map Maker,\u201d the company said in January 2013. \u201cFrom this point forward, any further approved updates to the North Korean maps in Google Map Maker will also appear on Google Maps.\u201d As a result of that call for action, and perhaps additional information obtained by Google, users can now map routes, though its is unlikely that anyone inside North Korea would actually be able to use it. The Android app provides step-by-step instructions for the drive from the capital, Pyongyang, to the industrial complex at Kaesong, which apparently takes a little under two hours assuming an average speed of around 105 kilometres per hour \u2013 perhaps a little ambitious, although traffic hold ups shouldn\u2019t be a problem. While the system appears to have data about many of the major roads in North Korea, it doesn\u2019t contain any information about border crossings. Asking for routes to both Seoul and Beijing resulted in failure. While Google Maps shows railway lines, tram lines in Pyongyang, the Pyongyang Metro and Sunan airport, there\u2019s no timetable data in the system, which means that public transport searches also result in failure. Google Maps even marks some of North Korea's most sinister sites, including Yodok concentration camp, where horrific abuses take place, according to the few who have managed to escape. Because you can map from any known point to another, people outside the secretive state can plot a route on foot from the camp to the Chinese border \u2013 a journey that would take 81 hours if it was possible to travel along the major roads. While we\u2019re looking at Google Maps on the Korean peninsular, here\u2019s the directions to Panmunjon from Seoul: Google doesn\u2019t display any data for South Korea\u2019s civilian control zone (also known as the demilitarised zone or DMZ), the area by the border with North Korea that appears as a grey blank. The closest the system can get is Imjingak, and even then only public transport information is available. Due to South Korean security regulations, driving directions in the DMZ are not available via Google. The US-based company, which operates an office in Seoul, must obey South Korean law. It is free, however, to map areas in North Korea. A version of this article first appeared on North Korea Tech",
+    "keywords": [
+        "korea",
+        "roads",
+        "maps",
+        "system",
+        "directions",
+        "driving",
+        "users",
+        "data",
+        "satnav",
+        "map",
+        "google",
+        "offers",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea has strict controls on internal movement, a scarcity of private car owners, and almost no Internet users.\nYet it now has satellite navigation for plotting driving and walking routes through Google Maps.\nIt\u2019s been over a year since Google began adding roads, buildings, railway lines and other data to its map of North Korea.\nIt is free, however, to map areas in North Korea.\nA version of this article first appeared on North Korea Tech",
+    "sentiment": {
+        "neg": 0.0503,
+        "neu": 0.8951,
+        "pos": 0.0547,
+        "compound": 0.0321
+    }
+}

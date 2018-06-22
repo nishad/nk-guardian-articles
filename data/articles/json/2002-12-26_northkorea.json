@@ -1,0 +1,28 @@
+{
+    "date": "2002-12-26T15:01:17Z",
+    "title": "North Korea pushes ahead with nuclear programme",
+    "url": "https://www.theguardian.com/world/2002/dec/26/northkorea",
+    "content": "Tension increased on the Korean peninsula today as it emerged that North Korea was moving fresh fuel rods into a supposedly mothballed nuclear reactor. The outgoing president of South Korea, Kim Dea-Jung said his country \"could never go along with North Korea's weapons development\" and would work closely with the US \"to prevent a crisis\". North Korea says it is bringing the reactor back into service to meet demand for electricity, and accused the US of \"trying to stir up international public opinion\" by suggesting that the move is part of a nuclear weapons programme. State-run radio said the measure \"had nothing to do with plans to develop nuclear weapons\". The US says the extra electricity provision would be minimal, and told news agencies the moves were designed to pressure it into restarting talks. Last week, North Korea removed seals and international monitoring equipment from its nuclear facilities. On Christmas Eve, the International Atomic Energy Agency, a UN watchdog, said workers began moving 1,000 fresh fuel rods into a power plant at Yongbyon, 50 miles north of Pyongyang. The IAEA says it will take \"a month or two\" to get the reactor running again. The head of the IAEA, Mohamed El Baraei told CNN, \"The big worry (is) if they start to operate the reprocessing plant that will produce plutonium, which can be directly used to manufacture nuclear weapons - and there again we have no way to verify the nature of the activity. So the situation is very worrying.\" The US Senate foreign relations committee chairman said today that a military response from the US would be \"very inadvisable\". Sen Richard Lugar said \"our strategy should be one of multilateral engagement.\" Meanwhile, Russia has announced a deal with Iran to speed up development of an $800m nuclear reactor and to start talks on building another. Iran, along with Iraq and North Korea, constitute what the US president, George Bush, has dubbed the \"axis of evil\".",
+    "keywords": [
+        "start",
+        "korea",
+        "talks",
+        "nuclear",
+        "weapons",
+        "programme",
+        "told",
+        "today",
+        "ahead",
+        "pushes",
+        "reactor",
+        "north",
+        "international"
+    ],
+    "summary": "Tension increased on the Korean peninsula today as it emerged that North Korea was moving fresh fuel rods into a supposedly mothballed nuclear reactor.\nState-run radio said the measure \"had nothing to do with plans to develop nuclear weapons\".\nLast week, North Korea removed seals and international monitoring equipment from its nuclear facilities.\nMeanwhile, Russia has announced a deal with Iran to speed up development of an $800m nuclear reactor and to start talks on building another.\nIran, along with Iraq and North Korea, constitute what the US president, George Bush, has dubbed the \"axis of evil\".",
+    "sentiment": {
+        "neg": 0.0402,
+        "neu": 0.9305,
+        "pos": 0.0292,
+        "compound": -0.08
+    }
+}

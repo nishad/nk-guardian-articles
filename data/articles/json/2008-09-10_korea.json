@@ -1,0 +1,27 @@
+{
+    "date": "2008-09-10T23:01:00Z",
+    "title": "The question: Is Kim Jong-il still alive?",
+    "url": "https://www.theguardian.com/theguardian/2008/sep/11/korea",
+    "content": "According to professional Pyongyang watchers, the answer is ... probably. Most of the experts believe he is ill, some think seriously, while a maverick few suggest that North Korea's \"Dear Leader\" is just playing dead, to mess with our minds. A related question is: if Kim Jong-il was dead, how could we tell? After all, when his father, Kim Il-Sung, died in 1994, it was kept secret for 34 hours. Kim Jong-il is a secretive leader in a mysterious land. The 66-year-old dictator often drops out of sight for weeks at a time. On the other hand, he does not normally miss big military parades. Tuesday's fiesta marked the 60th anniversary of North Korea's founding by his dad, a pretty big day in the calendar. The state media was silent about his absence, and has not reported his whereabouts since mid-August. US intelligence officials have been quoted as saying he is gravely ill, possibly from a stroke. But then similarly anonymous officials were predicting Fidel Castro's imminent demise from cancer two years ago. History suggests it is quite hard to keep illustrious deaths a secret. The courtiers of China's first emperor, Qin Shihuangdi, are said to have managed for a month. Genghis Khan's passing, in the midst of a 13th-century military campaign in China, was also covered up for a while. The Ottoman sultan Suleiman the Magnificent also died in battle, and the news was withheld from his troops for seven weeks. In the days of 24-hour news, such discretion is near impossible. In all likelihood, the many western spy satellites pointing at North Korea would pick up signs of panic in the regime's upper echelons. There is no designated heir, since the Dear Leader's eldest son, Kim Jong-Nam, was plunged into disgrace after he was caught in 2001 trying to enter Japan on a forged passport, apparently in a bid to visit Tokyo's Disneyland.",
+    "keywords": [
+        "military",
+        "leader",
+        "alive",
+        "secret",
+        "kim",
+        "weeks",
+        "question",
+        "jongil",
+        "officials",
+        "ill",
+        "north",
+        "koreas"
+    ],
+    "summary": "Most of the experts believe he is ill, some think seriously, while a maverick few suggest that North Korea's \"Dear Leader\" is just playing dead, to mess with our minds.\nA related question is: if Kim Jong-il was dead, how could we tell?\nAfter all, when his father, Kim Il-Sung, died in 1994, it was kept secret for 34 hours.\nKim Jong-il is a secretive leader in a mysterious land.\nTuesday's fiesta marked the 60th anniversary of North Korea's founding by his dad, a pretty big day in the calendar.",
+    "sentiment": {
+        "neg": 0.1073,
+        "neu": 0.8343,
+        "pos": 0.0586,
+        "compound": -0.1779
+    }
+}

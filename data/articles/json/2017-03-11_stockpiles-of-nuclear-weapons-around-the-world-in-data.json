@@ -1,0 +1,28 @@
+{
+    "date": "2017-03-11T12:00:33Z",
+    "title": "Stockpiles of nuclear weapons around the world \u2013 in data",
+    "url": "https://www.theguardian.com/world/2017/mar/11/stockpiles-of-nuclear-weapons-around-the-world-in-data",
+    "content": "North Korea launched four ballistic missiles earlier this week, leading to renewed condemnation from the international community. This latest action by the east Asian nation, which has now carried out dozens of missile launches and five nuclear tests, was described by Japanese prime minister Shinz\u014d Abe as \u201can extremely dangerous action\u201d. North Korea, on the other hand, says joint military exercises by the US and South Korea are at fault: \u201cThe situation on the Korean peninsula is again inching to the brink of a nuclear war,\u201d ambassador Ja Song Nam said in a letter to the UN security council. It is estimated that North Korea now has 10 nuclear weapons, up from six or eight in 2013. This increase is in contrast to an overall decrease in the number of nuclear weapons worldwide. The Stockholm International Peace Research Institute (SIPRI), an independent resource on global security, has estimated that the number has fallen by almost a third, from 22,600 in 2010 to around 15,395 last year. That said, SIPRI also states that both the US and Russia are going through extensive modernising programmes for their remaining weapons. The main factor in this reduction is the diminishing numbers of warheads held by the US (which dropped from around 9,600 to 7,000 in that period) and Russia (which went from 12,000 to 7,290). The UK figure also dropped, from 225 to 215. But some countries\u2019 arsenals have grown: China was thought to have 260 warheads in early 2016, compared with 240 in 2010. India and Pakistan have also seen their figures creep up in recent years: India is thought to have between 100 and 120 nuclear weapons now, compared with between 60 and 80 in 2010, while Pakistan may have as many as 130, up from 70-90.",
+    "keywords": [
+        "thought",
+        "world",
+        "korea",
+        "sipri",
+        "russia",
+        "warheads",
+        "2010",
+        "nuclear",
+        "weapons",
+        "data",
+        "stockpiles",
+        "security",
+        "north"
+    ],
+    "summary": "North Korea launched four ballistic missiles earlier this week, leading to renewed condemnation from the international community.\nIt is estimated that North Korea now has 10 nuclear weapons, up from six or eight in 2013.\nThis increase is in contrast to an overall decrease in the number of nuclear weapons worldwide.\nThat said, SIPRI also states that both the US and Russia are going through extensive modernising programmes for their remaining weapons.\nBut some countries\u2019 arsenals have grown: China was thought to have 260 warheads in early 2016, compared with 240 in 2010.",
+    "sentiment": {
+        "neg": 0.0804,
+        "neu": 0.8689,
+        "pos": 0.0508,
+        "compound": -0.1293
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2007-06-22T08:45:27Z",
+    "title": "Nuclear watchdog might not cope in atomic crisis",
+    "url": "https://www.theguardian.com/world/2007/jun/22/northkorea",
+    "content": "The head of the world's nuclear watchdog, the International Atomic Energy Agency, has warned that the organisation is so under-funded that it would have difficulty responding to a nuclear accident. In an unusual and angry appeal, Mohamed ElBaradei also claimed that the IAEA no longer had reliable equipment to detect covert nuclear activity, nor did it have consistent funding for its efforts to combat nuclear smuggling. Dr ElBaradei made his remarks to the IAEA's board of governors, delegates from national governments, on June 15 but the comments were only made public yesterday. \"If an accident were to happen tomorrow, we would be hard pressed to carry out core functions. This is a reality,\" he said. In the event of an accident like the Chernobyl disaster of 1986, the IAEA's incident and emergency centre is supposed to step in immediately, sending technicians to help to limit the spread of radiation, advise on the treatment of casualties and coordinate the international response. Dr ElBaradei added that the IAEA's \"safeguards function is being eroded over time\", noting that the organisation was using an unreliable 28-year-old instrument to carry out environmental sampling. That sampling is carried out in and around countries such as Iran and North Korea, where covert nuclear programmes are suspected. The results often have a decisive influence on UN decisions to impose sanctions or other measures. Because the agency did not have proper equipment of its own, Dr ElBaradei said, it would have to rely on external laboratories in other countries, which \"puts into question the whole independence of the agency's verification system. \"In the nuclear security area, where every world leader is saying that is a number-one priority, we continue to rely for 90% of our security funding on extra budgetary contributions that are heavily conditioned and highly unpredictable.\" IAEA officials say the organisation has more and more work to do trying to keep up with international demands to monitor nuclear proliferation, while its budget has been frozen on the insistence of rich states such as the US, Japan and Germany. \"The budget is essentially a political statement,\" Dr ElBaradei said. \"What kind of agency do you want to have? You can have a mediocre agency, or you can have an effective and efficient agency.\" His comments come at a time when the international community is struggling to handle twin proliferation crises over Iran and North Korea, which are defying pressure to halt nuclear programmes. While Iran has so far refused to contemplate a deal that would infringe its right to enrich uranium, North Korea agreed in February to take steps to dismantle its nuclear programme in return for international assistance. But implementation of that deal has stalled since then because of a row over cash. A US negotiator, Christopher Hill, made a surprise trip to North Korea yesterday, the first visit by a senior American official in nearly five years, in an attempt to speed up progress. However, North Korea cast doubt yesterday over a planned visit by UN nuclear inspectors next week and its earlier pledge to seal its nuclear reactor at Yongbyon, the source of its weapons-grade plutonium. A spokesman at the North Korean embassy in Vienna said Pyongyang would not confirm the inspectors invitation before $25m (\u00a312.5m) of funds from frozen North Korean accounts in Macau had been released. The funds were supposed to have been transferred to a Russian bank but Russian officials said the transfer had still had not been completed yesterday.",
+    "keywords": [
+        "elbaradei",
+        "iran",
+        "korea",
+        "crisis",
+        "agency",
+        "nuclear",
+        "cope",
+        "organisation",
+        "atomic",
+        "dr",
+        "watchdog",
+        "yesterday",
+        "north",
+        "international"
+    ],
+    "summary": "The head of the world's nuclear watchdog, the International Atomic Energy Agency, has warned that the organisation is so under-funded that it would have difficulty responding to a nuclear accident.\nThat sampling is carried out in and around countries such as Iran and North Korea, where covert nuclear programmes are suspected.\n\"The budget is essentially a political statement,\" Dr ElBaradei said.\nA US negotiator, Christopher Hill, made a surprise trip to North Korea yesterday, the first visit by a senior American official in nearly five years, in an attempt to speed up progress.\nHowever, North Korea cast doubt yesterday over a planned visit by UN nuclear inspectors next week and its earlier pledge to seal its nuclear reactor at Yongbyon, the source of its weapons-grade plutonium.",
+    "sentiment": {
+        "neg": 0.0701,
+        "neu": 0.8738,
+        "pos": 0.0561,
+        "compound": -0.0713
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "2014-12-07T00:05:07Z",
+    "title": "Forget North Korea \u2013 the real rogue cyber operator lies much closer to home",
+    "url": "https://www.theguardian.com/technology/2014/dec/07/north-korea-sony-pictures-regin-gchq-nsa-snowden-belgacom",
+    "content": "Were you to measure significance in column inches, the massive cyber-attack on Sony Pictures would appear to be the story of the week. Company executives had to post notices on office entrances telling staff not to log into the network when they reached their desks. The company\u2019s entire network had to be taken offline as it grappled with a ransom demand that threatened to release confidential documents and not-yet-released films unless money changed hands. The big question was: who was responsible for the attack? Fevered speculation led some people to point the finger at North Korea, on the grounds that one of the forthcoming films, The Interview, poked fun at the country\u2019s leader, Kim Jong-un. This seemed implausible to this columnist: North Korea may be distinctly humourless on the subject of its beloved leader, but seeking a ransom would be uncool even for that nauseating regime. In the event, no money seems to have changed hands: some confidential documents, eg spreadsheets giving salaries of top Sony executives, made their way online and the embargoed movies began to pop up on piracy sites. Exciting stuff, eh? But the really big cyber story of the past two weeks is less glamorous but rather more worrying in the longer term. It concerns Regin, a piece of malware that has only recently come to light, although it\u2019s been around for years. The security firm Symantec describes it as \u201ca complex piece of malware whose structure displays a degree of technical competence rarely seen. Customisable with an extensive range of capabilities depending on the target, it provides its controllers with a powerful framework for mass surveillance and has been used in spying operations against government organisations, infrastructure operators, businesses, researchers and private individuals.\u201d The company goes on to speculate that developing Regin took \u201cmonths, if not years\u201d and concludes that \u201ccapabilities and the level of resources behind Regin indicate that it is one of the main cyberespionage tools used by a nation state\u201d. Ah, but which nation states? Step forward the UK and the US and their fraternal Sigint agencies GCHQ and NSA. A while back, Edward Snowden revealed that the agencies had mounted hacking attacks on Belgacom, a Belgian phone and internet services provider, and on EU computer systems, but he did not say what kind of software was used in the attacks. Now we know: it was Regin, malware that disguises itself as legitimate Microsoft software and steals data from infected systems, which makes it an invaluable tool for intelligence agencies that wish to penetrate foreigners\u2019 computer networks. Quite right too, you may say. After all, the reason we have GCHQ is to spy on nasty foreigners. The agency was, don\u2019t forget, originally an offshoot of Bletchley Park, whose mission was to spy on the Germans. So perhaps the news that the Belgians, despite the best efforts of Monty Python, are our friends \u2013 or that the UK is a member of the EU \u2013 had not yet reached Cheltenham? Spying on friends as well as enemies is an ancient principle of statecraft. It used to be done for reasons of \u201cnational security\u201d; now it is done for reasons of \u201ccybersecurity\u201d and therein lies a new problem. What is cybersecurity, really? What are GCHQ and the NSA trying to secure? Is it the security of the cyberspace \u2013 ie the internet? Or of some part of the network? And if so, which part? Here, some throwaway lines in one of the Snowden documents become particularly interesting. \u201cThe facts contained in this program,\u201d they read, \u201cconstitute a combination of the greatest number of highly sensitive facts related to NSA/CSS\u2019s overall cryptologic mission. Unauthorised disclosure\u2026 will cause exceptionally grave damage to US national security. The loss of this information could critically compromise highly sensitive cryptologic US and foreign relationships, multi-year past and future NSA investments, and the ability to exploit foreign adversary cyberspace while protecting US cyberspace.\u201d Note that last clause. \u201cCybersecurity\u201d actually means two things: first, national security, and second, that the only corner of cyberspace that we care about is our own. We can exploit every other virtual inch of it for our own (national) purposes. This gives us carte blanche to, for example, undermine everybody\u2019s online security by weakening the encryption used for commercial transactions; purchase \u201czero-day exploits\u201d from hackers for use against targeted organisations; and spread malware such as Regin anywhere we goddamn please. Welcome to our networked world.",
+    "keywords": [
+        "cyber",
+        "cyberspace",
+        "operator",
+        "gchq",
+        "rogue",
+        "korea",
+        "network",
+        "used",
+        "documents",
+        "closer",
+        "regin",
+        "malware",
+        "national",
+        "security",
+        "forget",
+        "real",
+        "lies",
+        "nsa",
+        "north"
+    ],
+    "summary": "But the really big cyber story of the past two weeks is less glamorous but rather more worrying in the longer term.\nIt concerns Regin, a piece of malware that has only recently come to light, although it\u2019s been around for years.\nIt used to be done for reasons of \u201cnational security\u201d; now it is done for reasons of \u201ccybersecurity\u201d and therein lies a new problem.\nUnauthorised disclosure\u2026 will cause exceptionally grave damage to US national security.\n\u201cCybersecurity\u201d actually means two things: first, national security, and second, that the only corner of cyberspace that we care about is our own.",
+    "sentiment": {
+        "neg": 0.0727,
+        "neu": 0.8194,
+        "pos": 0.1079,
+        "compound": 0.0295
+    }
+}

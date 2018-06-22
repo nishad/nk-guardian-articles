@@ -1,0 +1,28 @@
+{
+    "date": "2006-07-08T23:20:02Z",
+    "title": "The Observer updated: Hwang Woo-suk",
+    "url": "https://www.theguardian.com/science/2006/jul/09/genetics.koreanews",
+    "content": "In January, The Observer reported on how the 'king of cloning' fell from grace. Hwang Woo-suk, a South Korean scientist, had claimed in a research paper that he had cloned human embryos and extracted stem cells that matched people's own cells. This seemed to open a door to therapeutic cloning that could benefit millions of people with debilitating illnesses such as Alzheimer's and Parkinson's disease. But Hwang was revealed as a fraud. An investigation panel found that there was no evidence to support his claims. In May, prosecutors brought charges against Hwang, accusing him of accepting funds under false pretences, embezzlement and buying human eggs for research. Last week, at a second hearing of the trial, the 53-year-old admitted telling researchers to make it appear as if they were basing their results on 11 cloned embryonic stem cell lines, rather than the two lines they were actually working with. He said his researchers shared the blame. 'It was definitely wrong,' Hwang testified. 'I have no intention to escape the overall responsibility, but I feel differently about the view that all responsibility should lie with me as one of over 30 authors.' The former professor at Seoul National University is being tried with five colleagues, who face similar charges. If convicted, Hwang faces at least three years in prison. If acquitted, he plans to resume research at a privately funded laboratory in Seoul. His lawyer said Hwang would be working on animal rather than human clones, and would be joined by up to 30 former associates.",
+    "keywords": [
+        "human",
+        "observer",
+        "woosuk",
+        "research",
+        "hwang",
+        "seoul",
+        "lines",
+        "cloning",
+        "working",
+        "researchers",
+        "stem",
+        "updated",
+        "responsibility"
+    ],
+    "summary": "In January, The Observer reported on how the 'king of cloning' fell from grace.\nHwang Woo-suk, a South Korean scientist, had claimed in a research paper that he had cloned human embryos and extracted stem cells that matched people's own cells.\nIn May, prosecutors brought charges against Hwang, accusing him of accepting funds under false pretences, embezzlement and buying human eggs for research.\nIf convicted, Hwang faces at least three years in prison.\nHis lawyer said Hwang would be working on animal rather than human clones, and would be joined by up to 30 former associates.",
+    "sentiment": {
+        "neg": 0.1143,
+        "neu": 0.7872,
+        "pos": 0.0985,
+        "compound": -0.0273
+    }
+}

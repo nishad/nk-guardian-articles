@@ -1,0 +1,30 @@
+{
+    "date": "2006-01-16T00:02:29Z",
+    "title": "Pyongyang awards medal to American aid worker",
+    "url": "https://www.theguardian.com/world/2006/jan/16/usa.northkorea",
+    "content": "North Korea has awarded a medal for the first time to a US citizen, for his efforts to provide the country with food and medical supplies, a report said yesterday. Pyongyang has posthumously awarded its friendship medal to Ellsworth Culver, co-founder of the charity Mercy Corps, South Korea's Yonhap news agency reported, quoting a Korean newspaper in the US. North Korea's UN diplomat, Han Song-ryol, gave the medal to Culver's widow in Oregon. He called Culver a pioneer \"who made efforts to achieve a new development of North Korea-US relations\". Culver died last year aged 78.",
+    "keywords": [
+        "worker",
+        "culver",
+        "yonhap",
+        "widow",
+        "efforts",
+        "supplies",
+        "medal",
+        "american",
+        "awarded",
+        "aid",
+        "pyongyang",
+        "awards",
+        "yesterday",
+        "north",
+        "koreas"
+    ],
+    "summary": "North Korea has awarded a medal for the first time to a US citizen, for his efforts to provide the country with food and medical supplies, a report said yesterday.\nPyongyang has posthumously awarded its friendship medal to Ellsworth Culver, co-founder of the charity Mercy Corps, South Korea's Yonhap news agency reported, quoting a Korean newspaper in the US.\nNorth Korea's UN diplomat, Han Song-ryol, gave the medal to Culver's widow in Oregon.\nHe called Culver a pioneer \"who made efforts to achieve a new development of North Korea-US relations\".\nCulver died last year aged 78.",
+    "sentiment": {
+        "neg": 0.0838,
+        "neu": 0.7644,
+        "pos": 0.1518,
+        "compound": 0.3076
+    }
+}

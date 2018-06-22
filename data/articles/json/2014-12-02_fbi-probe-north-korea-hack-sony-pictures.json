@@ -1,0 +1,31 @@
+{
+    "date": "2014-12-02T08:54:33Z",
+    "title": "FBI joins probe into possible North Korea hack of Sony Pictures",
+    "url": "https://www.theguardian.com/film/2014/dec/02/fbi-probe-north-korea-hack-sony-pictures",
+    "content": "Following a hack that resulted in online leaks of major films such as Fury, Mr Turner and the forthcoming Annie remake, the FBI is aiding Sony Pictures in investigating the perpetrators \u2013 possibly a group operating on behalf of North Korea. \u201cThe targeting of public and private sector computer networks remains a significant threat, and the FBI will continue to identify, pursue and defeat individuals and groups who pose a threat in cyberspace,\u201d said the bureau in a statement. Sony has also hired private security firm FireEye to investigate the hack. The hackers are dubbing themselves #GOP, or Guardians of Peace, and threatened to leak Sony\u2019s \u201csecrets and top secrets\u201d. Tech site recode.net has written that it could be the work of Chinese hackers working on behalf of North Korea, while anonymous sources speaking to the Wall Street Journal said that the tools used in the hacks were \u201cvery similar\u201d to those used against South Korean TV stations last year, in attacks blamed on North Korea. As well as the leaks and hacks of Sony Twitter accounts, a spreadsheet purporting to show the salaries of top execs was posted online. The company was also left without email and other internal systems, which have since recovered. It\u2019s been mooted that the attacks could be in retaliation against The Interview, a forthcoming comedy from Seth Rogen and James Franco about an assassination attempt on Kim Jong-un by the US. The film has been strongly condemned by North Korea\u2019s UN ambassador Ja Song Nam, who called it \u201cthe most undisguised sponsoring of terrorism as well as an act of war\u201d.",
+    "keywords": [
+        "sony",
+        "hack",
+        "probe",
+        "possible",
+        "leaks",
+        "korea",
+        "pictures",
+        "used",
+        "threat",
+        "online",
+        "hacks",
+        "fbi",
+        "joins",
+        "secrets",
+        "private",
+        "north"
+    ],
+    "summary": "Following a hack that resulted in online leaks of major films such as Fury, Mr Turner and the forthcoming Annie remake, the FBI is aiding Sony Pictures in investigating the perpetrators \u2013 possibly a group operating on behalf of North Korea.\nSony has also hired private security firm FireEye to investigate the hack.\nThe hackers are dubbing themselves #GOP, or Guardians of Peace, and threatened to leak Sony\u2019s \u201csecrets and top secrets\u201d.\nAs well as the leaks and hacks of Sony Twitter accounts, a spreadsheet purporting to show the salaries of top execs was posted online.\nThe film has been strongly condemned by North Korea\u2019s UN ambassador Ja Song Nam, who called it \u201cthe most undisguised sponsoring of terrorism as well as an act of war\u201d.",
+    "sentiment": {
+        "neg": 0.1176,
+        "neu": 0.7978,
+        "pos": 0.0847,
+        "compound": -0.3102
+    }
+}

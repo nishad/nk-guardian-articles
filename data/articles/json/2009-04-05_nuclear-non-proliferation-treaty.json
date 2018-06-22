@@ -1,0 +1,27 @@
+{
+    "date": "2009-04-05T11:14:35Z",
+    "title": "Background: The nuclear non-proliferation treaty",
+    "url": "https://www.theguardian.com/world/2009/apr/05/nuclear-non-proliferation-treaty",
+    "content": "The US president, Barack Obama, has outlined his vision for a nuclear-free world, based partly on a strengthening of the nuclear non-proliferation treaty (NPT). The NPT, signed in 1968, is intended to halt the spread of nuclear weapons-making capability. It guarantees the right of all signatories to develop nuclear energy for peaceful ends. Non-nuclear signatories are given an assurance of assistance in developing nuclear energy for peaceful purposes, monitored by inspectors from the Vienna-based International Atomic Energy Agency. The NPT defines nuclear armed states as those that \"manufactured and exploded a nuclear weapon or other nuclear device prior to 1 January 1967\". They are the US, Britain, France, China and Russia, which assumed rights and obligations from the former Soviet Union. The five are the permanent members of the UN security council. The treaty says that states without nuclear weapons must agree not to acquire them. Those with nuclear weapons cannot transfer them or help any non-nuclear state in their manufacture or acquisition. Nuclear states promise to undertake good-faith negotiations to eliminate nuclear weapons entirely. A total of 189 countries are party to the treaty. They do not include North Korea, which dropped out in 2003. Pyongyang signed up to the agreement in 1985, but withdrew after US officials confronted it with evidence which they said pointed to a covert enrichment programme. The North has also expelled IAEA inspectors. Today, Obama said Pyongyang, which tested a nuclear device in 2006, had violated UN resolutions. Analysts believe its long-range rocket launch was effectively a test of a ballistic missile designed to carry a warhead potentially as far as Alaska. South Africa signed in 1991, when it admitted producing nuclear devices until 1970. Two non-signatories, India and Pakistan, have developed nuclear arsenals. Another, Israel, is wdiely assumed to possess one but has never confirmed it publicly. The treaty is divided into 11 articles, including one enabling a state to withdraw \"if it decides that extraordinary events ... have jeopardised the supreme interests of its country\". A state must give three months notice to the other treaty parties and the UN security council. At the 1995 NPT review conference, the treaty was extended indefinitely at the behest of the nuclear weapons powers. Developing countries agreed to the extension after a commitment from weapons states to step up disarmament, ease access to nuclear energy for development and seek a nuclear weapons-free zone in the Middle East. They say these pledges have not been fully honoured.",
+    "keywords": [
+        "npt",
+        "energy",
+        "background",
+        "state",
+        "states",
+        "nonproliferation",
+        "nuclear",
+        "weapons",
+        "signatories",
+        "security",
+        "treaty",
+        "signed"
+    ],
+    "summary": "The US president, Barack Obama, has outlined his vision for a nuclear-free world, based partly on a strengthening of the nuclear non-proliferation treaty (NPT).\nThe NPT defines nuclear armed states as those that \"manufactured and exploded a nuclear weapon or other nuclear device prior to 1 January 1967\".\nThe treaty says that states without nuclear weapons must agree not to acquire them.\nNuclear states promise to undertake good-faith negotiations to eliminate nuclear weapons entirely.\nAt the 1995 NPT review conference, the treaty was extended indefinitely at the behest of the nuclear weapons powers.",
+    "sentiment": {
+        "neg": 0.0601,
+        "neu": 0.8218,
+        "pos": 0.1181,
+        "compound": 0.1566
+    }
+}

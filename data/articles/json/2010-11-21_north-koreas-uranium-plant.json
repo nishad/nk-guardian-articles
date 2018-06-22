@@ -1,0 +1,30 @@
+{
+    "date": "2010-11-21T19:56:36Z",
+    "title": "North Korea's uranium plant sends a chilling message to Washington",
+    "url": "https://www.theguardian.com/world/2010/nov/21/north-koreas-uranium-plant",
+    "content": "North Korea does not as a rule give American academics tours of its most sensitive nuclear sites. Siegried Hecker was shown around Yongbyon not out of a sudden spirit of scientific openness, but to send a message to Washington. That message said: not only are we enriching uranium, we are already very good at it. Hecker, who used to run the US nuclear weapons laboratories at Los Alamos, was whisked around the new enrichment facility with his mouth agape. The place was much bigger than he imagined and much more modern. It means that efforts to cut North Korea off from nuclear technology are failing miserably. The policy of imposing sanctions and refusing to resume talks with Pyongyang until it ceases the most provocative elements of that programme (and apologises for sinking a South Korean battleship this year),is not working. North Korea has shown itself extremely adept at the game of nuclear bluff. It has provoked three previous nuclear crises, in 1994, 2002 and 2006, aimed at raising the stakes at the six-party talks and winning more pledges of economic aid and fuel oil deliveries. These new developments suggest that, whatever the health of the Dear Leader, Kim Jong-il, the regime as a whole has not lost its taste for brinkmanship. The Hecker report gives Washington a lot to think about on several fronts. First, despite its claims that everything Hecker saw was home-made, it is clear that North Korea has been able to go shopping around the world for the equipment it needs, despite multiple UN sanctions. In fact, the Institute for Science and International Security in Washington deduced the existence of such an enrichment plant over a month ago, based on analysis of North Korea's procurement methods. The second striking element of the discovery is the speed at which the 2,000-centrifuge enrichment plant was built. It was not there just a year ago. That is highly unusual because getting precise high-speed centrifuges to work consistently and lining them up in \"cascades\" of 300 machines would normally take years. \"There is an anomaly in how rapidly this has been built,\" said David Albright, the head of the institute, which yesterday published satellite pictures of the site. \"That raises the question of whether this plant was originally put together somewhere else and was moved to Yongbyon, or whether there is a parallel plant elsewhere.\" Albright said that the third reason for international concern was that the sophisticated centrifuge plant had gone undetected until the North Koreans had chosen to reveal it to Hecker. \"It shows how difficult it is to find these centrifuge plants,\" he said, adding that that had implications in Iran, where some western intelligence agencies believe the government is pursuing a secret enrichment project in parallel to its publicly acknowledged programme. It is just the latest in a series of blows to Barack Obama's nuclear agenda. He took office in 2009 promising that the nuclear weapons powers would do more to disarm and thereby further isolate \"rogue\" states like Iran and North Korea, strangling their attempts to join the nuclear club by the back door. So far, his disarmament efforts appear stalled at home while both Pyongyang and Tehran show no sign of surrendering their nuclear ambitions.",
+    "keywords": [
+        "uranium",
+        "hecker",
+        "enrichment",
+        "chilling",
+        "korea",
+        "washington",
+        "message",
+        "talks",
+        "nuclear",
+        "yongbyon",
+        "weapons",
+        "plant",
+        "sends",
+        "north",
+        "koreas"
+    ],
+    "summary": "North Korea does not as a rule give American academics tours of its most sensitive nuclear sites.\nIt means that efforts to cut North Korea off from nuclear technology are failing miserably.\nNorth Korea has shown itself extremely adept at the game of nuclear bluff.\nIn fact, the Institute for Science and International Security in Washington deduced the existence of such an enrichment plant over a month ago, based on analysis of North Korea's procurement methods.\nThe second striking element of the discovery is the speed at which the 2,000-centrifuge enrichment plant was built.",
+    "sentiment": {
+        "neg": 0.0459,
+        "neu": 0.9051,
+        "pos": 0.049,
+        "compound": 0.0609
+    }
+}

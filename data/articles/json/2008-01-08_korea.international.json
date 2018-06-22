@@ -1,0 +1,28 @@
+{
+    "date": "2008-01-08T23:55:34Z",
+    "title": "Korean warehouse fire kills 40",
+    "url": "https://www.theguardian.com/world/2008/jan/08/korea.international",
+    "content": "A fire tore through a warehouse being built in an industrial site south of Seoul yesterday, killing 40 people, injuring 10 and sending toxic fumes into the air. The badly burned condition of the bodies was making identification difficult, with only one having been positively identified so far, said Kim Jung-geun, a local fire official. No more bodies, he added, were expected to be found last night at the site of the blaze in Icheon, 50 miles south of the South Korean capital. The fire has been mostly extinguished. The Korean cable news channel YTN showed black-clad firefighters battling with thick smoke, some of it spewing from underground. None of the 500 plus firefighters called to the blaze was injured. Police were investigating but had to yet to find an exact cause. Workers were injecting urethane foam into the walls in the basement of the building when the blaze began, said Kim. In terms of death toll the most destructive fire in South Korea in recent times was in 2003, when 198 people died and 147 were injured after an arsonist ignited a carton filled with petrol on an underground train in the city of Daegu.",
+    "keywords": [
+        "warehouse",
+        "south",
+        "blaze",
+        "underground",
+        "bodies",
+        "injured",
+        "kim",
+        "firefighters",
+        "ytn",
+        "40",
+        "site",
+        "kills",
+        "korean"
+    ],
+    "summary": "A fire tore through a warehouse being built in an industrial site south of Seoul yesterday, killing 40 people, injuring 10 and sending toxic fumes into the air.\nNo more bodies, he added, were expected to be found last night at the site of the blaze in Icheon, 50 miles south of the South Korean capital.\nThe Korean cable news channel YTN showed black-clad firefighters battling with thick smoke, some of it spewing from underground.\nNone of the 500 plus firefighters called to the blaze was injured.\nWorkers were injecting urethane foam into the walls in the basement of the building when the blaze began, said Kim.",
+    "sentiment": {
+        "neg": 0.1674,
+        "neu": 0.8213,
+        "pos": 0.0113,
+        "compound": -0.4007
+    }
+}

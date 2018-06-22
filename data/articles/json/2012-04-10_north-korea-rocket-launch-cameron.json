@@ -1,0 +1,30 @@
+{
+    "date": "2012-04-10T12:33:50Z",
+    "title": "North Korea rocket launch plan unacceptable, David Cameron warns",
+    "url": "https://www.theguardian.com/world/2012/apr/10/north-korea-rocket-launch-cameron",
+    "content": "David Cameron has warned North Korea that it would be \"unacceptable\" to defy calls for rocket tests to be abandoned. Speaking on a visit to Japan, the prime minister urged Pyongyang to \"take a different path\" and engage with the international community. Cameron and his Japanese counterpart, Yoshihiko Noda, discussed North Korea as the nuclear-armed regime put the finishing touches to a rocket it says is designed to put a satellite into orbit. North Korean space officials say all preparations, including assembly, for this week's planned satellite launch have been completed. They told reporters at a news conference in Pyongyang the launch of the three-stage rocket was on target to take place some time between Thursday and Monday as part of centennial birthday commemorations for the president Kim Il Sung, the country's founder who died in 1994. The US believes the launch is a cover for testing a ballistic missile, and Japan has deployed its anti-missile systems. \"On the issue of North Korea we have said very clearly, and the Japanese and others have said, that it is unacceptable to launch these satellites and missiles,\" Cameron told the TV station News Zero. \"Now there is a new leadership in North Korea, they should be taking this opportunity to change their approach, engaging with the rest of the word and stopping this sort of activity. \"If they go ahead, it should be condemned in the strongest possible terms by the UN security council. We have to send the clearest possible message. \"Clearly, North Korea is quite a bankrupt country. They are unable to feed their own people. They need to do less in terms of weapons and the military, and more engagement with the rest of the world. \"If they launch this satellite, that is clearly a breach of the UN resolution that has already been ratified.\" The Kwangmyongsong-3 satellite, equipped with a camera designed to capture images of North Korea's terrain and send back data about weather conditions, was being mounted on the rocket, said Ryu Kum Chol, deputy director of the space development department of the Korean Committee for Space Technology. \"All the assembly and preparations of the satellite launch are done,\" he said. Those preparations included fuelling the rocket. The US, Britain, Japan and others have urged North Korea to cancel the launch, saying it would be considered a violation of UN resolutions prohibiting the country from nuclear and ballistic missile activity. Experts say the Unha-3 carrier is the same type of rocket that would be used to launch a long-range missile aimed at the US and other targets. North Korea has tested two atomic devices but is not believed to have mastered the technology needed to mount a nuclear warhead on a long-range missile. It has denied the launch is a cover for a missile test.",
+    "keywords": [
+        "launch",
+        "preparations",
+        "korea",
+        "space",
+        "unacceptable",
+        "plan",
+        "david",
+        "warns",
+        "japan",
+        "cameron",
+        "missile",
+        "satellite",
+        "clearly",
+        "rocket",
+        "north"
+    ],
+    "summary": "David Cameron has warned North Korea that it would be \"unacceptable\" to defy calls for rocket tests to be abandoned.\nCameron and his Japanese counterpart, Yoshihiko Noda, discussed North Korea as the nuclear-armed regime put the finishing touches to a rocket it says is designed to put a satellite into orbit.\nNorth Korean space officials say all preparations, including assembly, for this week's planned satellite launch have been completed.\n\"Clearly, North Korea is quite a bankrupt country.\nNorth Korea has tested two atomic devices but is not believed to have mastered the technology needed to mount a nuclear warhead on a long-range missile.",
+    "sentiment": {
+        "neg": 0.0688,
+        "neu": 0.8909,
+        "pos": 0.0402,
+        "compound": -0.0504
+    }
+}

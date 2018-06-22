@@ -1,0 +1,29 @@
+{
+    "date": "2006-10-15T00:56:48Z",
+    "title": "Nuclear test brings threats to Koreans abroad",
+    "url": "https://www.theguardian.com/world/2006/oct/15/japan.northkorea",
+    "content": "North Koreans living in Japan have become the target of a concerted campaign of threats and intimidation in the wake of Pyongyang's testing of a nuclear bomb last week. Korean residents of Japan with family ties to the regime reported dozens of incidents, including threatening phone calls, as well as letters and emails sent to schools run by the pro-Pyongyang General Association of Korean Residents in Japan (Chosen Soren). In one case, an anonymous caller warned teachers at a school in Tochigi: 'If you care about the safety of the children, close the school down.' At another, a poster pasted to the wall of the Pyongyang Korean School of Tokyo read: 'Step up sanctions. Enforce eye-for-an-eye justice.' The abuse and intimidation came as Tokyo stepped up pressure on the communist regime, including a controversial ban on all North Korean ships from entering Japanese ports. A North Korean high school in Shimonoseki in southwestern Japan closed for several days after many pupils decided to stay away rather than risk being attacked or abused. Female Korean children are easily recognisable because they often wear traditional Korean dress to school. Korean residents said they feared a return to the widespread physical attacks on pupils that followed the admission in 2002 by North Korean leader Kim Jong-il that his country had abducted Japanese citizens during the cold war to teach the Japanese language and culture to spies. In July Korean students were the targets of more than 120 assaults, threats and nuisance calls in the space of two weeks after the North test-fired seven ballistic missiles into the Sea of Japan. 'Kwan', a North Korean woman living in Tokyo, said she was stunned to see a reappearance of the overt racism she had frequently encountered as a child. 'Since the nuclear tests my two children and their friends have to be accompanied to and from school by teachers because they are worried about being attacked,\" Kwan, who did not want her real name to be used, told the Observer. An estimated 10 percent of Japan's 600,000 Korean residents - many of whom are descended from forced labourers brought here before and during the war - describe themselves as loyal to Kim's regime. Kwan, a 47-year-old office worker, condemned the missile test, but said Japanese people should understand why the North feels the need to defend itself against attack from the US. 'The Japanese media just stir anti-North Korean emotions,' she said. 'The situation is getting worse by the day, people are getting angrier and, yes, I'm very worried.' Chosen Soren refused to comment publicly on the nuclear test or the harassment of its members, but one senior official told the Observer that he was 'deeply saddened' by reports of threats to schoolchildren. 'Korean children have nothing whatsoever to do with the nuclear missile test; some Japanese people are just using the tests as an excuse to discriminate against them,' he said on condition of anonymity. The backlash against the test was felt elsewhere in Japan this week when an ultra-rightwing activist crashed his truck into a compound owned by Mitutoyo, a precision instrument maker in Kawasaki, injuring a security guard. Four Mitutoyo executives have been arrested for allegedly exporting measuring devices that could be used to build nuclear weapons. Some of the devices are feared to have found their way into North Korean hands.",
+    "keywords": [
+        "abroad",
+        "threats",
+        "children",
+        "brings",
+        "nuclear",
+        "japanese",
+        "japan",
+        "residents",
+        "test",
+        "school",
+        "koreans",
+        "tokyo",
+        "north",
+        "korean"
+    ],
+    "summary": "Korean residents of Japan with family ties to the regime reported dozens of incidents, including threatening phone calls, as well as letters and emails sent to schools run by the pro-Pyongyang General Association of Korean Residents in Japan (Chosen Soren).\nAt another, a poster pasted to the wall of the Pyongyang Korean School of Tokyo read: 'Step up sanctions.\nFemale Korean children are easily recognisable because they often wear traditional Korean dress to school.\nChosen Soren refused to comment publicly on the nuclear test or the harassment of its members, but one senior official told the Observer that he was 'deeply saddened' by reports of threats to schoolchildren.\nSome of the devices are feared to have found their way into North Korean hands.",
+    "sentiment": {
+        "neg": 0.1509,
+        "neu": 0.8124,
+        "pos": 0.0368,
+        "compound": -0.3679
+    }
+}

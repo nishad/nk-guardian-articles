@@ -1,0 +1,27 @@
+{
+    "date": "2012-01-16T10:27:06Z",
+    "title": "US news agency opens North Korean bureau",
+    "url": "https://www.theguardian.com/media/greenslade/2012/jan/16/associated-press-north-korea",
+    "content": "The US-based Associated Press (AP) news agency has opened a news bureau in the North Korean capital, Pyongyang. It is the first major Western news organisation to do so, although agencies such as China's Xinhua also have a presence there. AP president Tom Curley said the bureau would operate under the same standards as other bureaux worldwide. All media outlets in North Korea are state-run. Most citizens have no access to the internet or foreign media. Visits by most foreign journalists are severely restricted and, if granted a visa, reporters are accompanied by government minders to carefully selected locations. AP said that the bureau would have two permanent North Korean reporters and would be supervised by two South Korean-based US journalists who would make regular visits. The news agency first established a presence in Pyongyang in 2006, when it opened a video bureau. The move comes a month after the death of North Korean leader Kim Jong-il. His third son, Kim Jong-un, has been installed as his successor. Source: BBC",
+    "keywords": [
+        "bureau",
+        "opens",
+        "opened",
+        "reporters",
+        "agency",
+        "visits",
+        "ap",
+        "presence",
+        "media",
+        "pyongyang",
+        "north",
+        "korean"
+    ],
+    "summary": "The US-based Associated Press (AP) news agency has opened a news bureau in the North Korean capital, Pyongyang.\nAP president Tom Curley said the bureau would operate under the same standards as other bureaux worldwide.\nAP said that the bureau would have two permanent North Korean reporters and would be supervised by two South Korean-based US journalists who would make regular visits.\nThe news agency first established a presence in Pyongyang in 2006, when it opened a video bureau.\nThe move comes a month after the death of North Korean leader Kim Jong-il.",
+    "sentiment": {
+        "neg": 0.0591,
+        "neu": 0.9146,
+        "pos": 0.0263,
+        "compound": -0.1094
+    }
+}

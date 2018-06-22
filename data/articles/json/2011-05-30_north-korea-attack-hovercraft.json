@@ -1,0 +1,27 @@
+{
+    "date": "2011-05-30T19:01:01Z",
+    "title": "The hovercraft, North Korea's new weapon",
+    "url": "https://www.theguardian.com/world/2011/may/30/north-korea-attack-hovercraft",
+    "content": "Think of the great machines of war, and the hovercraft is perhaps not the first that springs to mind. But Kim Jong-il has clearly done his homework on military history, because North Korea is in the process of building a naval hovercraft base 30 miles off the South Korean coast. The hangar-shaped buildings spotted across the international waters will house 60 \"attack hovercraft\", to be used for \"infiltration attacks and landing\". While the first air-cushion vehicle was built in 1915, the modern hovercraft was the work of Sir Christopher Cockerell, who had the idea that boats could be made to float on a cushion of air, reducing water drag. He built several prototypes in the 1950s, but no branch of the military was interested. He eventually received funding and in 1958 produced the SR.N1, the world's first passenger hovercraft. Military hovercraft went on to have a illustrious career in the navy \u2013 from Greece to Finland, the Soviet Union to China, they have been deployed for their amphibious properties, with modern versions reaching speeds of 90mph. During the Vietnam war, craft developed and built on the Isle of Wight were bought and modified by the US military: the SR.N5 ships, with a range of nearly 300 miles, were intended to revolutionise swamp warfare. They were too loud for patrol and reconnaissance missions but their sheer speed over difficult terrain made them incredibly effective in search and destroy raids on the Viet Cong, who gave them the nickname \"Monster\". Even James Bond has found a use for them: in 1979's Moonraker, when he makes a speedy getaway on Piazza San Marco in Venice, and again in 2002's Die Another Day, when a hovercraft chase ends in the apparent death of a North Korean colonel. And if it's good enough for Britain's top fictional spy, it's probably good enough for Kim Jong-il.",
+    "keywords": [
+        "weapon",
+        "hovercraft",
+        "war",
+        "modern",
+        "military",
+        "built",
+        "kim",
+        "miles",
+        "korean",
+        "jongil",
+        "north",
+        "koreas"
+    ],
+    "summary": "Think of the great machines of war, and the hovercraft is perhaps not the first that springs to mind.\nBut Kim Jong-il has clearly done his homework on military history, because North Korea is in the process of building a naval hovercraft base 30 miles off the South Korean coast.\nThe hangar-shaped buildings spotted across the international waters will house 60 \"attack hovercraft\", to be used for \"infiltration attacks and landing\".\nMilitary hovercraft went on to have a illustrious career in the navy \u2013 from Greece to Finland, the Soviet Union to China, they have been deployed for their amphibious properties, with modern versions reaching speeds of 90mph.\nAnd if it's good enough for Britain's top fictional spy, it's probably good enough for Kim Jong-il.",
+    "sentiment": {
+        "neg": 0.099,
+        "neu": 0.8136,
+        "pos": 0.0874,
+        "compound": -0.1157
+    }
+}

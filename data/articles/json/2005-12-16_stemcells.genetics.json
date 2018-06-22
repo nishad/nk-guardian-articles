@@ -1,0 +1,31 @@
+{
+    "date": "2005-12-16T09:46:32Z",
+    "title": "Cloning expert is alleged to have faked stem cell data",
+    "url": "https://www.theguardian.com/science/2005/dec/16/stemcells.genetics",
+    "content": "The world's leading cloning expert was embroiled in an investigation yesterday amid allegations that he faked research that propelled him to the forefront of the field. Woo-Suk Hwang of Seoul National University became the first scientist to clone a human embryo last year and broke new ground again in June when he reported creating bespoke stem cells for patients with a variety of medical conditions, in research published in the US journal Science. Dr Hwang recently resigned as director of the World Stem Cell hub in Seoul after admitting that human eggs used in his earlier work were donated by women in his research team, although he claimed the eggs were given without his knowledge. The controversy surrounding Dr Hwang deepened yesterday when a collaborator claimed in a television interview that the scientist had admitted most of the stem cells produced for the Science paper were faked. Those stem cells impressed other scientists because they could potentially be used to regrow damaged tissue in the patients they were created for. Roh Sung-il, chairman of the board at Mizmedi hospital and a co-author of the latest Science paper, told MBC television that nine of the embryonic stem cell lines Dr Hwang claimed in the paper were cloned were faked, and the authenticity of two others was unknown. He added that Dr Hwang had pressured a former scientist at the lab to falsify data to make it seem there were 11 stem cell colonies and that he heard from Dr Hwang on Thursday morning that \"there were no embryonic stem cells\" because all colonies have since died in the lab. University of Pittsburgh researcher Gerald Schatten has already asked Science to remove him as the senior author of the report, citing questions about the paper's accuracy. In a letter to the journal seen by the Guardian, he said he had urged the other authors to retract the report. The university has begun an investigation into the paper but a spokeswoman was unable to confirm when it would announce its conclusions. Dr Hwang's team has admitted it made an error that led to duplicated photos accompanying the article, but editors of Science have so far stood by the paper's findings. A spokesman for Science said the editors had not received any request to retract the paper from Dr Hwang and they would wait until the University of Pittsburgh investigation had been completed before taking action. \"We've requested clarification from Dr Hwang on all of the allegations, but as far as I know we have not received any response.\" Seoul National University also announced this week it would conduct an internal inquiry into Dr Hwang's research. South Korea's president, Roh Moo-hyun, called for caution regarding the reports on Dr Hwang's work. \"Let's watch the situation,\" a spokesperson said.",
+    "keywords": [
+        "cells",
+        "research",
+        "faked",
+        "cloning",
+        "hwang",
+        "university",
+        "paper",
+        "dr",
+        "data",
+        "cell",
+        "seoul",
+        "scientist",
+        "science",
+        "alleged",
+        "stem",
+        "expert"
+    ],
+    "summary": "The world's leading cloning expert was embroiled in an investigation yesterday amid allegations that he faked research that propelled him to the forefront of the field.\nThe controversy surrounding Dr Hwang deepened yesterday when a collaborator claimed in a television interview that the scientist had admitted most of the stem cells produced for the Science paper were faked.\nThose stem cells impressed other scientists because they could potentially be used to regrow damaged tissue in the patients they were created for.\n\"We've requested clarification from Dr Hwang on all of the allegations, but as far as I know we have not received any response.\"\nSeoul National University also announced this week it would conduct an internal inquiry into Dr Hwang's research.",
+    "sentiment": {
+        "neg": 0.0285,
+        "neu": 0.9519,
+        "pos": 0.0196,
+        "compound": -0.0647
+    }
+}

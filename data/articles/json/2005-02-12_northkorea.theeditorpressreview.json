@@ -1,0 +1,27 @@
+{
+    "date": "2005-02-12T00:04:59Z",
+    "title": "Press review: North Korea",
+    "url": "https://www.theguardian.com/world/2005/feb/12/northkorea.theeditorpressreview",
+    "content": "Chosun Ilbo Editorial, South Korea, February 11 \"North Korea has declared it is indefinitely suspending participation in six-party talks on its nuclear weapons programme. With a foreign ministry statement also announcing that Pyongyang has built nuclear weapons for 'self-defence', the North Korean nuclear crisis has come to yet another head ... \"We shall have to watch closely whether that is a real admission or simply typical of the Stalinist country's brinkmanship in attempting to ratchet up the tension with the United States ... North Korea must awaken from the self-induced trance where it believes it can gain something only when it takes on the international community head-on. When the other side can read your cards so clearly, an attachment to the strategies of the past could mean that the situation spirals out of control.\" Korean Central News Agency North Korea, February 10 \"We justly urged the US to renounce its hostile policy toward North Korea whose aim was to seek the latter's 'regime change' ... We had already taken the resolute action of pulling out of the [nuclear non-proliferation treaty] and have manufactured nukes for self-defence to cope with the Bush administration's evermore undisguised policy to isolate and stifle North Korea. Its nuclear weapons will remain [a] deterrent for self-defence under any circumstances. The present reality proves that only powerful strength can protect justice.\" New York Times Editorial, February 11 \"The Bush administration did not create this problem, but, with a series of avoidable errors, it has made it much worse ... It's easy to distrust North Korea and to detest Kim Jong-il's monstrous police state. The Bush administration's response, however, ... only drove North Korea into deeper isolation and paranoia. As Washington turned increasingly confrontational, North Korea unfroze its plutonium programme, sent home the international inspectors and started building bombs ... \"What makes this litany of diplomatic errors particularly alarming is that diplomacy is still the only path. The US does not have any realistic military options, and intermediate steps, like UN sanctions, would require more international unity than the Bush administration seems able to generate.\" Arab News Editorial, Saudi Arabia, February 11 \"What the world of nuclear have-nots notices is that ... if you want your home to be safe, keep a gun at home - and create the impression that you are going to use it. North Korea has done that. The beleaguered and isolated regime believes that it has mounted an effective defence against attack from the South or from the Americans ... \"The argument here is not that the way to build an ideal world ... is for all to possess weapons with which any mad man can destroy the world [but] to ensure that no nation has to fear shock-awe-and-destroy invasions from mightier nations.\" Australian Editorial, February 12 \"The latest warning may yet turn out to be a bluff, a means of extracting concessions from the US and its friends and allies in the region for returning to the table and talking. We must hope so. The alternative is a dictator determined to hold on to power at any price and who is equipped with weapons of mass destruction. The doomsday option of a nuclear attack by North Korea is a risk that cannot be dismissed.\"",
+    "keywords": [
+        "international",
+        "11",
+        "korea",
+        "world",
+        "editorial",
+        "nuclear",
+        "press",
+        "selfdefence",
+        "weapons",
+        "review",
+        "north",
+        "bush"
+    ],
+    "summary": "Chosun Ilbo Editorial, South Korea, February 11 \"North Korea has declared it is indefinitely suspending participation in six-party talks on its nuclear weapons programme.\nIt's easy to distrust North Korea and to detest Kim Jong-il's monstrous police state.\nThe Bush administration's response, however, ... only drove North Korea into deeper isolation and paranoia.\nNorth Korea has done that.\nThe doomsday option of a nuclear attack by North Korea is a risk that cannot be dismissed.\"",
+    "sentiment": {
+        "neg": 0.1351,
+        "neu": 0.7533,
+        "pos": 0.1118,
+        "compound": -0.1706
+    }
+}

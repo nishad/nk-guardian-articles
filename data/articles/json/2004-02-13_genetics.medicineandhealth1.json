@@ -1,0 +1,28 @@
+{
+    "date": "2004-02-13T11:42:59Z",
+    "title": "Koreans succeed in stem cell first",
+    "url": "https://www.theguardian.com/science/2004/feb/13/genetics.medicineandhealth1",
+    "content": "South Korean and American scientists have cloned human embryos and successfully extracted stem cells from one of them. The research opens the way for once-undreamed of treatments for long-term diseases such as diabetes, Parkinson's and Alzheimer's. It also reignites the simmering debate about human cloning. The largely Korean team used 242 eggs from 16 women to clone 30 blastocysts -the tiny ball of cells that become an embryo. Stem cells are the agents that turn a single fertilised egg into up to 10 trillion cells in just nine months' gestation. Scientists around the world have cloned sheep, mice, rats, rabbits, horses, and even a mule. But despite dramatic yet unsupported claims from European fertility clinics, primates and humans were thought to be almost impossible to clone. The Korean and US scientists sucked the original DNA out of the egg, and substituted it with chromosomes from an adult cell. Then they \"tricked\" the egg into thinking it had been fertilised. \"Nobody has cloned a human here,\" said Donald Kennedy, a biologist and editor in chief of Science, which publishes the study today, on the eve of the annual meeting of the American Association for the Advancement of Science in Seattle. \"All they have done is create a stem cell line from an early blastocyst ... To get from that to an embryo is a big step. A blastocyst of that stage could conceivably be used in an attempt to implant but we have no idea whether it would implant or not.\" The achievement has inevitably sent ripples through scientific and political communities. In Britain, it was welcomed by the government's chief scientific adviser, Sir David King, and by the Royal Society. But anti-abortion groups warned that women may one day be used to \"farm\" donor eggs. Dr Kennedy hoped that it might prompt American politicians to think again about the ban on using government money for such research. It could offer the possibility that people with degenerative diseases such as Alzheimer's could be given tissue transplants with their own genetic \"signature\". \"It may very well be that women with a substantial genetic predisposition or substantial concern about one of these might very well want to think about this. It is a long way away - a very long way away. What it offers is an interesting theoretical possibility which would be of use to a limited number of people on the face of the earth,\" Dr Kennedy said. Yesterday's announcement was the culmination of years of research into the potential benefits of therapeutic cloning. But it is not the end of the story. For those benefits to be realised, researchers must now work out how to turn the cells into replacement human tissue needed to treat disease. Human stem cells have been available from embryos left over from fertility treatment for years, but it is not properly understood why one type of cell becomes heart tissue, and another liver. Even the most optimistic researchers admit this means that reliable clinical applications are years away. Initially, the aim would be to culture large numbers of individual cells: islet cells to replace those that have failed in people with diabetes, or nerve cells that could be implanted in the brains of patients suffering from Parkinson's, Huntingdon's and Alzheimer's diseases. In the long term, some scientists believe it could be possible to grow entire organs. Linda Kelly of the Parkinson's Disease Society said: \"This announcement is clearly a milestone in medical research.\" But pressure group Human Genetics Alert warned that researchers had given a big boost to those who want to make cloned babies. Such fears arise because the initial steps in therapeutic cloning and reproductive cloning are identical. Britain was one of the first countries to ban reproductive cloning while allowing therapeutic cloning if researchers obtain a licence from the Human Fertilisation and Embryology Authority. No licences have yet been granted, though at least one is believed to have been requested.",
+    "keywords": [
+        "human",
+        "cells",
+        "cloned",
+        "research",
+        "cloning",
+        "way",
+        "succeed",
+        "scientists",
+        "cell",
+        "researchers",
+        "stem",
+        "women",
+        "koreans"
+    ],
+    "summary": "South Korean and American scientists have cloned human embryos and successfully extracted stem cells from one of them.\nIt also reignites the simmering debate about human cloning.\nStem cells are the agents that turn a single fertilised egg into up to 10 trillion cells in just nine months' gestation.\n\"All they have done is create a stem cell line from an early blastocyst ... To get from that to an embryo is a big step.\nHuman stem cells have been available from embryos left over from fertility treatment for years, but it is not properly understood why one type of cell becomes heart tissue, and another liver.",
+    "sentiment": {
+        "neg": 0.0413,
+        "neu": 0.8864,
+        "pos": 0.0723,
+        "compound": 0.0612
+    }
+}

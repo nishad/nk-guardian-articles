@@ -1,0 +1,29 @@
+{
+    "date": "2006-10-14T19:01:56Z",
+    "title": "UN Security Council votes to impose sanctions on North Korea",
+    "url": "https://www.theguardian.com/world/2006/oct/14/korea.unitednations",
+    "content": "The UN Security Council has voted unanimously to impose punishing sanctions on North Korea for its claimed nuclear test, declaring that its action posed \"a clear threat to international peace and security\". North Korea immediately rejected the resolution, and its UN ambassador walked out of the council chamber after accusing its members of a \"gangster-like\" action which neglects the nuclear threat posed by the United States. Ambassador Pak Gil Yon said North Korea wants talks but warned that it will consider increased US pressure a declaration of war. The vote this afternoon came after the United States, Britain and France overcame last-minute differences with Russia and China during what Russia's UN ambassador Vitaly Churkin called \"tense negotiations\". The resolution demands North Korea eliminates all its nuclear weapons but expressly rules out military action against the country, a demand by the Russians and the Chinese. But US ambassador John Bolton warned Pyongyang that if it continues pursuing its nuclear weapons program, the United States would return to the council and seek further measures. The Americans also eliminated a complete ban on the sale of conventional weapons; instead, the resolution limits the embargo to major hardware such as tanks, warships, combat aircraft and missiles. The resolution bans the import or export of material and equipment that could be used to make nuclear weapons or ballistic missiles. It orders all countries to freeze the assets and ban travel for anyone engaged in supporting North Korea's weapons programs. The resolution calls on all countries to inspect cargo leaving from and arriving in North Korea to prevent any illegal trafficking in weapons of mass destruction or ballistic missiles. The final draft was softened from language saying the council \"decides\" - which is a stronger authorisation. But China's UN ambassador Wang Guangya said after the vote that this provision allowing the boarding of ships to inspect cargo was still unacceptable to Beijing. On Friday US officials said that an air sampling after North Korea's claimed nuclear test detected radioactive debris consistent with an atomic explosion. However, the Bush administration and congressional officials said no final determination had been made about the nature of Monday's mystery-shrouded blast. Results from another test disclosed on Friday - an initial air sampling on Tuesday - showed no evidence of radioactive particles that would be expected from a successful nuclear detonation, a US government intelligence official said.",
+    "keywords": [
+        "votes",
+        "korea",
+        "states",
+        "sanctions",
+        "impose",
+        "nuclear",
+        "weapons",
+        "security",
+        "resolution",
+        "ambassador",
+        "test",
+        "united",
+        "council",
+        "north"
+    ],
+    "summary": "The UN Security Council has voted unanimously to impose punishing sanctions on North Korea for its claimed nuclear test, declaring that its action posed \"a clear threat to international peace and security\".\nNorth Korea immediately rejected the resolution, and its UN ambassador walked out of the council chamber after accusing its members of a \"gangster-like\" action which neglects the nuclear threat posed by the United States.\nAmbassador Pak Gil Yon said North Korea wants talks but warned that it will consider increased US pressure a declaration of war.\nThe resolution demands North Korea eliminates all its nuclear weapons but expressly rules out military action against the country, a demand by the Russians and the Chinese.\nOn Friday US officials said that an air sampling after North Korea's claimed nuclear test detected radioactive debris consistent with an atomic explosion.",
+    "sentiment": {
+        "neg": 0.1628,
+        "neu": 0.7497,
+        "pos": 0.0876,
+        "compound": -0.2775
+    }
+}

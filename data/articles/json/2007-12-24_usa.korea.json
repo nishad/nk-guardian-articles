@@ -1,0 +1,30 @@
+{
+    "date": "2007-12-24T23:45:51Z",
+    "title": "FBI chief Hoover planned to jail 12,000",
+    "url": "https://www.theguardian.com/world/2007/dec/24/usa.korea",
+    "content": "It all sounds familiar. A newly proclaimed war in a far-off land, the suspension of habeas corpus, and mass arrests of \"potentially dangerous\" individuals to protect the nation from \"treason, espionage and sabotage\". Those detained would eventually have the right to a hearing, but one not bound by the rules of law. But this was not the war on terror, George Bush had just turned four years old, and the right to seek relief from illegal detention was preserved. In the summer of 1950, 12 days after the outbreak of the Korean war, FBI director J Edgar Hoover presented a plan to arrest 12,000 people and detain them permanently in military facilities and prisons. The names would come from a list compiled over years by Hoover, who was director of the bureau from 1924 to 1972. The arrests, Hoover wrote in a plan presented to President Harry Truman, would be made under \"a master warrant attached to a list of names\". The index of names \"now contains approximately 12,000 individuals, of which approximately 97% are citizens of the United States,\" he wrote. \"In order to make effective these apprehensions, the proclamation suspends the writ of habeas corpus.\" While the US constitution says habeas corpus shall only be suspended \"when in cases of rebellion or invasion, the public safety may require it\", Hoover proposed to broaden the clause to include \"threatened invasion\" or \"attack upon United States troops in legally occupied territory\". Those detained would eventually be given the right to a hearing by a panel made up of a judge and two members of the public. But the hearings \"will not be bound by the rules of evidence\", he wrote. Details of the plan were reported in the New York Times following the declassification of cold war documents related to intelligence issues from 1950 to 1955. The letter from Hoover was addressed to Truman's national security assistant, Sidney Souers, a former director of central intelligence. It was also sent to the executive secretary of the National Security Council, a body made up of the president, the secretary of defence, the secretary of state and the military chiefs. There is no evidence that Truman or any other president approved or implemented any parts of Hoover's plan. In September 1950, Congress passed a law, signed by Truman, authorising the detention of \"dangerous radicals\" if the president declared a national emergency. In December of that year a national emergency was declared following the entry of China into the Korean war. In September last year, Congress passed a law suspending habeas corpus for \"unlawful enemy combatants\". Habeas corpus was effectively suspended following the September 2001 attacks, when Bush issued an order allowing the US to hold suspects indefinitely without charges, a hearing or a right to legal representation. The supreme court is expected to rule next year on arguments heard this month on whether 300 foreigners held at Guant\u00e1namo Bay in Cuba had the right to seek a writ of habeas corpus. The court has reaffirmed the right of American citizens to seek the same right.",
+    "keywords": [
+        "hoover",
+        "right",
+        "war",
+        "chief",
+        "habeas",
+        "corpus",
+        "plan",
+        "president",
+        "12000",
+        "wrote",
+        "truman",
+        "jail",
+        "national",
+        "fbi",
+        "planned"
+    ],
+    "summary": "A newly proclaimed war in a far-off land, the suspension of habeas corpus, and mass arrests of \"potentially dangerous\" individuals to protect the nation from \"treason, espionage and sabotage\".\nThe arrests, Hoover wrote in a plan presented to President Harry Truman, would be made under \"a master warrant attached to a list of names\".\n\"In order to make effective these apprehensions, the proclamation suspends the writ of habeas corpus.\"\nThe letter from Hoover was addressed to Truman's national security assistant, Sidney Souers, a former director of central intelligence.\nIn September last year, Congress passed a law suspending habeas corpus for \"unlawful enemy combatants\".",
+    "sentiment": {
+        "neg": 0.126,
+        "neu": 0.8034,
+        "pos": 0.0706,
+        "compound": -0.2066
+    }
+}

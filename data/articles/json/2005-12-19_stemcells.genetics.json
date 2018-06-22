@@ -1,0 +1,29 @@
+{
+    "date": "2005-12-19T23:56:36Z",
+    "title": "Inquiry begins into work of stem-cell pioneer",
+    "url": "https://www.theguardian.com/science/2005/dec/19/stemcells.genetics",
+    "content": "Seoul National University launched an investigation yesterday into the work of the leading stem cell researcher Hwang Woo-suk, amid allegations that he faked nine of his 11 stem cell colonies. A panel was questioning him and fellow researchers as officials sealed off offices and secured materials in their laboratories. On Friday Prof Hwang acknowledged \"fatal errors\" in a May article in the US journal Science, which purported to show how his team created custom-made embryonic stem cells for 11 patients. Prof Hwang admitted there were only eight stem cell lines when he submitted the paper, but that his team later created three more.",
+    "keywords": [
+        "work",
+        "inquiry",
+        "11",
+        "begins",
+        "stem",
+        "woosuk",
+        "hwang",
+        "created",
+        "cell",
+        "prof",
+        "stemcell",
+        "pioneer",
+        "yesterday",
+        "team"
+    ],
+    "summary": "Seoul National University launched an investigation yesterday into the work of the leading stem cell researcher Hwang Woo-suk, amid allegations that he faked nine of his 11 stem cell colonies.\nA panel was questioning him and fellow researchers as officials sealed off offices and secured materials in their laboratories.\nOn Friday Prof Hwang acknowledged \"fatal errors\" in a May article in the US journal Science, which purported to show how his team created custom-made embryonic stem cells for 11 patients.\nProf Hwang admitted there were only eight stem cell lines when he submitted the paper, but that his team later created three more.",
+    "sentiment": {
+        "neg": 0.0598,
+        "neu": 0.8427,
+        "pos": 0.0975,
+        "compound": 0.0622
+    }
+}

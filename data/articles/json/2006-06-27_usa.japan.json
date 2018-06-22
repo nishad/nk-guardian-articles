@@ -1,0 +1,28 @@
+{
+    "date": "2006-06-27T22:56:51Z",
+    "title": "US deploys missiles as  N Korea plans test launch",
+    "url": "https://www.theguardian.com/world/2006/jun/27/usa.japan",
+    "content": "The US will deploy advanced Patriot interceptor missiles on Japanese soil this year for the first time as the region braces itself for a possible test launch by North Korea of an intercontinental ballistic missile, local media reports said yesterday. US bases on the southern Japanese island of Okinawa will host the missiles, said to be capable of intercepting ballistic missiles being developed by Pyongyang, as well as cruise missiles and aircraft. Speculation continues that North Korea is preparing to test launch a Taepodong-2 missile, thought to be capable of reaching parts of the US mainland.",
+    "keywords": [
+        "plans",
+        "launch",
+        "capable",
+        "ballistic",
+        "deploys",
+        "korea",
+        "missiles",
+        "japanese",
+        "n",
+        "test",
+        "missile",
+        "yesterday",
+        "north"
+    ],
+    "summary": "The US will deploy advanced Patriot interceptor missiles on Japanese soil this year for the first time as the region braces itself for a possible test launch by North Korea of an intercontinental ballistic missile, local media reports said yesterday.\nUS bases on the southern Japanese island of Okinawa will host the missiles, said to be capable of intercepting ballistic missiles being developed by Pyongyang, as well as cruise missiles and aircraft.\nSpeculation continues that North Korea is preparing to test launch a Taepodong-2 missile, thought to be capable of reaching parts of the US mainland.",
+    "sentiment": {
+        "neg": 0.0,
+        "neu": 0.8807,
+        "pos": 0.1193,
+        "compound": 0.4495
+    }
+}

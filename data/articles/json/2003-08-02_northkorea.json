@@ -1,0 +1,27 @@
+{
+    "date": "2003-08-02T01:21:04Z",
+    "title": "North Korea agrees to fresh talks",
+    "url": "https://www.theguardian.com/world/2003/aug/02/northkorea",
+    "content": "North Korea conceded ground in its nuclear stand-off with the US yesterday by agreeing to a new round of multilateral talks that could pave the way for a solution to the world's last cold war stand-off. Since the start of the crisis last October, the nation has held out for one-to-one talks with the US with which it is still technically at war. Faced by growing pressure from Washington and its neighbours, however, North Korea said yesterday that it would accept a six-nation format for negotiations. Under the proposal, Washington's traditional allies, Japan and South Korea, would join Pyongyang's one-time supporters, China and Russia, at the table. But the semblance of balance is unlikely to help North Korea because all of the nations have called for the peninsula to be free of nuclear weapons. No date or venue has been announced for the new round of talks, the first since a series of fruitless discussions in Beijing in April. However, US officials welcomed the North Korean offer as a step towards its goal of ensuring a verifiable, irreversible end to Pyongyang's nuclear weapons programme. As was the case in April, China appears to have played a central role in bridging the gulf between North Korea and the outside world. Huge obstacles remain. North Korea says it has reprocessed enough plutonium to build up to eight atomic bombs - a deterrent that it says it needs more than ever after seeing what happened to Iraq. The US also suspects that Pyongyang is pursuing a uranium enrichment programme. Getting the sides to agree to a dismantling and monitoring deal could take years.",
+    "keywords": [
+        "fresh",
+        "war",
+        "round",
+        "korea",
+        "pyongyangs",
+        "talks",
+        "nuclear",
+        "standoff",
+        "agrees",
+        "weapons",
+        "yesterday",
+        "north"
+    ],
+    "summary": "Faced by growing pressure from Washington and its neighbours, however, North Korea said yesterday that it would accept a six-nation format for negotiations.\nBut the semblance of balance is unlikely to help North Korea because all of the nations have called for the peninsula to be free of nuclear weapons.\nHowever, US officials welcomed the North Korean offer as a step towards its goal of ensuring a verifiable, irreversible end to Pyongyang's nuclear weapons programme.\nAs was the case in April, China appears to have played a central role in bridging the gulf between North Korea and the outside world.\nNorth Korea says it has reprocessed enough plutonium to build up to eight atomic bombs - a deterrent that it says it needs more than ever after seeing what happened to Iraq.",
+    "sentiment": {
+        "neg": 0.1185,
+        "neu": 0.7532,
+        "pos": 0.1283,
+        "compound": 0.0478
+    }
+}

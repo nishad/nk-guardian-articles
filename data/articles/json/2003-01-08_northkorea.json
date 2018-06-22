@@ -1,0 +1,26 @@
+{
+    "date": "2003-01-08T02:29:37Z",
+    "title": "Sanctions would be an act of war, Pyongyang says",
+    "url": "https://www.theguardian.com/world/2003/jan/08/northkorea",
+    "content": "North Korea said yesterday that if economic sanctions were imposed it would be treated as an act of war. Giving its first response to an ultimatum issued on Monday by the International Atomic Energy Agency, a statement by the Korean Central News Agency said: \"Sanctions mean a war and the war knows no mercy.\" The statement called for talks with the United States to end the dispute about its nuclear weapons programme. On Monday the IAEA gave Pyongyang a last chance to shut down its experimental nuclear plant in Yongbyon and let the IAEA inspectors expelled last month back into the country. Mohamed El Baradei, head of the IAEA, said: \"We have made it very clear to North Korea that it is not an open-ended invitation. It's only a matter of weeks. If they do not come into compliance, we will have to go to the [UN] security council and the security council will take it from there.\" The Council has the authority to impose sanctions and other punitive measures. Sanctions would fit in with US proposals to isolate Pyongyang economically and politically until it scraps its plans to build nuclear weapons. But South Korea is nervous that the crisis may be worsened, and has won the support of China and Russia to seek a diplomatic resolution. Yesterday President George Bush played down the tension on the peninsula, saying he would not order US troops to attack North Korea and was open to dialogue. Nevertheless the North's media said 100,000 people had rallied in Pyongyang to support the government's military build-up. It said the crowd vowed \"to step up the general advance in the new year under the army-based revolutionary leadership of Kim Jong-il\". According to the Korea Institute for International Economic Policy in South Korea, the North spends 14.4% of its national budget on its army, at one million strong the world's third biggest. It may already have used its eviction of the inspectors to acquire a new weapon. The Japanese news agency Kyodo reports that a document distributed to 35 IAEA member states said there was a strong possibility that North Korea had acquired enough plutonium since it removed the seals from the reactor last month for a small \"dirty\" bomb.",
+    "keywords": [
+        "war",
+        "iaea",
+        "korea",
+        "agency",
+        "sanctions",
+        "nuclear",
+        "act",
+        "council",
+        "pyongyang",
+        "yesterday",
+        "north"
+    ],
+    "summary": "North Korea said yesterday that if economic sanctions were imposed it would be treated as an act of war.\nGiving its first response to an ultimatum issued on Monday by the International Atomic Energy Agency, a statement by the Korean Central News Agency said: \"Sanctions mean a war and the war knows no mercy.\"\nMohamed El Baradei, head of the IAEA, said: \"We have made it very clear to North Korea that it is not an open-ended invitation.\nSanctions would fit in with US proposals to isolate Pyongyang economically and politically until it scraps its plans to build nuclear weapons.\nYesterday President George Bush played down the tension on the peninsula, saying he would not order US troops to attack North Korea and was open to dialogue.",
+    "sentiment": {
+        "neg": 0.1344,
+        "neu": 0.7674,
+        "pos": 0.0982,
+        "compound": -0.1504
+    }
+}

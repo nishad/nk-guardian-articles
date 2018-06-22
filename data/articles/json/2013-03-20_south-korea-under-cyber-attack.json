@@ -1,0 +1,30 @@
+{
+    "date": "2013-03-20T10:00:00Z",
+    "title": "South Korea on alert for cyber-attacks after major network goes down",
+    "url": "https://www.theguardian.com/world/2013/mar/20/south-korea-under-cyber-attack",
+    "content": "Reading this on mobile? Click here to view video South Korea is investigating a suspected cyber-attack that paralysed systems at major media and banks on Wednesday, amid speculation that the North could be responsible. The computer networks of three broadcasters - KBS, MBC and YTN - and two banks, Shinhan and Nonghyup, froze at around 2pm local time. Shinhan said its ATMs, payment terminals and mobile banking in the South were affected. TV broadcasts were not affected. Warnings reportedly appeared on some computer screens from a previously unknown group calling itself the \"WhoisTeam\", showing skulls and a message stating it was only the beginning of \"our movement\". A presidential aide said it had not been determined whether North Korea was involved, state news agency Yonhap reported. The South's communications watchdog raised its alert level on cyber-attacks to level three on a five-tier scale, tripling the number of staff monitoring the situation. A police official told Reuters: \"We sent down teams to all affected sites. We are now assessing the situation. This incident is pretty massive and will take a few days to collect evidence.\" Defence minister Kim Kwan-jin covened an emergency security meeting and raised the military's cyberattack readiness level from three to four on the five-tier system, Yonhap reported. The banks have since restored their operations, but the television stations could not say when they would be able to get their systems back up. Some workers at the stations could not boot their computers. The development comes amid high tensions on the Korean peninsula. Pyongyang reacted furiously after the United Nations Security Council tightened sanctions earlier this month because of its latest nuclear test. Last week it accused the United States and South Korea of staging cyber attacks against it following a two day internet outage that disrupted its main news services and websites. Access to the internet is restricted to a tiny proportion of the North's population, perhaps a few thousand. A spokesman for Bangkok-based Loxley Pacific, the broadband internet provider for North Korea, told the Associated Press on Friday that the origin of that attack was unclear. The South denied involvement and the US military declined to comment. Daniel Pinkston, north east Asia project director for the International Crisis Group, said the timing of today's problems was interesting given Pyongyang's accusations of US cyber-attacks, and said that there were ongoing concerns about North Korea developing its hacking capabilities. Last year the top US commander in the region told a Congressional hearing: \"North Korea employs sophisticated computer hackers trained to launch cyber infiltration and cyber attacks.\" James Thurman, the commander of US Forces Korea, suggested they were \"increasingly employed against a variety of targets including military, governmental, educational and commercial institutions.\" Experts believe the South has been previously targeted by hackers from the North. Anti-virus firm McAfee said it believed a 10-day denial of service attack in 2011 originated from the North and suggested it was an attempt to test the South's computer defences in preparation for potential future conflicts. Another attack on a newspaper last year was also blamed on North Korean hackers. \"It's got to be a hacking attack,\" Lim Jong-in, dean of Korea University's Graduate School of Information Security, told the Associated Press. \"Such simultaneous shutdowns cannot be caused by technical glitches.\" He warned that it would take months to determine the source of the attacks.",
+    "keywords": [
+        "computer",
+        "south",
+        "level",
+        "korea",
+        "goes",
+        "north",
+        "internet",
+        "major",
+        "hackers",
+        "told",
+        "alert",
+        "security",
+        "cyberattacks",
+        "network",
+        "attack"
+    ],
+    "summary": "Click here to view video South Korea is investigating a suspected cyber-attack that paralysed systems at major media and banks on Wednesday, amid speculation that the North could be responsible.\nA presidential aide said it had not been determined whether North Korea was involved, state news agency Yonhap reported.\nA spokesman for Bangkok-based Loxley Pacific, the broadband internet provider for North Korea, told the Associated Press on Friday that the origin of that attack was unclear.\nLast year the top US commander in the region told a Congressional hearing: \"North Korea employs sophisticated computer hackers trained to launch cyber infiltration and cyber attacks.\"\n\"It's got to be a hacking attack,\" Lim Jong-in, dean of Korea University's Graduate School of Information Security, told the Associated Press.",
+    "sentiment": {
+        "neg": 0.0908,
+        "neu": 0.8547,
+        "pos": 0.0545,
+        "compound": -0.1025
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2003-11-05T03:01:26Z",
+    "title": "East Asian press review",
+    "url": "https://www.theguardian.com/world/2003/nov/05/northkorea.japan",
+    "content": "The highest profile defector from North to South Korea, Hwang Jang-yop, visited Washington this week to meet Bush administration officials. \"Despite the apparent loyalty of the military, he said North Korean soldiers would one day rise against the regime,\" reported the South Korean newspaper JoongAng Ilbo. But another Seoul-based paper, Dong-A Ilbo, was not convinced Mr Hwang, previously a top official in the North's ruling Workers' party, was predicting the overthrow of Kim Jong-il any time soon. The paper said Mr Hwang, who defected to the South in 1997, remembered \"some companies and platoons rose in revolt from time to time, but all of them were killed.\" Chosun Ilbo was angered by an attempt at reconciliation between North and South through sport. The South's unification minister, Jeong Se-hyun, agreed to give the North $2.2m (\u00a31.3m) to send a team to a sports festival in the South in September, and then denied it to parliament. \"Thanks to the way the ministry fooled the people and kept the matter secret,\" the paper said, \"the festival ended with a big disturbance... when the North's delegation refused to depart without getting its money, with both sides almost breaking out in full-blown conflict at the hotel.\" Because of such incidents, \"the general public is gradually losing interest in inter-Korean exchanges.\" The military ambitions of another east Asian nation were also in the South Korean news, with Dong-A Ilbo reporting the Japanese prime minister's call for the Japanese \"Self Defence Force\" (SDF) to be reclassified as a military outfit. \"Until now the Japanese government has maintained its position... that the SDF is different from a conventional military force... and is a defensive organisation,\" the paper said. But the prime minister, Junichiro Koizumi, has talked of sending Japanese troops to Iraq, and his party hopes, said the Japanese daily Asahi Shimbun, \"to eliminate constraints on the SDF being used as troops in an alliance with the US\". But, the paper warned, \"the US now has no hesitation about pre-emptive strikes... [and] if Japan goes hand-in-hand with the US, it must be prepared to fight shoulder-to-shoulder... and shed blood.\" Meanwhile, Yomiuri Shimbun reported that the governor of Tokyo, Shintaro Ishihara, was unimpressed by China's feat in sending a man into space. \"That [spaceship] was an outdated one. If Japan wanted to do it, we could do it in one year,\" he boasted.",
+    "keywords": [
+        "east",
+        "south",
+        "military",
+        "troops",
+        "sdf",
+        "ilbo",
+        "hwang",
+        "press",
+        "japanese",
+        "paper",
+        "asian",
+        "review",
+        "north",
+        "korean"
+    ],
+    "summary": "The highest profile defector from North to South Korea, Hwang Jang-yop, visited Washington this week to meet Bush administration officials.\n\"Despite the apparent loyalty of the military, he said North Korean soldiers would one day rise against the regime,\" reported the South Korean newspaper JoongAng Ilbo.\nChosun Ilbo was angered by an attempt at reconciliation between North and South through sport.\nThe military ambitions of another east Asian nation were also in the South Korean news, with Dong-A Ilbo reporting the Japanese prime minister's call for the Japanese \"Self Defence Force\" (SDF) to be reclassified as a military outfit.\nMeanwhile, Yomiuri Shimbun reported that the governor of Tokyo, Shintaro Ishihara, was unimpressed by China's feat in sending a man into space.",
+    "sentiment": {
+        "neg": 0.0882,
+        "neu": 0.8509,
+        "pos": 0.061,
+        "compound": -0.0632
+    }
+}

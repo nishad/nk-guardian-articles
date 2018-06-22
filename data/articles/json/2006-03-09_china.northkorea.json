@@ -1,0 +1,26 @@
+{
+    "date": "2006-03-09T00:17:32Z",
+    "title": "Missiles 'fired towards China' by mistake",
+    "url": "https://www.theguardian.com/world/2006/mar/09/china.northkorea",
+    "content": "North Korea has reportedly fired two surface-to-air missiles near its border with China, a reminder of the communist regime's ability to foment instability in the region, amid the ongoing standoff over its nuclear weapons programme. Japan's Kyodo news agency cited a \"security source\" in China as saying the missiles were fired towards China by mistake during a military drill, and apparently landed in the North. The agency also cited a \"western military source\" as saying that the short-range missiles were test-fired easterly towards the Sea of Japan. At least one landed in the sea.",
+    "keywords": [
+        "fired",
+        "military",
+        "sea",
+        "source",
+        "cited",
+        "missiles",
+        "china",
+        "mistake",
+        "landed",
+        "north",
+        "saying"
+    ],
+    "summary": "North Korea has reportedly fired two surface-to-air missiles near its border with China, a reminder of the communist regime's ability to foment instability in the region, amid the ongoing standoff over its nuclear weapons programme.\nJapan's Kyodo news agency cited a \"security source\" in China as saying the missiles were fired towards China by mistake during a military drill, and apparently landed in the North.\nThe agency also cited a \"western military source\" as saying that the short-range missiles were test-fired easterly towards the Sea of Japan.\nAt least one landed in the sea.",
+    "sentiment": {
+        "neg": 0.0857,
+        "neu": 0.882,
+        "pos": 0.0325,
+        "compound": -0.2986
+    }
+}

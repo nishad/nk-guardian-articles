@@ -1,0 +1,30 @@
+{
+    "date": "2014-12-10T11:51:05Z",
+    "title": "FBI doubts North Korea link to Sony Pictures hack",
+    "url": "https://www.theguardian.com/technology/2014/dec/10/fbi-doubts-north-korea-link-sony-pictures-hack",
+    "content": "The FBI has questioned North Korea\u2019s involvement in the cyberattack that crippled Sony Pictures computers and leaked confidential data and films. A senior FBI official said that they had been unable to confirm links between the hack and Pyongyang or affiliated groups. \u201cThere is no attribution to North Korea at this point,\u201d Joe Demarest, assistant director of the FBI\u2019s cyber division told a panel at a cybersecurity conference. \u2018What the bad guys get from the breach is absolutely preventable\u2019 Despite indications in the software used in the attack, Pyongyang\u2019s promise of \u201cmerciless counter-measures\u201d against the Sony Pictures film The Interview and continued demands from hackers to \u201cstop immediately showing the movie of terrorism\u201d, North Korea has officially denied involvement in the \u201crighteous deed\u201d. While security analysts have said that preventing sophisticated and well-funded cyber criminals from breaking into a company is very hard indeed, researchers have criticised Sony Pictures for its poor data security. \u201cThere is a lot of post-breach thinking,\u201d Ken Levine, chief executive of security firm Digital Guardian told Ars Technica. \u201cWhat we are saying is, not that all breaches are preventable, but what the bad guys get from the breach is absolutely preventable.\u201d \u201cThat minimum compliance [by law] is the goal speaks volumes about Sony Pictures\u2019 attitude towards the security of their data,\u201d said security analysts Thinkst in a report on the attacks. \u201cSony subsidiaries have fallen victim to tens of successful attacks in recent years, leading us to question the importance of security in the broader conglomerate.\u201d \u2018Unparalleled and well-planned crime\u2019 The security firm hired by Sony to investigate the attack, FireEye, described the attack as an \u201cunparalleled and well-planned crime, carried out by an organised group, for which neither SPE nor other companies could have been fully prepared\u201d in a leaked report. Part of the data stolen from Sony during the attack included security certificates that are used to digitally sign or vouch for software. Security firm Kaspersky Lab discovered new malware like that used in the attack on Sony Pictures being deployed in further attacks against other companies. The malware had been signed and authorised by Sony Pictures, allowing it to bypass certain security checks. The FBI issued a warning that hackers are using malicious software to launch destructive attacks in the US against businesses, similar to the attack on Sony Pictures. \u2022 Hackers claim responsibility for Sony PlayStation Network outage",
+    "keywords": [
+        "sony",
+        "korea",
+        "software",
+        "attacks",
+        "pictures",
+        "used",
+        "preventable",
+        "data",
+        "link",
+        "fbi",
+        "doubts",
+        "hack",
+        "security",
+        "north",
+        "attack"
+    ],
+    "summary": "The FBI has questioned North Korea\u2019s involvement in the cyberattack that crippled Sony Pictures computers and leaked confidential data and films.\nWhile security analysts have said that preventing sophisticated and well-funded cyber criminals from breaking into a company is very hard indeed, researchers have criticised Sony Pictures for its poor data security.\nSecurity firm Kaspersky Lab discovered new malware like that used in the attack on Sony Pictures being deployed in further attacks against other companies.\nThe malware had been signed and authorised by Sony Pictures, allowing it to bypass certain security checks.\nThe FBI issued a warning that hackers are using malicious software to launch destructive attacks in the US against businesses, similar to the attack on Sony Pictures.",
+    "sentiment": {
+        "neg": 0.1402,
+        "neu": 0.7789,
+        "pos": 0.0811,
+        "compound": -0.3237
+    }
+}

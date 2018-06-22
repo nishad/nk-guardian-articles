@@ -1,0 +1,27 @@
+{
+    "date": "2004-01-21T02:56:33Z",
+    "title": "North Korea 'using food as weapon'",
+    "url": "https://www.theguardian.com/world/2004/jan/21/northkorea",
+    "content": "Amnesty International warned yesterday that food was being used as a political weapon in North Korea, where hundreds of thousands of people have starved to death in the past 10 years. In a report the human rights organisation urged the government in Pyongyang to lift restrictions on aid agencies working in North Korea and encouraged foreign governments to continue providing food despite global concerns about North Korea's nuclear programme. Quoting refugees who had fled at the height of famines in the late 1990s, Amnesty accused North Korea's government of distributing food resources unfairly to reward supporters and punish critics. Under Kim Jong-il's \"military-first\" policy, which is designed to counter the threat from the US, the army always gets first pick of food supplies. The report says that during the worst of the famine, people were publicly executed for stealing food. Food aid has started to dry up in recent months, partly as a result of the nuclear crisis. Amnesty said Pyongyang should lift restrictions on World Food Programme monitors so that donors can check aid is reaching those in need. North Korea must ensure food shortages were not used as a tool to persecute perceived political opponents.",
+    "keywords": [
+        "weapon",
+        "using",
+        "amnesty",
+        "korea",
+        "restrictions",
+        "used",
+        "report",
+        "food",
+        "aid",
+        "pyongyang",
+        "programme",
+        "north"
+    ],
+    "summary": "Amnesty International warned yesterday that food was being used as a political weapon in North Korea, where hundreds of thousands of people have starved to death in the past 10 years.\nIn a report the human rights organisation urged the government in Pyongyang to lift restrictions on aid agencies working in North Korea and encouraged foreign governments to continue providing food despite global concerns about North Korea's nuclear programme.\nFood aid has started to dry up in recent months, partly as a result of the nuclear crisis.\nAmnesty said Pyongyang should lift restrictions on World Food Programme monitors so that donors can check aid is reaching those in need.\nNorth Korea must ensure food shortages were not used as a tool to persecute perceived political opponents.",
+    "sentiment": {
+        "neg": 0.1771,
+        "neu": 0.768,
+        "pos": 0.055,
+        "compound": -0.33
+    }
+}

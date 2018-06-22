@@ -1,0 +1,29 @@
+{
+    "date": "2006-03-21T09:18:56Z",
+    "title": "University fires professor at centre of cloning fraud",
+    "url": "https://www.theguardian.com/science/2006/mar/21/koreanews.research",
+    "content": "Seoul National University fired the disgraced cloning pioneer Hwang Woo-suk yesterday following a disciplinary meeting, saying that he and his colleagues had dishonoured the university. Six other professors were suspended or had their pay cut. Dr Hwang was suspended last month from teaching and conducting research, although he remained a professor. His university concluded in January that his claims were faked. The professor claimed to have created the first cloned human embryos and to have extracted stem cells, raising hopes of cures for diseases such as Alzheimer's.",
+    "keywords": [
+        "fires",
+        "professor",
+        "woosuk",
+        "teaching",
+        "cloning",
+        "university",
+        "centre",
+        "hwang",
+        "seoul",
+        "stem",
+        "fraud",
+        "yesterday",
+        "suspended",
+        "saying"
+    ],
+    "summary": "Seoul National University fired the disgraced cloning pioneer Hwang Woo-suk yesterday following a disciplinary meeting, saying that he and his colleagues had dishonoured the university.\nSix other professors were suspended or had their pay cut.\nDr Hwang was suspended last month from teaching and conducting research, although he remained a professor.\nHis university concluded in January that his claims were faked.\nThe professor claimed to have created the first cloned human embryos and to have extracted stem cells, raising hopes of cures for diseases such as Alzheimer's.",
+    "sentiment": {
+        "neg": 0.1794,
+        "neu": 0.7872,
+        "pos": 0.0334,
+        "compound": -0.2673
+    }
+}

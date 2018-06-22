@@ -1,0 +1,27 @@
+{
+    "date": "2009-04-05T12:23:31Z",
+    "title": "Background: The nuclear nations",
+    "url": "https://www.theguardian.com/world/2009/apr/05/nuclear-weapons-non-proliferation",
+    "content": "The US president, Barack Obama, wants to strengthen the world's nuclear non-proliferation regime, based on the 1968 nuclear non-proliferation treaty (NPT). The treaty is the bedrock of attempts to prevent the spread of nuclear weapons, but is fraying at the edges. All five permanent members of the UN security council \u2013 the US, Russia, China, France and Britain \u2013 are nuclear powers, and are recognised as such in the NPT. The idea at the heart of the treaty is that the five are to progressively disarm in return for other states not acquiring the bomb. The treaty's supporters say it has been relatively successful, noting that many more countries would have been likely to procure the bomb over the past four decades had it not been for the agreement. But the big nuclear powers have failed to keep their side of the bargain, effectively encouraging other states to go nuclear. India, Pakistan and Israel have nuclear weapons, and are three of the four countries not to have signed the NPT. North Korea is the other and, along with Iran, it is suspected of developing nuclear weapons. Apartheid South Africa built a bomb but, uniquely, voluntarily relinquished its nuclear capacity in the 1990s. Saddam Hussein's Iraq tried and failed to develop nuclear weapons. Libya was caught buying bombmaking equipment and gave up. Japan has the fissile material and knowhow to develop one quickly, and building a bomb would not be difficult for Germany either. Experts believe that about 25 countries have sought to obtain nuclear weapons. Other nations occasionally rumoured to have nuclear ambitions include Brazil, Argentina, Libya, Algeria, Saudi Arabia, Syria and Turkey. The black market run by the Pakistani metallurgist Abdul Qadeer Khan \u2013 the world's biggest nuclear racket, which was uncovered in 2003 \u2013 helped Iran, Libya and North Korea. It fuelled fears of a \"non-state actor\" or terrorist organisation being able to acquire a nuclear device. Israel has never officially declared itself to be a nuclear state, but is by some distance the mightiest nuclear power outside the big five. It had a rudimentary device by the late 1960s and is estimated to have stockpiles of more than half a tonne of plutonium and an unknown quantity of weapons-grade high-enriched uranium. The plutonium stockpile is more than the combined total held by the other non-big five nuclear powers and experts estimate that it has around 200 nuclear devices. India went public with its nuclear testing in the Rajasthan desert in 1974, and is now thought to have around 70 nuclear devices. The Indian feat triggered Pakistan's race for the bomb, with Khan playing a central role before turning to the black market. Islamabad announced that it was a nuclear power in 1998, and is believed to have around 15 nuclear devices. The NPT came into force in 1970 and, of the known nuclear bomb states, Pakistan is the only one confirmed to have built a bomb after the NPT regime was in place. North Korea has bragged that it could test a nuclear bomb whenever it wanted to, and Washington suspects that Pyongyang has two devices. Iran's clandestine nuclear projects, more than 20 years old, were discovered in 2003, creating the ongoing crisis. Tehran refuses to halt its uranium enrichment operations, based at underground fortified complex at Natanz. Today, Obama said Iran does not yet have a nuclear bomb, but analysts at the International Atomic Energy Agency, based in Vienna, believe it now has enough uranium enriched to build a single bomb relatively quickly.",
+    "keywords": [
+        "npt",
+        "uranium",
+        "powers",
+        "background",
+        "states",
+        "nations",
+        "nuclear",
+        "weapons",
+        "devices",
+        "treaty",
+        "north",
+        "bomb"
+    ],
+    "summary": "The US president, Barack Obama, wants to strengthen the world's nuclear non-proliferation regime, based on the 1968 nuclear non-proliferation treaty (NPT).\nBut the big nuclear powers have failed to keep their side of the bargain, effectively encouraging other states to go nuclear.\nThe plutonium stockpile is more than the combined total held by the other non-big five nuclear powers and experts estimate that it has around 200 nuclear devices.\nIndia went public with its nuclear testing in the Rajasthan desert in 1974, and is now thought to have around 70 nuclear devices.\nIslamabad announced that it was a nuclear power in 1998, and is believed to have around 15 nuclear devices.",
+    "sentiment": {
+        "neg": 0.098,
+        "neu": 0.8454,
+        "pos": 0.0567,
+        "compound": -0.0964
+    }
+}

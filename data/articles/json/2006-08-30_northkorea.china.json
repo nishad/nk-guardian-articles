@@ -1,0 +1,31 @@
+{
+    "date": "2006-08-30T23:03:39Z",
+    "title": "Reports of leader's China visit fuel nuclear fears",
+    "url": "https://www.theguardian.com/world/2006/aug/31/northkorea.china",
+    "content": "International concerns about a possible North Korean nuclear test increased yesterday with reports that Kim Jong-il may have crossed into China to explain his military provocations to Beijing. According to the South Korean media, satellites have tracked a special North Korean train, the usual form of transport for Mr Kim, entering Chinese territory. The reports are impossible to verify, but they come amid growing signs of Chinese anger with Mr Kim over missile tests last month, and anxiety in the region about his next move.",
+    "keywords": [
+        "leaders",
+        "mr",
+        "verify",
+        "reports",
+        "nuclear",
+        "visit",
+        "china",
+        "kim",
+        "fears",
+        "chinese",
+        "usual",
+        "transport",
+        "fuel",
+        "yesterday",
+        "north",
+        "korean"
+    ],
+    "summary": "International concerns about a possible North Korean nuclear test increased yesterday with reports that Kim Jong-il may have crossed into China to explain his military provocations to Beijing.\nAccording to the South Korean media, satellites have tracked a special North Korean train, the usual form of transport for Mr Kim, entering Chinese territory.\nThe reports are impossible to verify, but they come amid growing signs of Chinese anger with Mr Kim over missile tests last month, and anxiety in the region about his next move.",
+    "sentiment": {
+        "neg": 0.062,
+        "neu": 0.86,
+        "pos": 0.078,
+        "compound": -0.0159
+    }
+}

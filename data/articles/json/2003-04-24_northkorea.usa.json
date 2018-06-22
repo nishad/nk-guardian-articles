@@ -1,0 +1,27 @@
+{
+    "date": "2003-04-24T13:13:36Z",
+    "title": "North Korea issues war warning to US",
+    "url": "https://www.theguardian.com/world/2003/apr/24/northkorea.usa",
+    "content": "Even as North Korean negotiators met today with US officials to seek a solution to the standoff over the communist state's nuclear ambitions, Pyongyang warned that war could break out on the Korean peninsula. The North's Korean people's army (KPA) vowed to \"put all people under arms and turn the whole country into a fortress\", and urged its soldiers to become \"human bombs and fighters ready to blow up themselves\" to protect leader Kim Jong Il. The North's defence minister, Kim Il Chol, said: \"If the US imperialists and their followers intrude into even an inch of the inviolable sky, land and sea of the [North] ... the KPA will deal merciless deadly blows at the aggressors and achieve a final victory in the confrontation with the US.\" Kim made the comments in a speech on the eve of the North Korean military's 71st anniversary, Pyongyang's official news agency KCNA said. North Korea routinely issues such belligerent remarks against the United States. In a separate dispatch, KCNA said Pyongyang was ready to settle the dispute over its suspected nuclear weapons programmes and that a resolution was up to the United States. The \"master key\" for successful talks was for the United States to drop its hostile policy toward Pyongyang, it said. KCNA said the war in Iraq had shown the only way for a country to protect itself was to have a strong military deterrent. \"In actuality, the situation on the Korean peninsula is so tense that a war may break out any moment due to the US moves,\" KCNA said. North Korea has repeatedly accused Washington of planning to invade it, once US forces are done in Iraq. Officials from Seoul and Washington have said the swift US-led victory in Iraq prompted North Korea to agree to the nuclear talks. US and North Korean negotiators met in Beijing yesterday for talks on the nuclear issue, which were scheduled to continue until tomorrow. The talks are the first since the nuclear crisis erupted six months ago. South Korea's foreign minister has said negotiations could take as long as three years. Japan and South Korea hope to join subsequent discussions and have sent diplomats to Beijing to monitor the talks. The nuclear crisis began in October when US officials said North Korea admitted running a clandestine nuclear weapons program in violation of a 1994 deal. The United States has said it wants to resolve the crisis through diplomacy, but has not ruled out military action.",
+    "keywords": [
+        "kcna",
+        "war",
+        "korea",
+        "states",
+        "warning",
+        "talks",
+        "nuclear",
+        "issues",
+        "united",
+        "pyongyang",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea routinely issues such belligerent remarks against the United States.\nNorth Korea has repeatedly accused Washington of planning to invade it, once US forces are done in Iraq.\nOfficials from Seoul and Washington have said the swift US-led victory in Iraq prompted North Korea to agree to the nuclear talks.\nThe nuclear crisis began in October when US officials said North Korea admitted running a clandestine nuclear weapons program in violation of a 1994 deal.\nThe United States has said it wants to resolve the crisis through diplomacy, but has not ruled out military action.",
+    "sentiment": {
+        "neg": 0.1081,
+        "neu": 0.7959,
+        "pos": 0.096,
+        "compound": -0.0588
+    }
+}

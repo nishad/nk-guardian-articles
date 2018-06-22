@@ -1,0 +1,29 @@
+{
+    "date": "2003-03-28T02:17:00Z",
+    "title": "Launch of Japanese satellite fuels friction with North Korea",
+    "url": "https://www.theguardian.com/science/2003/mar/28/spaceexploration.japan",
+    "content": "A glistening, black-and-orange rocket carrying Japan's first spy satellites was moved to its launch pad for a final countdown on a remote island yesterday, amid tight security. As helicopters hovered overhead and coastguard ships patrolled offshore, police set up road blocks two miles from the launch pad at the Tanegashima space centre, on Tanegashima island, 700 miles south-west of Tokyo. The project has fuelled friction between Japan and North Korea which has called the satellites a \"grave threat\". Officials have tried to play down concerns about Pyongyang's threat to retaliate by testing a long-range missile. It was the test of a North Korean Taepodong missile - which flew over Japan's main island and crashed in the Pacific four years ago - which prompted Tokyo to establish its \u00a31.3bn spy satellite programme. With the initial go-ahead issued yesterday, despite poor weather, the 57-metre (170ft) H2-A rocket was hauled on to the launch pad ready to lift the satellites into orbit. Until now, Tokyo has relied on the US for its intelligence on North Korea. The satellites, with two more planned, will give it more independence. Along with concerns over the North's missiles, which put Japan within range, Tokyo wants to monitor North Korea's nuclear weapons programme. Japanese officials stressed that the satellites could monitor natural disasters and were for \"peaceful purposes\". Pyongyang has hinted it might launch more satellites of its own. It claims it launched one in 1998. North Korea also says that Japan's launch violates an agreement signed last September extending a moratorium on long-range missile launches. Officials say there are indications that North Korea may be readying another missile for a test launch. \"For North Korea, a missile launch means a way to boost patriotism at home and a warning to the United States,\" Hajime Ozu, a military analyst, said. \"It's one of the few remaining key diplomatic tactics North Korea has.\" AP",
+    "keywords": [
+        "launch",
+        "friction",
+        "korea",
+        "satellites",
+        "japans",
+        "fuels",
+        "japanese",
+        "officials",
+        "pad",
+        "island",
+        "missile",
+        "satellite",
+        "tokyo",
+        "north"
+    ],
+    "summary": "The project has fuelled friction between Japan and North Korea which has called the satellites a \"grave threat\".\nNorth Korea also says that Japan's launch violates an agreement signed last September extending a moratorium on long-range missile launches.\nOfficials say there are indications that North Korea may be readying another missile for a test launch.\n\"For North Korea, a missile launch means a way to boost patriotism at home and a warning to the United States,\" Hajime Ozu, a military analyst, said.\n\"It's one of the few remaining key diplomatic tactics North Korea has.\"",
+    "sentiment": {
+        "neg": 0.0579,
+        "neu": 0.8623,
+        "pos": 0.0797,
+        "compound": 0.0376
+    }
+}

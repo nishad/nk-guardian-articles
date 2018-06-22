@@ -1,0 +1,29 @@
+{
+    "date": "2006-10-21T23:24:06Z",
+    "title": "Aid agencies warn of food crisis",
+    "url": "https://www.theguardian.com/world/2006/oct/22/northkorea",
+    "content": "An already dire humanitarian situation in North Korea is likely to worsen this winter after the impoverished country's nuclear brinkmanship resulted in sanctions and intensified scrutiny, aid workers warned. North Korea has still not recovered from famine in the 1990s that experts believe killed about 2.5 million people - 10 per cent of the population. UN sanctions imposed after North Korea's underground nuclear test this month do not cover aid supplies and charities have been assured the curbs won't bar them from operating in the country. 'US NGOs have been allowed to conduct humanitarian assistance activities in North Korea, most of those at a modest scale,' said a senior private aid official, who requested anonymity because of the sensitivity of the issue. 'Those have not been affected to date by the growing estrangement in the political relationship.' But the UN measures which block trade with North Korea in weapons of mass destruction, heavy conventional weapons and luxury goods, come as the big international relief flows that had fed millions since the 1990s are drying up. A day after North Korea announced its nuclear test, the World Food Program, the UN's food relief arm, warned that it could be forced to halt distributions as early as January without more donations.",
+    "keywords": [
+        "korea",
+        "crisis",
+        "nuclear",
+        "test",
+        "sanctions",
+        "relief",
+        "weapons",
+        "humanitarian",
+        "food",
+        "aid",
+        "warned",
+        "warn",
+        "agencies",
+        "north"
+    ],
+    "summary": "An already dire humanitarian situation in North Korea is likely to worsen this winter after the impoverished country's nuclear brinkmanship resulted in sanctions and intensified scrutiny, aid workers warned.\nNorth Korea has still not recovered from famine in the 1990s that experts believe killed about 2.5 million people - 10 per cent of the population.\nUN sanctions imposed after North Korea's underground nuclear test this month do not cover aid supplies and charities have been assured the curbs won't bar them from operating in the country.\n'US NGOs have been allowed to conduct humanitarian assistance activities in North Korea, most of those at a modest scale,' said a senior private aid official, who requested anonymity because of the sensitivity of the issue.\nA day after North Korea announced its nuclear test, the World Food Program, the UN's food relief arm, warned that it could be forced to halt distributions as early as January without more donations.",
+    "sentiment": {
+        "neg": 0.126,
+        "neu": 0.8003,
+        "pos": 0.0737,
+        "compound": -0.2451
+    }
+}

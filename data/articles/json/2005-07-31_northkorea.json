@@ -1,0 +1,28 @@
+{
+    "date": "2005-07-31T23:08:17Z",
+    "title": "Demands by North Korea snag talks",
+    "url": "https://www.theguardian.com/world/2005/aug/01/northkorea",
+    "content": "North Korea's demands snarled talks at international disarmament negotiations yesterday. The communist country is offering to abandon its nuclear weapons programme in exchange for security guarantees from the US and other incentives. Deputy leaders of the six delegations at the talks spent five hours discussing a Chinese-drafted proposal. But the negotiations ended their sixth day without an agreement. South Korea's main nuclear envoy said more consultations were planned for today. The North has demanded concessions including security guarantees and aid from Washington before it eliminates its weapons programme, while the US wants to see the arms destroyed first. The North has also insisted that it be allowed to run a peaceful nuclear power programme, something Washington objects to out of proliferation concerns. North Korea's foreign minister has repeated that the country could rejoin the nuclear non-proliferation treaty and admit international inspectors if the talks are successful. Meanwhile, South Korea said yesterday it had agreed with the North to hold an opening ceremony in late October for railways and roads reconnected across the heavily fortified border dividing the peninsula.",
+    "keywords": [
+        "south",
+        "korea",
+        "north",
+        "washington",
+        "nuclear",
+        "demands",
+        "weapons",
+        "programme",
+        "security",
+        "snag",
+        "yesterday",
+        "talks",
+        "koreas"
+    ],
+    "summary": "North Korea's demands snarled talks at international disarmament negotiations yesterday.\nThe communist country is offering to abandon its nuclear weapons programme in exchange for security guarantees from the US and other incentives.\nSouth Korea's main nuclear envoy said more consultations were planned for today.\nThe North has also insisted that it be allowed to run a peaceful nuclear power programme, something Washington objects to out of proliferation concerns.\nNorth Korea's foreign minister has repeated that the country could rejoin the nuclear non-proliferation treaty and admit international inspectors if the talks are successful.",
+    "sentiment": {
+        "neg": 0.0793,
+        "neu": 0.8511,
+        "pos": 0.0698,
+        "compound": -0.0044
+    }
+}

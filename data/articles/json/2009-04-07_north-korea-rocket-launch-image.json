@@ -1,0 +1,27 @@
+{
+    "date": "2009-04-07T23:01:00Z",
+    "title": "North Korean rocket launch caught on film",
+    "url": "https://www.theguardian.com/world/2009/apr/08/north-korea-rocket-launch-image",
+    "content": "A striking satellite image released yesterday shows the moment North Korea launched a long-range rocket on Sunday in defiance of international pressure. The image was taken from an altitude of 308 miles (496km) by the WorldView-1 satellite moments after the rocket blasted off at 11.10am local time. North Korea's official news agency said the Taepodong-2 rocket placed a satellite in orbit that is now broadcasting revolutionary songs. The Pentagon claimed the launch failed and the rocket broke up and fell into the Pacific Ocean. The launch triggered an emergency meeting of the UN security council amid fears the launch was a covert military exercise. The rocket is capable of carrying warheads and has a range of 4,160 miles, putting Alaska and Hawaii within its reach. The WorldView-1 satellite is operated by the US imaging company Digital Globe, which snapped the North Korean rocket on its launchpad last week using another satellite called Quickbird. Allison Puccioni, a senior image analyst for IHS Jane's, said it was the first time a satellite had captured a rocket mid-launch. \"The significance of this image is quite extraordinary,\" she said. \"I have never seen anything like it.\" The image shows a long contrail left behind by the rocket as it reaches supersonic speeds over the Korean peninsula. The rocket itself appears in white at the end of the contrail. Puccioni said analysts are still studying the image, which appears to show the rocket at an angle. \"It looks as though there's been a slight change in its trajectory,\" she said. The rocket may have been caught during a stage separation. The camera aboard the WorldView-1 satellite has a resolution of 50cm and would have been over North Korea from 11am to midday on the morning of the launch. It travels at 17,000mph and can only take one picture as it hurtles overhead. Puccioni suspects Pyongyang had timed the controversial launch to coincide with the satellite's arrival, in the hope of maximising publicity of the launch.",
+    "keywords": [
+        "launch",
+        "shows",
+        "puccioni",
+        "image",
+        "worldview1",
+        "film",
+        "miles",
+        "caught",
+        "satellite",
+        "rocket",
+        "north",
+        "korean"
+    ],
+    "summary": "A striking satellite image released yesterday shows the moment North Korea launched a long-range rocket on Sunday in defiance of international pressure.\nNorth Korea's official news agency said the Taepodong-2 rocket placed a satellite in orbit that is now broadcasting revolutionary songs.\nThe launch triggered an emergency meeting of the UN security council amid fears the launch was a covert military exercise.\nThe WorldView-1 satellite is operated by the US imaging company Digital Globe, which snapped the North Korean rocket on its launchpad last week using another satellite called Quickbird.\nThe image shows a long contrail left behind by the rocket as it reaches supersonic speeds over the Korean peninsula.",
+    "sentiment": {
+        "neg": 0.0647,
+        "neu": 0.8941,
+        "pos": 0.0411,
+        "compound": -0.0674
+    }
+}

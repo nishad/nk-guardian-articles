@@ -1,0 +1,30 @@
+{
+    "date": "2012-12-05T14:39:01Z",
+    "title": "Unicorn lair 'discovery' blamed partly on mistranslation",
+    "url": "https://www.theguardian.com/world/2012/dec/05/north-korea",
+    "content": "Mystery surrounds what really goes on within the borders of North Korea, from the number of political prisoners held in brutal labour camps, to whether Kim Jong-un has really tied the knot. It was nonetheless surprising to read last week that archaeologists in the secretive totalitarian state had claimed to have found a unicorn's lair. There is only one problem with the story: it isn't exactly true. It appears a combination of mistranslation and journalistic wishful thinking may be to blame for the fantastical claim, which was made in an English language report from the Korean Central News Agency (KCNA). The report, published on the KCNA's website last week, revealed that archaeologists from the History Institute of the DPRK Academy of Social Sciences had \"reconfirmed a lair of the unicorn rode by King Tongmyong, founder of the Koguryo Kingdom (BC 277-AD 668)\". But as a Korean scholar called Sixiang Wang explained to the i09 website, a glance at the original Korean version of the story made clear that North Korean archaeologists were claiming no such thing. For starters, there was no talk of unicorns, but of \"kirins\" or \"Qilins\" \u2013 which James Grayson, emeritus professor of Korean studies at Sheffield university, describes as \"a four-legged beast with a dragon's head\". His Sheffield colleague, Sukyeon Cho, said Kirins have \"the body of a deer, the tail of a cow, hooves and a mane\", as well as a horn jutting out from the top of their heads. The kirin is important in North Korean folklore because it was the preferred mode of transport of King Tongmyong, the founder of Koguryo, an ancient Korean kingdom. The North Koreans, said Sixiang Wang, were laying claim to a place called \"Kiringul\" \u2013 literally Kirin's lair or cave or grotto, according to Grayson \u2013 200 metres from the Yongmyong Temple in Moran Hill in Pyongyang City. There was no suggestion unicorns really lived in the lair. It was just a mythical name, said Grayson. Just as only small children expect to find giants at the Giants Causeway in Northern Ireland or fairies at the Fairy Steps in Beetham, Cumbria, North Koreans are highly unlikely to believe that kirins have ever actually lived in Kiringul. As i09 puts it: \"The thrust of the North Korean government's announcement is that it claims to have discovered Kiringul, and thus to have proven that Pyongyang is the modern site of the ancient capital of Koguryo.\" Sixiang Wang is sceptical about the timing of North Korea's announcement, reported i09: \"The Kirin was supposed to appear to wise rulers. North Korean officials may have been hoping to secure Pyongyang's connection to the ancient kingdom of Koguryo, while creating an association between their own president, Kim Jong-un, and the larger-than-life rulers of old.\"",
+    "keywords": [
+        "discovery",
+        "lair",
+        "sixiang",
+        "unicorn",
+        "koguryo",
+        "mistranslation",
+        "wang",
+        "really",
+        "kiringul",
+        "unicorns",
+        "partly",
+        "blamed",
+        "kirins",
+        "north",
+        "korean"
+    ],
+    "summary": "It was nonetheless surprising to read last week that archaeologists in the secretive totalitarian state had claimed to have found a unicorn's lair.\nBut as a Korean scholar called Sixiang Wang explained to the i09 website, a glance at the original Korean version of the story made clear that North Korean archaeologists were claiming no such thing.\nThe kirin is important in North Korean folklore because it was the preferred mode of transport of King Tongmyong, the founder of Koguryo, an ancient Korean kingdom.\nThere was no suggestion unicorns really lived in the lair.\nSixiang Wang is sceptical about the timing of North Korea's announcement, reported i09: \"The Kirin was supposed to appear to wise rulers.",
+    "sentiment": {
+        "neg": 0.0704,
+        "neu": 0.8749,
+        "pos": 0.0546,
+        "compound": 0.0132
+    }
+}

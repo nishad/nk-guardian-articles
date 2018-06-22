@@ -1,0 +1,29 @@
+{
+    "date": "2003-01-12T01:31:35Z",
+    "title": "Leader: North Korean peril",
+    "url": "https://www.theguardian.com/news/2003/jan/12/leaders.northkorea",
+    "content": "The world faces a fresh international crisis, originating not in Baghdad but in Pyongyang. North Korea's withdrawal from the nuclear non-proliferation pact, the recommissioning of its mothballed plutonium reprocessing plant and its announcement that it will resume testing ballistic missiles has thrown the gauntlet down before the Americans and the Bush doctrine of pre-emptive intervention. Any retaliation by the UN Security Council, say the Koreans, will be interpreted as an act of war: implicitly, a threat to attack South Korea. The Americans have said they would counter pre-emptively, if necessary with nuclear weapons. The Koreans want the US to sign a non-aggression pact and drop sanctions on fuel oil exports - and will only submit to nuclear weapons inspections if their terms are met. But if the US backs down, the inconsistencies between a softly-softly approach to Korea and belligerence towards Iraq will undermine any effort to legitimise a Gulf war. Yet if the US does nothing, it will face Korea being in possession of nuclear weapons by the summer - and the danger that in economic desperation, Pyongyang might raise hard currency by selling nuclear bomb-making capacity to terrorist groups. The regime in North Korea is vicious and unpredictable. But the origin of this crisis lies not just in the twisted calculations of its leader, Kim Jong Il. America is in part reaping the consequences of its aggressive approach to foreign policy, in particular its disdain for international treaties. It does not observe the non-proliferation pact and has ended the ballistic missile treaty: there is one rule for itself and another for Korea. Its unilateralism has created the context for the challenge now issuing from Pyongyang. The multilateralist approach to the Iraq crisis pursued through the UN is surely the sounder path. It has become clear that intervention in Iraq is dependent on the findings of the UN weapons inspectors, which must be justified by a second UN Resolution. Pre-emptive unilateralism is stone dead. Xavier Solana, the EU's representative for foreign and security policy, has called for a reaffirmation of multilateralism as the only way forward. Without it there is a real risk of either nuclear war or the unchecked dissemination of dirty nuclear bombs.",
+    "keywords": [
+        "war",
+        "approach",
+        "leader",
+        "korea",
+        "iraq",
+        "pact",
+        "crisis",
+        "nuclear",
+        "weapons",
+        "unilateralism",
+        "peril",
+        "pyongyang",
+        "north",
+        "korean"
+    ],
+    "summary": "The Americans have said they would counter pre-emptively, if necessary with nuclear weapons.\nThe Koreans want the US to sign a non-aggression pact and drop sanctions on fuel oil exports - and will only submit to nuclear weapons inspections if their terms are met.\nBut the origin of this crisis lies not just in the twisted calculations of its leader, Kim Jong Il.\nThe multilateralist approach to the Iraq crisis pursued through the UN is surely the sounder path.\nWithout it there is a real risk of either nuclear war or the unchecked dissemination of dirty nuclear bombs.",
+    "sentiment": {
+        "neg": 0.2025,
+        "neu": 0.7449,
+        "pos": 0.0526,
+        "compound": -0.3808
+    }
+}

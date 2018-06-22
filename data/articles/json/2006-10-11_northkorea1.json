@@ -1,0 +1,27 @@
+{
+    "date": "2006-10-11T09:40:59Z",
+    "title": "Diplomat says test was smaller than expected",
+    "url": "https://www.theguardian.com/world/2006/oct/11/northkorea1",
+    "content": "A North Korean diplomat admitted yesterday that the country's nuclear test was smaller than expected, as doubts were expressed in western capitals about North Korea's claim to have successfully exploded a nuclear weapon. While few argue Kim Jong-il's regime faked the whole event by packing a disused mine with conventional explosives, there is a growing view that while Pyongyang did carry out a nuclear weapons test it was only partially successful. Quoting an unnamed North Korean diplomat at its embassy in Beijing, South Korea's Hankyoreh newspaper said the diplomat claimed the test was a success and \"smaller in scale than expected\". \"But the success in a small-scale [test] means a large-scale [test] is also possible,\" Associated Press quoted him as saying. The US administration said yesterday it might take weeks to establish the truth and it might be impossible ever to be sure what happened. Tony Snow, the White House press secretary, said it was possible the test was something less than it appeared and the intelligence community was continuing to assess the explosion. US monitoring stations and Japanese planes are sampling the air and water around the peninsula for traces of radiation. South Korean officials estimate it will take two weeks to get a clear idea. But if the North Koreans have been able to seal the mine, as claimed, there would be no radiation to detect. The speculation was prompted by reports of a relatively modest test. Estimates of its power range from Russia's guess of 15 kilotons - the same as the Nagasaki bomb - to France's claim it may have been 500 tonnes, an unusually small amount. \"Politically it seems very odd to design a test weapon with a yield of just 1 kiloton, because people will have anticipated a larger device and think it just fizzed. That the yield wasn't higher suggests the test was not entirely successful,\" said James Acton at the London-based group Vertic. Mark Fitzpatrick, a former US state department diplomat and now a senior fellow for non-proliferation at the London-based International Institute for Strategic Studies, said yesterday: \"It is my assumption it was a nuclear test.\" Seismic charts from global monitoring stations may still hold clues. In particular, seismologists are checking for signs that the shockwaves emerged from a single point, evidence that a small nuclear device was used instead of the equivalent amount of conventional explosives, which would occupy a room 100 metres square.",
+    "keywords": [
+        "yield",
+        "weapon",
+        "expected",
+        "nuclear",
+        "weeks",
+        "yesterday",
+        "diplomat",
+        "test",
+        "successful",
+        "smaller",
+        "north",
+        "korean"
+    ],
+    "summary": "A North Korean diplomat admitted yesterday that the country's nuclear test was smaller than expected, as doubts were expressed in western capitals about North Korea's claim to have successfully exploded a nuclear weapon.\nQuoting an unnamed North Korean diplomat at its embassy in Beijing, South Korea's Hankyoreh newspaper said the diplomat claimed the test was a success and \"smaller in scale than expected\".\n\"But the success in a small-scale [test] means a large-scale [test] is also possible,\" Associated Press quoted him as saying.\n\"Politically it seems very odd to design a test weapon with a yield of just 1 kiloton, because people will have anticipated a larger device and think it just fizzed.\nThat the yield wasn't higher suggests the test was not entirely successful,\" said James Acton at the London-based group Vertic.",
+    "sentiment": {
+        "neg": 0.0398,
+        "neu": 0.8942,
+        "pos": 0.0661,
+        "compound": 0.0821
+    }
+}

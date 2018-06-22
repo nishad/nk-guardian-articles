@@ -1,0 +1,28 @@
+{
+    "date": "2007-10-03T14:15:14Z",
+    "title": "The greatest propaganda show on earth",
+    "url": "https://www.theguardian.com/world/2007/oct/03/northkorea4",
+    "content": "It has been called the greatest show on earth, an unparalleled propaganda spectacle and a display of indoctrination like no other. The Arirang \"Mass Games\", which involves 100,000 performers, is among the most colourful and contentious items on the itinerary of the South Korean president, Roh Moo-hyun, during his stay in Pyongyang. His attendance at the show tonight has been criticised by conservatives in Seoul as a legitimisation of the North's Kim dynasty, whose mythical origins the event celebrates on a spectacular scale. But his supporters say he is merely following in the footsteps of countless thousands of other tourists and diplomats, including former US secretary of state Madeleine Albright, who have been drawn to a performance that would not be possible in any other country. The dancers, acrobats and soldiers, who are not paid, spend at least three months practising for a series of shows at the 150,000-capacity May Day stadium. On one side, a giant human mosaic of slogans, flags and backdrops is formed by tens of thousands of students with flipcards. Named after a haunting Korean love song, Arirang tells the tragic story of the peninsula's division. The first section lauds former president Kim Il-sung as the bright star of the nation, who rid the country of Japanese imperialists - making no mention of the fact that it was Russian troops who won the war and put him in power. Next is a passage devoted to the country's \"military first\" policy under the current leader \"Great General Comrade\" Kim Jong-il. His devotion to duty is dramatised by a giant mountain backdrop showing him driving through the night to inspect his troops. Thousands of children, some as young as seven, then run on to the pitch shouting \"Kim Jong-il is our father\" as the backdrop slogan changes to \"With a Bright Smile\". There is no mention of the famines that hit the country under his leadership. Instead, there are huge images of abundant potato crops and fish yields. Although North Korea is the most backward economy in northeast Asia, the show proclaims a 21st century IT revolution. There are images of computers, although the internet is tightly restricted and mobile phones are removed from visitors at the airport. A huge screen is then draped across the backdrop, displaying the bleak landscape of the demilitarised zone - a symbol of a divided nation, before the joyous climax, which envisions unification and peace to the stirring strains of the song \"We are One\". As history it is deeply flawed, but as a spectacle, there is nothing in the world - not even the Olympic opening ceremony - that can compare.",
+    "keywords": [
+        "backdrop",
+        "song",
+        "greatest",
+        "thousands",
+        "troops",
+        "nation",
+        "president",
+        "mention",
+        "earth",
+        "kim",
+        "spectacle",
+        "country",
+        "propaganda"
+    ],
+    "summary": "It has been called the greatest show on earth, an unparalleled propaganda spectacle and a display of indoctrination like no other.\nOn one side, a giant human mosaic of slogans, flags and backdrops is formed by tens of thousands of students with flipcards.\nNext is a passage devoted to the country's \"military first\" policy under the current leader \"Great General Comrade\" Kim Jong-il.\nHis devotion to duty is dramatised by a giant mountain backdrop showing him driving through the night to inspect his troops.\nAlthough North Korea is the most backward economy in northeast Asia, the show proclaims a 21st century IT revolution.",
+    "sentiment": {
+        "neg": 0.0578,
+        "neu": 0.8439,
+        "pos": 0.0983,
+        "compound": 0.1945
+    }
+}

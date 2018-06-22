@@ -1,0 +1,27 @@
+{
+    "date": "2009-05-05T09:59:47Z",
+    "title": "Introducing the nuke-o-meter",
+    "url": "https://www.theguardian.com/news/datablog/2009/may/05/nuclear-weapons-north-korea",
+    "content": "We love it when you do neat things with our data and Adam Charnock has produced something very neat indeed. He took our data on the world's stocks of active nuclear weapons and produced the nuke-o-meter, which tells you how many warheads are in range of your home town. As if swine flu wasn't enough\u2026 DATA: the world in nuclear weapons GRAPHIC: how we visualised this data (PDF) \u2022 Can you do something with this data? Please post us your visualisations and mash-ups below or mail us at datastore@theguardian.com See all our data at the Datastore directory \u2022 Follow us on Twitter",
+    "keywords": [
+        "neat",
+        "nukeometer",
+        "worlds",
+        "visualised",
+        "world",
+        "introducing",
+        "warheads",
+        "nuclear",
+        "wasnt",
+        "weapons",
+        "data",
+        "produced"
+    ],
+    "summary": "We love it when you do neat things with our data and Adam Charnock has produced something very neat indeed.\nHe took our data on the world's stocks of active nuclear weapons and produced the nuke-o-meter, which tells you how many warheads are in range of your home town.\nAs if swine flu wasn't enough\u2026 DATA: the world in nuclear weapons GRAPHIC: how we visualised this data (PDF) \u2022 Can you do something with this data?\nPlease post us your visualisations and mash-ups below or mail us at datastore@theguardian.com See all our data at the Datastore directory \u2022 Follow us on Twitter",
+    "sentiment": {
+        "neg": 0.0688,
+        "neu": 0.795,
+        "pos": 0.1363,
+        "compound": 0.1192
+    }
+}

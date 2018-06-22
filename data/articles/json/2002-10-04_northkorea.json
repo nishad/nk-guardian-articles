@@ -1,0 +1,29 @@
+{
+    "date": "2002-10-04T00:33:00Z",
+    "title": "US envoy ready for talks in N Korea",
+    "url": "https://www.theguardian.com/world/2002/oct/04/northkorea",
+    "content": "An American special envoy arrived in the North Korean capital, Pyongyang, yesterday to reopen a dialogue with the country labelled by George Bush as part of an \"axis of evil\". Pyongyang, which often refers to the US as \"imperialist warmongers\", suspended its rhetoric to report the visit by James Kelly, the assistant secretary of state for east Asian and Pacific affairs. Its people were informed that Mr Kelly's party would include high-ranking Pentagon officials, and would explain Washington's policy and attitude towards resuming relations. Pyongyang has recently deployed 7,500 troops to clear mines in the demilitarised zone between the north and South Korea, so that a railway and road linking them can be completed. Mr Kelly's mission set out a tough agenda for talks with Pyongyang during a brief stop in the south. It wants to discuss inspection of alleged nuclear and biochemical facilities, the north's missile production and exports, and human rights abuses. Washington also insists that Pyongyang should pull back some of its conventional forces from the 38th parallel. This is the one item on which the north has signalled its refusal to talk. \"Our country's arms reduction is neither a matter which needs US interference, nor an issue which can be solved by coercion,\" it said last week. The North Korean leader, Kim Jong-il, may be more flexible in other areas in order to promote a dialogue which was launched under the Clinton administration but aborted by Mr Bush. As the World Food Programme runs out of funding to feed up to six million North Koreans, Mr Kim seems to have finally decided to take the initiative. His recent moves include a first ever reform of wages and prices to stimulate the moribund economy, the resumption of talks with the government of South Korea's president, Kim Dae-jung, and an apology to Japan for the past kidnapping of its citizens. In his recent summit with the Japanese prime minister, Junichiro Koizumi, Mr Kim also offered to suspend the north's missile testing beyond the current unilateral moratorium which ends next year. Last month Pyongyang said it would to set up an economic free-trade zone at Sinuiju on the border with China.",
+    "keywords": [
+        "south",
+        "mr",
+        "set",
+        "norths",
+        "recent",
+        "korea",
+        "ready",
+        "envoy",
+        "north",
+        "kim",
+        "n",
+        "pyongyang",
+        "talks",
+        "zone"
+    ],
+    "summary": "Pyongyang has recently deployed 7,500 troops to clear mines in the demilitarised zone between the north and South Korea, so that a railway and road linking them can be completed.\nMr Kelly's mission set out a tough agenda for talks with Pyongyang during a brief stop in the south.\nAs the World Food Programme runs out of funding to feed up to six million North Koreans, Mr Kim seems to have finally decided to take the initiative.\nIn his recent summit with the Japanese prime minister, Junichiro Koizumi, Mr Kim also offered to suspend the north's missile testing beyond the current unilateral moratorium which ends next year.\nLast month Pyongyang said it would to set up an economic free-trade zone at Sinuiju on the border with China.",
+    "sentiment": {
+        "neg": 0.0401,
+        "neu": 0.9181,
+        "pos": 0.0419,
+        "compound": 0.0251
+    }
+}

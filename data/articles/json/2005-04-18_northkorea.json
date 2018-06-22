@@ -1,0 +1,28 @@
+{
+    "date": "2005-04-18T23:02:43Z",
+    "title": "Bomb fear as North Korea halts reactor",
+    "url": "https://www.theguardian.com/world/2005/apr/19/northkorea",
+    "content": "North Korea has halted operations at its nuclear reactor, prompting the fear that it may be extracting fuel rods for processing into weapons-grade plutonium. Less than a week after Pyongyang threatened to expand its atomic arsenal, the action seems to be designed to frighten the US and regional powers into resuming talks. The 5MW reactor in Yongbyon is thought to have been in operation since early 2003, several months after international nuclear inspectors were ejected. Analysts estimate that the rods could yield enough plutonium for at least two bombs if North Korea has the necessary reprocessing technology. The CIA and South Korean intelligence believe Pyongyang has enough fissile material for six weapons. More would increases its military options or, it is feared, let it sell bombs for much needed foreign currency. \"I think we'll have to deal with the suspension of the 5MW reactor as a weighty issue,\" Kim Sook, director general of the South Korean foreign ministry, told journalists. Last week, North Korea boasted that it was \"a mighty possessor of nuclear weapons\". Kim Yong-nam, the national assembly president, said, \"We will continue to expand our atomic forces as long as the United States conducts policies to isolate and suffocate North Korea.\" Washington is thought to be considering a tougher policy towards Pyongyang, including asking the UN security council to impose sanctions. The first Bush administration nullified an agreement which froze North Korea's nuclear programme for eight years but put nothing in its place. Sporadic talks aimed at easing the nuclear stand-off have produced no tangible results after almost two years.",
+    "keywords": [
+        "thought",
+        "south",
+        "korea",
+        "week",
+        "talks",
+        "nuclear",
+        "fear",
+        "weapons",
+        "halts",
+        "pyongyang",
+        "reactor",
+        "north",
+        "bomb"
+    ],
+    "summary": "North Korea has halted operations at its nuclear reactor, prompting the fear that it may be extracting fuel rods for processing into weapons-grade plutonium.\nAnalysts estimate that the rods could yield enough plutonium for at least two bombs if North Korea has the necessary reprocessing technology.\nLast week, North Korea boasted that it was \"a mighty possessor of nuclear weapons\".\nKim Yong-nam, the national assembly president, said, \"We will continue to expand our atomic forces as long as the United States conducts policies to isolate and suffocate North Korea.\"\nThe first Bush administration nullified an agreement which froze North Korea's nuclear programme for eight years but put nothing in its place.",
+    "sentiment": {
+        "neg": 0.0721,
+        "neu": 0.8638,
+        "pos": 0.0642,
+        "compound": -0.0379
+    }
+}

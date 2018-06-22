@@ -1,0 +1,32 @@
+{
+    "date": "2002-12-20T01:26:34Z",
+    "title": "Analysis: Election delivers anti-war message to Washington hardliners",
+    "url": "https://www.theguardian.com/world/2002/dec/20/northkorea",
+    "content": "South Korea's choice of president shows that voters are more worried by US sabre-rattling than any potential threat posed by the North. On the eve of the election, Richard Perle, chairman of the Pentagon's defence advisory panel, warned Seoul that a war against the North might be necessary. Earlier this week, the US persuaded Japan to suspend further economic aid to the North until it halted its nuclear weapons programme. The harder line taken after President Bush came to power has blighted the Korean peace process for nearly two years and was exemplified by Mr Bush's speech naming Pyongyang as part of the \"axis of evil\". Some analysts believe this allowed hardliners in the North to slow the peace process almost to a halt. US hostility, they argue, has created a vicious circle in which North Korea resorts to the \"nuclear card\" to win more diplomatic leverage. The victorious Roh Moo-hyun has made the most of voters' anxieties that isolating the North could provoke a new crisis. He has also made the most of resentment caused by the perceived refusal of the US to let Koreans set their own pace. \"We don't want to become spectators again,\" he told voters this week. \"In the old days we were not able to solve our problems ourselves. Now it is different.\" Older Korean voters were more likely to be swayed towards Mr Lee by North Korea's often bizarre displays of belligerence. The younger generation is more likely to agree with the outgoing president, Kim Dae-jung, that there is no alternative to continuing the dialogue. Mr Roh also benefited from a rising tide of anti-American feeling sparked by a recent accident in which two Korean girls were killed by a US armoured vehicle. The American soldiers involved were acquitted by a US military tribunal, offering a blunt reminder of the privileges still enjoyed by the former occupying power. The effect was to make the tough anti-Pyongyang statements of Mr Roh's rival, Lee Hoi-chang, sound like softness towards Washington. The US, which is still technically at war with the North, maintains 37,000 troops in the South. Although it withdrew its nuclear weapons from the South a decade ago, the North continues to be a target. In 1994 the US concurred with the deal known as the \"agreed framework\" in which the North would drop its nuclear programme in return for the supply of oil and construction of two light-water reactors for peaceful purposes. The programme has been seriously delayed, allowing Pyongyang to accuse the US of bad faith. In October the North acknowledged that it had maintained a covert nuclear programme. After US pressure, fuel oil exports to the North agreed under the 1994 deal have been suspended.",
+    "keywords": [
+        "south",
+        "mr",
+        "analysis",
+        "washington",
+        "message",
+        "president",
+        "nuclear",
+        "week",
+        "hardliners",
+        "election",
+        "voters",
+        "weapons",
+        "korean",
+        "antiwar",
+        "programme",
+        "north",
+        "delivers"
+    ],
+    "summary": "South Korea's choice of president shows that voters are more worried by US sabre-rattling than any potential threat posed by the North.\nEarlier this week, the US persuaded Japan to suspend further economic aid to the North until it halted its nuclear weapons programme.\nOlder Korean voters were more likely to be swayed towards Mr Lee by North Korea's often bizarre displays of belligerence.\nAlthough it withdrew its nuclear weapons from the South a decade ago, the North continues to be a target.\nIn October the North acknowledged that it had maintained a covert nuclear programme.",
+    "sentiment": {
+        "neg": 0.151,
+        "neu": 0.7815,
+        "pos": 0.0675,
+        "compound": -0.2062
+    }
+}

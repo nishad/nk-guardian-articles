@@ -1,0 +1,27 @@
+{
+    "date": "2007-06-29T13:24:50Z",
+    "title": "UN agrees deal over North Korea reactor",
+    "url": "https://www.theguardian.com/world/2007/jun/29/northkorea",
+    "content": "The UN has reached agreement with North Korea on handling the shutdown of the country's main nuclear reactor, officials said today. Officials from the UN's nuclear inspection body said a deal had been struck on how they would monitor and verify the closing down of the Yongbyon nuclear complex. Olli Heinonen, the deputy director of the International Atomic Energy Agency, made the announcement after inspectors returned to the capital, Pyongyang, after a two-day trip to Yongbyon. It was the first IAEA visit to the facility since UN monitors were expelled from North Korea in 2002. \"We have concluded this understanding, what our monitoring and verification activities are in principle,\" Mr Heinonen said, the Associated Press reported. He added that his team was preparing to report to the IAEA board of governors within a week, but said the timing of the shutdown was up to the six countries involved in nuclear talks with North Korea. \"This is for the six parties to decide. You have to ask them the timescale. When they do [decide], we will be ready,\" he said. The six countries include the US, Japan, China, Russia, and South Korea. In February, Pyongyang agreed to close the reactor in exchange for economic aid and political concessions. However, the reclusive regime subsequently dragged its feet on inspections because of a dispute with the US over frozen bank accounts. That was settled this week after a surprise visit to Pyongyang by Christopher Hill, a US nuclear envoy, and the release of the funds. The Yongbyon complex consists of a five-megawatt reactor and a plutonium reprocessing plant where weapons-grade material can be extracted from spent fuel rods. Even as North Korea showed signs of concessions on the nuclear issue, it angered its neighbours by launching more conventional missile tests earlier this week. The Japanese prime minister, Shinzo Abe, accused it of provocation and defying the UN over the short-range missile launches. The UN security council had passed a resolution calling on Pyongyang to stick to a moratorium on missile tests after it carried out its first nuclear test in October. The US also criticised the latest missile tests. \"We expect North Korea to refrain from conducting further provocative ballistic missile launches - activity that is destabilising to the security of north-east Asia,\" Gordon Johndroe, a spokesman for the US national security council, said.",
+    "keywords": [
+        "deal",
+        "korea",
+        "week",
+        "nuclear",
+        "yongbyon",
+        "tests",
+        "agrees",
+        "security",
+        "missile",
+        "pyongyang",
+        "reactor",
+        "north"
+    ],
+    "summary": "The UN has reached agreement with North Korea on handling the shutdown of the country's main nuclear reactor, officials said today.\nOfficials from the UN's nuclear inspection body said a deal had been struck on how they would monitor and verify the closing down of the Yongbyon nuclear complex.\nIt was the first IAEA visit to the facility since UN monitors were expelled from North Korea in 2002.\nEven as North Korea showed signs of concessions on the nuclear issue, it angered its neighbours by launching more conventional missile tests earlier this week.\nThe US also criticised the latest missile tests.",
+    "sentiment": {
+        "neg": 0.0455,
+        "neu": 0.9027,
+        "pos": 0.0517,
+        "compound": 0.0282
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2014-12-12T10:56:39Z",
+    "title": "Sony hack would have challenged government defences \u2013\u00a0FBI",
+    "url": "https://www.theguardian.com/technology/2014/dec/12/sony-hack-government-defences-fbi",
+    "content": "The cyberattack that crippled Sony Pictures, led to theft of confidential data and leak of movies on the internet would have challenged almost any cyber security measures, the US Federal Bureau of Investigation (FBI) has said. The FBI\u2019s investigation into the attack has found that the level of sophistication of the software used by the hackers was \u201cextremely high\u201d and that the attacks were \u201corganised and certainly persistent.\u201d \u201cIn speaking with Sony and separately, the Mandiant security provider, the malware that was used would have slipped or probably got past 90% of internet defences that are out there today in private industry and [would have] challenged even state government,\u201d Joseph Demarest, assistant director of the FBI\u2019s cyber division told a US Senate hearing. \u2018We\u2019re still working very hard on that\u2019 While security analysts have said that preventing sophisticated and well-funded cyber criminals from breaking into a company is very hard indeed, researchers have criticised Sony Pictures for its poor data security, which allegedly saw login details stored in unencrypted spreadsheets. But Demarest wouldn\u2019t be drawn on who carried out the attacks. \u201cI won\u2019t touch on the attribution piece because we\u2019re still working very hard on that,\u201d he said. The FBI assistant director explained that the skills necessary to carry out the attack were not limited to government-funded units and that cyber criminals also have the level of sophistication needed. A hacking group calling itself Guardians of Peace (Gop) claimed responsibility for the hack on 24 November. A link between Gop and North Korea has been muted over Pyongang\u2019s reaction to the Sony Pictures film The Interview, which depicts an assassination attempt on Kim Jong-un. North Korea denied involvement, despite calling it a \u201crighteous deed\u201d, but some security researchers are convinced that the attacks carry the hallmarks of a state-sponsored assault. The FBI poured doubt on links with North Korea saying that there was \u201cno attribution\u201d to Pyongang. \u2022 Hackers \u2018may attack other film studios after leak of Sony Pictures\u2019 data\u2019",
+    "keywords": [
+        "defences",
+        "cyber",
+        "sony",
+        "hard",
+        "korea",
+        "attacks",
+        "pictures",
+        "challenged",
+        "data",
+        "security",
+        "fbi",
+        "hack",
+        "north"
+    ],
+    "summary": "The cyberattack that crippled Sony Pictures, led to theft of confidential data and leak of movies on the internet would have challenged almost any cyber security measures, the US Federal Bureau of Investigation (FBI) has said.\nA link between Gop and North Korea has been muted over Pyongang\u2019s reaction to the Sony Pictures film The Interview, which depicts an assassination attempt on Kim Jong-un.\nNorth Korea denied involvement, despite calling it a \u201crighteous deed\u201d, but some security researchers are convinced that the attacks carry the hallmarks of a state-sponsored assault.\nThe FBI poured doubt on links with North Korea saying that there was \u201cno attribution\u201d to Pyongang.\n\u2022 Hackers \u2018may attack other film studios after leak of Sony Pictures\u2019 data\u2019",
+    "sentiment": {
+        "neg": 0.1734,
+        "neu": 0.7664,
+        "pos": 0.0603,
+        "compound": -0.4002
+    }
+}

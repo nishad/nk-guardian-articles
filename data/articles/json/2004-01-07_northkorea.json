@@ -1,0 +1,28 @@
+{
+    "date": "2004-01-07T03:11:35Z",
+    "title": "US delegation to visit North Korean nuclear plant",
+    "url": "https://www.theguardian.com/world/2004/jan/07/northkorea",
+    "content": "Hopes for a resolution of the nuclear standoff in North Korea rose yesterday when Pyongyang offered to suspend atomic power activities and welcomed its first visiting US delegation since the crisis blew up more than a year ago. In a statement that drew rare praise from the Bush administration, North Korea said it was ready to stop operating its nuclear power industry as well as testing and producing nuclear weapons, as a \"bold concession\" to its adversary. Colin Powell, the US secretary of state, agreed that the promise was a positive step that could help revive six-party talks aimed at resolving the conflict. \"It was a positive statement,\" he said. \"They in effect said they won't test and they implied that they would give up all aspects of their nuclear programme, not just [their] weapons programme.\" A second round of talks bringing the two sides together, with mediators China, Russia, Japan and South Korea, has been delayed amid mutual suspicions, and there was growing speculation that it would not be possible this month. The visiting US delegation consists of former White House officials, retired academics and nuclear scientists on what they stressed was a private mission to improve understanding between the sides. But the composition of the group, which includes Jack Pritchard, a former member of George Bush's national security staff, suggests their visit could play an important role in bridging the gap between Washington and Pyongyang. Before their trip, media in the US said they would be the first foreigners allowed into the Yongbyon nuclear complex since international inspectors were removed a year ago. As they travelled through Beijing on one of two scheduled weekly flights to Pyongyang, the delegation said they were still unsure of their programme. \"It's like going to Disneyland and not knowing what rides you're going to go on,\" said John Wilson Lewis, a professor emeritus at Stanford University. \"We'll know what we've seen when we get back.\" The only nuclear plant operating in North Korea is the small 5kW reactor at Yongbyon, the main purpose of which is to produce weapons-grade material. But the country is building two bigger plants. But North Korea and the US are divided over which side should make the first move. Washington says Pyongyang must take the first step in dismantling its nuclear weapons programme. North Korea has offered to freeze its nuclear arms programme before, but the US wants it to start dismantling the weaponry before it will talk about concessions. Pyongyang wants simultaneous concessions, including a guarantee of its security, economic aid and its removal from the US list of state sponsors of terrorism. China, which has taken a leading role in mediation, said the unofficial delegation would provide a stimulus to its efforts to arrange a new round of talks. Chinese and Russian officials met in Moscow on Monday to try to arrange a new session and Japanese diplomats are now in Beijing for the same purpose.",
+    "keywords": [
+        "korea",
+        "washington",
+        "talks",
+        "nuclear",
+        "visit",
+        "yongbyon",
+        "pyongyang",
+        "weapons",
+        "plant",
+        "delegation",
+        "programme",
+        "north",
+        "korean"
+    ],
+    "summary": "\"They in effect said they won't test and they implied that they would give up all aspects of their nuclear programme, not just [their] weapons programme.\"\nBefore their trip, media in the US said they would be the first foreigners allowed into the Yongbyon nuclear complex since international inspectors were removed a year ago.\nThe only nuclear plant operating in North Korea is the small 5kW reactor at Yongbyon, the main purpose of which is to produce weapons-grade material.\nBut North Korea and the US are divided over which side should make the first move.\nWashington says Pyongyang must take the first step in dismantling its nuclear weapons programme.",
+    "sentiment": {
+        "neg": 0.0525,
+        "neu": 0.8514,
+        "pos": 0.0963,
+        "compound": 0.0858
+    }
+}

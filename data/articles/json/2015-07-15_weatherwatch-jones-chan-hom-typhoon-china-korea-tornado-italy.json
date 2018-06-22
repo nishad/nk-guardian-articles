@@ -1,0 +1,30 @@
+{
+    "date": "2015-07-15T20:30:09Z",
+    "title": "Weatherwatch: Chan-hom typhoon pelts east China and Korea",
+    "url": "https://www.theguardian.com/news/2015/jul/15/weatherwatch-jones-chan-hom-typhoon-china-korea-tornado-italy",
+    "content": "The east coast of China was hit by typhoon Chan-hom on Saturday, affecting the Zhejiang province just south of Shanghai, which is one of China\u2019s most populous areas. The typhoon first formed as a tropical depression in the Pacific before strengthening to a category 4 storm. This was an unusually strong typhoon for this area, bringing winds of 135mph and heavy rainfall, and it led to a million people being evacuated. After passing Zhejiang province, the storm tracked north across the East China Sea but had lost most of its strength by the time it reached the Korean peninsula. The full impact has yet to be ascertained, but economic losses in China are expected to approach 1.9bn renminbi (\u00a3200m) Meanwhile, a powerful tornado developed over the town of Dolo, near Venice, as violent thunderstorms pummelled northern Italy last Thursday. This led to one death and dozens of people being injured as the tornado tore through the area. Winds within the tornado have been estimated to have reached up to 150mph and these have caused significant damage to homes and other buildings. Australia has been experiencing a cold snap throughout this week, with snow falling as far north as Queensland. This has caused some of the coldest conditions in 15 years, and temperatures have dropped to below freezing in Tasmania and Victoria. Current projections suggest that these conditions could continue, with cold southerly winds blowing in from the Antarctic this week.",
+    "keywords": [
+        "storm",
+        "east",
+        "chanhom",
+        "winds",
+        "zhejiang",
+        "korea",
+        "week",
+        "reached",
+        "north",
+        "china",
+        "province",
+        "typhoon",
+        "pelts",
+        "tornado",
+        "weatherwatch"
+    ],
+    "summary": "The east coast of China was hit by typhoon Chan-hom on Saturday, affecting the Zhejiang province just south of Shanghai, which is one of China\u2019s most populous areas.\nThe typhoon first formed as a tropical depression in the Pacific before strengthening to a category 4 storm.\nThis was an unusually strong typhoon for this area, bringing winds of 135mph and heavy rainfall, and it led to a million people being evacuated.\nAfter passing Zhejiang province, the storm tracked north across the East China Sea but had lost most of its strength by the time it reached the Korean peninsula.\nCurrent projections suggest that these conditions could continue, with cold southerly winds blowing in from the Antarctic this week.",
+    "sentiment": {
+        "neg": 0.1017,
+        "neu": 0.831,
+        "pos": 0.0673,
+        "compound": -0.106
+    }
+}

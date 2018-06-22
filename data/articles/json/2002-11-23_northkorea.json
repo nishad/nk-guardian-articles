@@ -1,0 +1,28 @@
+{
+    "date": "2002-11-23T01:14:20Z",
+    "title": "North Korea shuts door on nuclear inspectors",
+    "url": "https://www.theguardian.com/world/2002/nov/23/northkorea",
+    "content": "North Korea ratcheted up the tension with the US yesterday by barring international inspectors from checking that aid deliveries of oil are helping the freezing population rather than the army. The move comes a week after the US, Japan and South Korea decided to suspend oil shipments to the North until it abandons an illicit nuclear weapons programme. The last shipment arrived from the US last week, but the half-dozen American inspectors who were due to track its distribution have been told that they cannot enter North Korea. The move represents a new phase in the unravelling of the 1994 energy deal that was brokered to defuse a nuclear confrontation over North Korea's plutonium programme. As part of an agreement to scrap that programme, the international community said it would give the North 500,000 tonnes of fuel each year. But last month Pyongyang announced it was engaged in a uranium enrichment programme, which could lead to bomb production. This week, it agreed that the agreement had collapsed, blaming the US for \"boycotting the implementation of its commitments\". South Korea's unification minister, Jeong Se-Hyun, has suggested that the North may try to revive a deal. \"North Korea's dependency on food and oil from the outside world makes them unable to use brinkmanship,\" he said. However, the CIA believes the North already has enough plutonium to build eight nuclear weapons and may already have five. If Pyongyang does decide to raise the stakes again, it is likely to order international nuclear weapons inspectors, who are keeping an eye on plutonium stocks, to leave the country.",
+    "keywords": [
+        "oil",
+        "international",
+        "plutonium",
+        "korea",
+        "week",
+        "nuclear",
+        "weapons",
+        "shuts",
+        "inspectors",
+        "door",
+        "programme",
+        "north",
+        "koreas"
+    ],
+    "summary": "The move comes a week after the US, Japan and South Korea decided to suspend oil shipments to the North until it abandons an illicit nuclear weapons programme.\nThe last shipment arrived from the US last week, but the half-dozen American inspectors who were due to track its distribution have been told that they cannot enter North Korea.\nThe move represents a new phase in the unravelling of the 1994 energy deal that was brokered to defuse a nuclear confrontation over North Korea's plutonium programme.\nHowever, the CIA believes the North already has enough plutonium to build eight nuclear weapons and may already have five.\nIf Pyongyang does decide to raise the stakes again, it is likely to order international nuclear weapons inspectors, who are keeping an eye on plutonium stocks, to leave the country.",
+    "sentiment": {
+        "neg": 0.1061,
+        "neu": 0.826,
+        "pos": 0.0679,
+        "compound": -0.1466
+    }
+}

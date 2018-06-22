@@ -1,0 +1,27 @@
+{
+    "date": "2002-10-18T01:34:58Z",
+    "title": "Expert says that North Korea has prototype",
+    "url": "https://www.theguardian.com/world/2002/oct/18/northkorea",
+    "content": "Few solid facts are known about the progress North Korea has made towards building a nuclear weapon, but some Washington experts believe it is possible that Pyongyang already has at least one prototype and has been trying to build more. In 1994 the Clinton administration signed a deal with the Pyongyang regime aimed at halting its efforts to use its civil nuclear programme to produce plutonium for use in missiles. In exchange North Korea would receive help in building an alternative \"light water\" reactor, which is less useful for extracting fissile material. At that time US experts estimated that North Korea had separated enough plutonium for one or two nuclear warheads, although Pyongyang denied the claim. David Albright, head of the Institute for Science and International Security in Washington, believes it had probably worked out how to use that material in a warhead. \"My view is that in 1994 they could weaponise their plutonium and make a missile warhead, and I would have expected them to keep weaponisation going despite the 1994 agreement,\" he said. But Daryl Kimball, director of the Arms Control Association, thinks Pyongyang's bomb had got no farther than the drawing board by 1994; a device had not been put together. Whether North Korea has built a plutonium weapon or not, its stock of weapons-grade plutonium is enough for only two missiles at most. The 1994 agreement involved an inspections regime which limited its ability to separate out more usable plutonium. But the \"agreed framework\" did not directly address uranium, so Pyongyang appears to have chosen that route to building nuclear bombs.",
+    "keywords": [
+        "weapon",
+        "plutonium",
+        "korea",
+        "prototype",
+        "washington",
+        "nuclear",
+        "building",
+        "warhead",
+        "1994",
+        "pyongyang",
+        "expert",
+        "north"
+    ],
+    "summary": "Few solid facts are known about the progress North Korea has made towards building a nuclear weapon, but some Washington experts believe it is possible that Pyongyang already has at least one prototype and has been trying to build more.\nIn exchange North Korea would receive help in building an alternative \"light water\" reactor, which is less useful for extracting fissile material.\nAt that time US experts estimated that North Korea had separated enough plutonium for one or two nuclear warheads, although Pyongyang denied the claim.\nWhether North Korea has built a plutonium weapon or not, its stock of weapons-grade plutonium is enough for only two missiles at most.\nBut the \"agreed framework\" did not directly address uranium, so Pyongyang appears to have chosen that route to building nuclear bombs.",
+    "sentiment": {
+        "neg": 0.055,
+        "neu": 0.8699,
+        "pos": 0.075,
+        "compound": 0.0559
+    }
+}

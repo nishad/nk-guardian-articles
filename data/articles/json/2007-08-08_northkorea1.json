@@ -1,0 +1,27 @@
+{
+    "date": "2007-08-08T11:11:19Z",
+    "title": "Timeline: Korean relations",
+    "url": "https://www.theguardian.com/world/2007/aug/08/northkorea1",
+    "content": "1945 Near the end of the second world war both US and Soviet forces are bearing down on Japanese-controlled areas of the Pacific and east Asia, including Korea. When Japan surrenders in August, Korea is immediately divided into two occupied zones, with the US administering the south and the USSR taking over the area to the north of the 38th parallel. This division is meant to be temporary but the US, UK, Soviet Union and China cannot agree how Korea should become independent. 1948 Hopes for the creation of a unified independent Korea fade with the onset of the cold war. Two separate nations are established: North and South Korea, with diametrically opposed political, economic and social systems. The communist North is supported by the Soviet Union and China, and the South by the US and its allies. 1950 On June 25, North Korean artillery opens fire on South Korean army positions on the 38th parallel. North Korean troops advance on the border and at 11am the country declares war on its neighbour. US forces later enter the war under the UN banner and push the North Koreans back. In October, China enters the war. 1953 By the end of the war on July 27, more than 3 million Koreans have died and millions more have been made homeless. 1991 North and South Korea make a joint declaration to keep the peninsula free of nuclear weapons. They pledge not to test, produce, receive, store, deploy or use nuclear arms, and agree to mutual inspections. 1993 North Korea pulls out of the non-proliferation treaty, preventing international inspectors from visiting a nuclear plant where it is suspected that spent plutonium from civilian reactors is being diverted to the country's arms programme. 1994 The North Korean president, Kim Il-Sung, dies. In a deal with the US, Pyongyang freezes its nuclear programme in return for western help. 2000 The South Korean president, Kim Dae-jung, pursues engagement with North Korea. He meets the North Korean president, Kim Jong-il, in Pyongyang for a landmark summit, the first since the second world war. The meeting leads to economic cooperation and to the reunions of thousands of relatives separated by the world's most heavily fortified border. 2002 The US president, George Bush, names North Korea as part of an \"axis of evil\". In June, North and South Korean navies wage a gun battle in the Yellow Sea. Some 30 North Korean and four South Korean sailors are killed. In September, both countries begin clearing mines along the demilitarised zone to allow road and rail links severed during the Korean war to be reconnected. The US says North Korea has a secret nuclear weapons programme, and Pyongyang later expels UN nuclear inspectors. 2003 North Korea again pulls out of the nuclear non-proliferation treaty. A summit in Beijing involving the US, China, North and South Korea, Japan and Russia fails to reach agreement on a deal with Pyongyang's nuclear programme. 2005 North Korea announces that it has a nuclear bomb, and says it is a necessary deterrent to US aggression. 2006 Pyongyang's official news agency announces that the country has carried out a nuclear test. The UN security council unanimously adopts a resolution imposing diplomatic and economic sanctions on North Korea. 2007 North Korea agrees to shut down its sole operating nuclear reactor in exchange for oil aid. North and South Korea announce their first summit in seven years, with the South's president, Roh Moo-hyun, optimistic that it will spur nuclear disarmament.",
+    "keywords": [
+        "summit",
+        "war",
+        "south",
+        "relations",
+        "timeline",
+        "korea",
+        "president",
+        "nuclear",
+        "china",
+        "programme",
+        "north",
+        "korean"
+    ],
+    "summary": "1950 On June 25, North Korean artillery opens fire on South Korean army positions on the 38th parallel.\n1994 The North Korean president, Kim Il-Sung, dies.\n2000 The South Korean president, Kim Dae-jung, pursues engagement with North Korea.\nHe meets the North Korean president, Kim Jong-il, in Pyongyang for a landmark summit, the first since the second world war.\nSome 30 North Korean and four South Korean sailors are killed.",
+    "sentiment": {
+        "neg": 0.1163,
+        "neu": 0.8264,
+        "pos": 0.0574,
+        "compound": -0.1608
+    }
+}

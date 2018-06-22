@@ -1,0 +1,26 @@
+{
+    "date": "2001-11-01T15:29:34Z",
+    "title": "First email link for North Korea",
+    "url": "https://www.theguardian.com/technology/2001/nov/01/internetnews.koreanews",
+    "content": "A Chinese-based company is offering the first commercial email link to North Korea, a country that has previous shut out the internet, it was announced today. The service is at present restricted to people who want to contact North Korean businesses, government agencies or official organisations but it marks a turning point in the world's last Stalinist regime's attitude to electronic communications. The country does have its own domestic computer network called Kwang Myung - meaning \"light\" - but it is not linked to the internet. Foreign visitors are permitted to link their computers to the internet, but only through international phone lines available in a few hotels in the capital, Pyongyang. But a spokesman for Silibank.com, the Chinese-based company that installed the email connection, said he thought a similar service open to all of North Korea's 22m people was unlikely to permitted \"any time soon\". \"As for email service for ordinary North Korean citizens, that's something we continue to discuss with authorities in Pyongyang,\" he said. The North Korean leader, Kim Jong Il, has emphasised the importance of computer technology in recent speeches. The government has opened modern computer labs and distributed computers to schools. Silibak.com said it has only 10 subscribers so far for its service, which is expensive by international standards. According to its price list, text emails can be sent for just over a \u00a31 but sending an 8mb photograph costs approximately \u00a3300. The company is offering free service for the first 100 subscribers for the next six months. During the experimental phase, it will carry emails in and out of North Korea only once every hour. South Korean officials said they were studying the new email service. South Korea, which has encouraged economic and cultural exchanges with North Korea since an historic summit last year, said it was studying the new service. It remains illegal for South Koreans to exchange emails and letters with North Koreans without government permission. In August, Seoul prosecutors arrested six South Korean activists on charges of exchanging unauthorised emails with North Korean officials.",
+    "keywords": [
+        "computer",
+        "south",
+        "emails",
+        "korea",
+        "email",
+        "internet",
+        "company",
+        "link",
+        "service",
+        "north",
+        "korean"
+    ],
+    "summary": "A Chinese-based company is offering the first commercial email link to North Korea, a country that has previous shut out the internet, it was announced today.\n\"As for email service for ordinary North Korean citizens, that's something we continue to discuss with authorities in Pyongyang,\" he said.\nDuring the experimental phase, it will carry emails in and out of North Korea only once every hour.\nSouth Korea, which has encouraged economic and cultural exchanges with North Korea since an historic summit last year, said it was studying the new service.\nIn August, Seoul prosecutors arrested six South Korean activists on charges of exchanging unauthorised emails with North Korean officials.",
+    "sentiment": {
+        "neg": 0.0292,
+        "neu": 0.9432,
+        "pos": 0.0276,
+        "compound": -0.0079
+    }
+}

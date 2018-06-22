@@ -1,0 +1,26 @@
+{
+    "date": "2003-03-07T16:20:07Z",
+    "title": "North Korea prepares for new missile test",
+    "url": "https://www.theguardian.com/world/2003/mar/07/northkorea1",
+    "content": "North Korea today signalled its intention of holding a new missile test by declaring a maritime exclusion zone off its coast in the Sea of Japan. The US defence department said that it was aware of a three-day exclusion warning for March 8-11 declared by Pyongyang in virtually the same area it tested an anti-ship missile on February 25. \"We are certainly aware that they have filed a notice of exclusion. That is typically a precursor to a missile test. But we're not overly concerned,\" said navy lieutenant commander Jeff Davis, a Pentagon spokesman. North Korea's latest show of defiance came as it accused the US of threatening to attack its nuclear facilities when President George Bush declined to rule out the use of military force against Pyongyang. KCNA, North Korea's state-run news agency, said Mr Bush's remarks to US newspaper journalists on Monday were \"little short of a signal to go into action\". \"It is an undisguised revelation of the US intention to make a pre-emptive strike at [North Korea's] nuclear facilities,\" it said. Mr Bush was asked by the journalists about the success of a diplomatic effort aimed at ending Pyongyang's stand-off with Washington. \"It's in process,\" he replied. \"If they don't work diplomatically, they'll have to work militarily. And military option is our last choice. Options are on the table, but I believe we can deal with this diplomatically. I truly do.\" The president made no mention of the \"military option\" last night in a televised press conference dealing mainly with the Iraq crisis. He said the US was pursuing multilateral diplomacy to convince Russia, South Korea, China and Japan they had a \"stake\" in the prospect of a nuclear-armed North because bilateral negotiations had failed. \"Those nations [...] must stand up to their responsibility, along with the United States, to convince Kim Jong-il that the development of a nuclear arsenal is not in his nation's interest; and that should he want help in easing the suffering of the North Korean people, the best way to achieve that help is to not proceed forward,\" he said. North Korea's missile test last month came on the eve of the inauguration of the South Korean president, Roh Moo-hyun, and amid escalating tensions over Pyongyang's refusal to abandon its nuclear weapons programs. US officials downplayed that missile test, saying that it involved a small missile and not a long-range ballistic missile. Tensions escalated last weekend, when North Korean fighters intercepted a US surveillance plane over the Sea of Japan. Last week, Donald Rumsfeld, the US secretary of defence, ordered a dozen B-52 bombers and a dozen B-1B bombers transferred to a US base on Guam, which is closer to North Korea than the plane's bases in the continental US. The current stand-off over North Korea's nuclear capabilities began with an oil embargo imposed by the US after a Pyongyang official admitted it had a secret uranium enrichment programme. North Korea then expelled UN monitors, gave notice that it was to withdraw from the nuclear non-proliferation treaty and re-started a plutonium reactor it had mothballed under a 1994 agreement with the then US president, Bill Clinton, in return for fuel aid and an alternative civilian nuclear power programme. Pyongyang insisted it was resuming use of the Yongbyon reactor to meet its energy needs but Washington said it was part of a covert nuclear weapons programme using spent plutonium fuel rods.",
+    "keywords": [
+        "military",
+        "korea",
+        "prepares",
+        "president",
+        "nuclear",
+        "pyongyang",
+        "test",
+        "missile",
+        "programme",
+        "north",
+        "koreas"
+    ],
+    "summary": "North Korea today signalled its intention of holding a new missile test by declaring a maritime exclusion zone off its coast in the Sea of Japan.\nThat is typically a precursor to a missile test.\nKCNA, North Korea's state-run news agency, said Mr Bush's remarks to US newspaper journalists on Monday were \"little short of a signal to go into action\".\n\"It is an undisguised revelation of the US intention to make a pre-emptive strike at [North Korea's] nuclear facilities,\" it said.\nUS officials downplayed that missile test, saying that it involved a small missile and not a long-range ballistic missile.",
+    "sentiment": {
+        "neg": 0.0702,
+        "neu": 0.8581,
+        "pos": 0.0717,
+        "compound": -0.0773
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2012-12-13T12:32:32Z",
+    "title": "Who holds the world's nuclear warheads? Get the full list by country",
+    "url": "https://www.theguardian.com/news/datablog/2012/dec/13/north-korea-nuclear-weapons",
+    "content": "The news that North Korea has successfully launched a satellite heightened fears that the same know-how could be used to launch ballistic missiles. Which countries already have the capability to launch a nuclear missile, and how many warheads do they have? Data on the number of nuclear weapons is notoriously difficult to find - not least because commitments on disarmament and dismantlement are linked to the number of weapons each state has claimed to have. Among the few reliable statistical sources is the Bulletin of the Atomic Scientists. Established in 1945 by experts who had created the atomic bomb as part of the Manhattan Project and wanted to warn the public about its dangers, the Bulletin now publishes regular reports on the status of the world nuclear industry. Their latest report shows that Russia and the United States remain far ahead of the rest of the P5 (the five permanent members of the UN Security Council: the US, Russia, China, France and the UK). Russia currently has around 4,650 active warheads in its stockpile and approximately 7,350 in reserve or awaiting dismantlement. This represents an enormous decline compared to its peak number of 45,000 warheads in 1986. Estimates suggest that the United States now has 2,150 active warheads compared to 31,255 in 1967. Both countries remain far more armed than France (300 active warheads), China (240) and Britain (225). All of these states, along with 185 others have joined the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) which aims to prevent the spread of nuclear weapons and weapons technology. Three states which are widely acknowledged to have nuclear weapons have never signed the NPT: India, Israel and Pakistan. Despite the dramatic decline in the number of warheads, some consider that the risk of nuclear destruction has got worse rather than better. In January 2007, the Bulletin of the Atomic Scientists changed the clock on its magazine cover to show five minutes to midnight. Agreed by the Board of Directors who consult 18 Nobel Laureates, the change signaled a belief that potential catastrophe had become more imminent. The clock hand had first moved towards midnight in 1949. The full data-set and source information can be found below. Download the data \u2022 DATA: download the full spreadsheet SOURCES: Bulletin of the Atomic Scientists, Arms Control Association, SIPRI NEW! Buy our book \u2022 Facts are Sacred: the power of data (on Kindle) More open data Data journalism and data visualisations from the Guardian World government data \u2022 Search the world's government data with our gateway Development and aid data \u2022 Search the world's global development data with our gateway Can you do something with this data? \u2022 Flickr Please post your visualisations and mash-ups on our Flickr group \u2022 Contact us at data@guardian.co.uk \u2022 Get the A-Z of data \u2022 More at the Datastore directory \u2022 Follow us on Twitter \u2022 Like us on Facebook",
+    "keywords": [
+        "worlds",
+        "holds",
+        "russia",
+        "warheads",
+        "states",
+        "nuclear",
+        "scientists",
+        "weapons",
+        "data",
+        "country",
+        "number",
+        "atomic",
+        "bulletin",
+        "list"
+    ],
+    "summary": "Which countries already have the capability to launch a nuclear missile, and how many warheads do they have?\nAll of these states, along with 185 others have joined the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) which aims to prevent the spread of nuclear weapons and weapons technology.\nThree states which are widely acknowledged to have nuclear weapons have never signed the NPT: India, Israel and Pakistan.\nDownload the data \u2022 DATA: download the full spreadsheet SOURCES: Bulletin of the Atomic Scientists, Arms Control Association, SIPRI NEW!\nBuy our book \u2022 Facts are Sacred: the power of data (on Kindle) More open data Data journalism and data visualisations from the Guardian World government data \u2022 Search the world's government data with our gateway Development and aid data \u2022 Search the world's global development data with our gateway Can you do something with this data?",
+    "sentiment": {
+        "neg": 0.0674,
+        "neu": 0.8467,
+        "pos": 0.0859,
+        "compound": -0.0232
+    }
+}

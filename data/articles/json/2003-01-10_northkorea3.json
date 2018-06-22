@@ -1,0 +1,31 @@
+{
+    "date": "2003-01-10T16:46:36Z",
+    "title": "IAEA statement on North Korea's pact withdrawal",
+    "url": "https://www.theguardian.com/world/2003/jan/10/northkorea3",
+    "content": "International Atomic Energy Agency (IAEA) director-general Mohamed el-Baradei said today that the decision by North Korea to withdraw from the nuclear non-proliferation treaty (NPT) was \"a continuation of a policy of defiance and counterproductive to ongoing efforts to achieve peace and stability in the Korean Peninsula\". Mr el-Baradei added: \"The NPT, with its 188 states parties, is the cornerstone of the international community's efforts to control the spread of nuclear weapons. \"A challenge to the integrity of that treaty may constitute a threat to international peace and security. \"I strongly urge the Democratic People's Republic of Korea (DPRK) to reverse its decision and to seek, instead, a diplomatic solution. This is the only way to address the DPRK's security and other concerns.\" He reminded North Korea that the international community was ready to engage in talks with the country about a peaceful solution to the situation \"once the DPRK had shown signs of readiness to come into compliance with its international non-proliferation obligations, but not under the threat of nuclear blackmail\". Mr el-Baradei added that, under Article 10 of the NPT, a decision to withdraw can only be brought into effect after three months. He expressed the hope that, as a matter of urgency, \"the international community and the DPRK, through dialogue, would arrive at an agreed and peaceful solution\".",
+    "keywords": [
+        "solution",
+        "npt",
+        "iaea",
+        "elbaradei",
+        "international",
+        "korea",
+        "decision",
+        "pact",
+        "withdraw",
+        "nuclear",
+        "withdrawal",
+        "dprk",
+        "treaty",
+        "statement",
+        "north",
+        "koreas"
+    ],
+    "summary": "Mr el-Baradei added: \"The NPT, with its 188 states parties, is the cornerstone of the international community's efforts to control the spread of nuclear weapons.\n\"A challenge to the integrity of that treaty may constitute a threat to international peace and security.\n\"I strongly urge the Democratic People's Republic of Korea (DPRK) to reverse its decision and to seek, instead, a diplomatic solution.\nMr el-Baradei added that, under Article 10 of the NPT, a decision to withdraw can only be brought into effect after three months.\nHe expressed the hope that, as a matter of urgency, \"the international community and the DPRK, through dialogue, would arrive at an agreed and peaceful solution\".",
+    "sentiment": {
+        "neg": 0.0301,
+        "neu": 0.7809,
+        "pos": 0.1889,
+        "compound": 0.4771
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "2003-09-05T01:00:48Z",
+    "title": "Red faces at American base as Korean crooks' booze tunnel comes to light",
+    "url": "https://www.theguardian.com/world/2003/sep/05/northkorea",
+    "content": "Two thieves smuggled nearly 58,000 crates of beer and 4,000 boxes of wine worth \u00a31.2m through a secret tunnel under the high-security perimeter of the United States main military base in Seoul. American forces in South Korea are supposed to be on high alert against intrusions by North Korean commandos and anti-base protesters. But the thieves ferried stolen alcohol through the tunnel for two years before their arrest this week. The US military is investigating the spectacularly embarrassing security lapse. The two men, referred to only by their surnames - Lee and Song - worked at the Yongsan army base. According to local media, they initially used a van to transport the goods they stole from the facility's warehouse, but later embarked on an elab orate plan to shift the alcohol in bulk. Setting up a cafe - the U-Turn Espresso Coffee Shop - just outside the base as a cover for the entrance of the shaft, they dug a 20-metre (66ft) passage into the warehouse. In an impressive feat of engineering, the tunnel was built on an incline and fitted with rollers so that they could slide the heavy merchandise back to the cafe. They are said to have become so complacent about the lax security that they employed people to help them shift the goods in greater quantities. Seoul customs officials said that the thieves stole 57,900 crates of beer and 4,000 boxes of wine from June 2001 until this year. They were arrested after a tip-off from a trader at a nearby market where the stolen goods were resold. \"We caught them taking liquor out through a tunnel at the scene on Tuesday,\" said Jung Woong-il, an inspector at the customs office. An official at the prosecutor's department said it was unimaginable that the tunnel was made under the Yongsan base. Security is intended to be tight at American bases in South Korea, where 37,000 US troops are stationed. North Korean commandos have used tunnels to infiltrate South Korea. Several huge underground passages have been discovered under the demilitarised zone that separates the two sides.",
+    "keywords": [
+        "south",
+        "warehouse",
+        "korea",
+        "base",
+        "yongsan",
+        "wine",
+        "red",
+        "tunnel",
+        "booze",
+        "faces",
+        "security",
+        "comes",
+        "thieves",
+        "crooks",
+        "american",
+        "goods",
+        "light",
+        "korean"
+    ],
+    "summary": "American forces in South Korea are supposed to be on high alert against intrusions by North Korean commandos and anti-base protesters.\nThe two men, referred to only by their surnames - Lee and Song - worked at the Yongsan army base.\nAn official at the prosecutor's department said it was unimaginable that the tunnel was made under the Yongsan base.\nSecurity is intended to be tight at American bases in South Korea, where 37,000 US troops are stationed.\nNorth Korean commandos have used tunnels to infiltrate South Korea.",
+    "sentiment": {
+        "neg": 0.087,
+        "neu": 0.8494,
+        "pos": 0.0636,
+        "compound": -0.0339
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2008-04-01T06:43:00Z",
+    "title": "North Koreans dare to write for magazine",
+    "url": "https://www.theguardian.com/media/greenslade/2008/apr/01/northkoreansdaretowritefo",
+    "content": "A magazine about North Korea reported by North Koreans from inside the country will start publishing on Thursday. Rimjin-gang (the name of a river that flows between North and South Korea) was founded by Japanese journalist Jiro Ishimaru. He says the Japanese-language quarterly will publish reports from refugees who agreed to go back to North Korea and report on conditions there. They were also given cameras to record life in the isolated country. (Via Bloomberg)",
+    "keywords": [
+        "reported",
+        "south",
+        "start",
+        "korea",
+        "reports",
+        "write",
+        "rimjingang",
+        "report",
+        "country",
+        "river",
+        "magazine",
+        "koreans",
+        "dare",
+        "north"
+    ],
+    "summary": "A magazine about North Korea reported by North Koreans from inside the country will start publishing on Thursday.\nRimjin-gang (the name of a river that flows between North and South Korea) was founded by Japanese journalist Jiro Ishimaru.\nHe says the Japanese-language quarterly will publish reports from refugees who agreed to go back to North Korea and report on conditions there.\nThey were also given cameras to record life in the isolated country.\n(Via Bloomberg)",
+    "sentiment": {
+        "neg": 0.0346,
+        "neu": 0.948,
+        "pos": 0.0174,
+        "compound": -0.009
+    }
+}

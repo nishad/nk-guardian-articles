@@ -1,0 +1,26 @@
+{
+    "date": "2011-09-26T07:00:00Z",
+    "title": "Chinese arrest South Korean journalists",
+    "url": "https://www.theguardian.com/media/greenslade/2011/sep/26/press-freedom-china",
+    "content": "The Chinese authorities are holding a group of journalists from a South Korean daily newspaper, JoongAng Ilbo, on suspicion of spying. They were arrested near China's border with North Korea on 20 September and were reportedly travelling on tourist visas. According to a report in the South Korean newspaper Chosun Ilbo, the group consisted of four journalists, the head of a Seoul-based government transport research centre and a local guide. The Chinese authorities do not like foreign reporters visiting the area near the North Korean border. A Reporters Without Borders spokesman said. \"Press visas are hard to get and, when journalists lack them, the Chinese authorities often use this as grounds for preventing them from working in this sensitive border area.\" Source: Reporters Without Borders",
+    "keywords": [
+        "journalists",
+        "border",
+        "south",
+        "newspaper",
+        "reporters",
+        "visas",
+        "chinese",
+        "arrest",
+        "authorities",
+        "north",
+        "korean"
+    ],
+    "summary": "The Chinese authorities are holding a group of journalists from a South Korean daily newspaper, JoongAng Ilbo, on suspicion of spying.\nThey were arrested near China's border with North Korea on 20 September and were reportedly travelling on tourist visas.\nAccording to a report in the South Korean newspaper Chosun Ilbo, the group consisted of four journalists, the head of a Seoul-based government transport research centre and a local guide.\nThe Chinese authorities do not like foreign reporters visiting the area near the North Korean border.\n\"Press visas are hard to get and, when journalists lack them, the Chinese authorities often use this as grounds for preventing them from working in this sensitive border area.\"",
+    "sentiment": {
+        "neg": 0.0789,
+        "neu": 0.9211,
+        "pos": 0.0,
+        "compound": -0.2222
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "date": "2007-10-04T08:04:43Z",
+    "title": "Games festival feeds the cult  of Kim Jong-il",
+    "url": "https://www.theguardian.com/world/2007/oct/04/northkorea1",
+    "content": "It has been called the greatest show on earth, an unparalleled display of propaganda and indoctrination. The Arirang mass games, which claims 100,000 performers, is among the most colourful and contentious items on the itinerary of South Korean president Roh Moo-hyun during his stay in Pyongyang. His attendance at last night's show had been criticised by some in Seoul as legitimising the North's Kim dynasty. But supporters say he is only following other visitors, including ex-US secretary of state Madeleine Albright, drawn to a performance impossible in any other country. The dancers, acrobats and soldiers are paid nothing, but they spend at least three months practising for a series of shows at the 150,000 capacity May Day stadium. Named after a haunting Korean love song, Arirang tells the tragic tale of the peninsula's division. With flags and slogans it lauds former president Kim Il-sung, before moving on to the current leader when thousands of children run on shouting \"Kim Jong-il is our father\". Despite the famines of his leadership there are images of abundant crops. Although this is the most backward economy in north-east Asia, the show proclaims an IT revolution. A giant screen is then draped across the backdrop, displaying the bleak demilitarised zone, before the joyous climax which envisions unification and peace. As history it is deeply flawed, but as a spectacle, there is nothing in the world - not even the Olympic opening ceremony - that can compare.",
+    "keywords": [
+        "world",
+        "games",
+        "feeds",
+        "visitors",
+        "unification",
+        "president",
+        "festival",
+        "kim",
+        "tragic",
+        "cult",
+        "jongil",
+        "zone",
+        "unparalleled",
+        "arirang",
+        "korean"
+    ],
+    "summary": "The Arirang mass games, which claims 100,000 performers, is among the most colourful and contentious items on the itinerary of South Korean president Roh Moo-hyun during his stay in Pyongyang.\nHis attendance at last night's show had been criticised by some in Seoul as legitimising the North's Kim dynasty.\nNamed after a haunting Korean love song, Arirang tells the tragic tale of the peninsula's division.\nWith flags and slogans it lauds former president Kim Il-sung, before moving on to the current leader when thousands of children run on shouting \"Kim Jong-il is our father\".\nA giant screen is then draped across the backdrop, displaying the bleak demilitarised zone, before the joyous climax which envisions unification and peace.",
+    "sentiment": {
+        "neg": 0.0501,
+        "neu": 0.875,
+        "pos": 0.0748,
+        "compound": 0.1054
+    }
+}

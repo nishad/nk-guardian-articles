@@ -1,0 +1,31 @@
+{
+    "date": "2018-01-22T17:42:22Z",
+    "title": "The Guardian view on cyberwar: an urgent problem | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2018/jan/22/the-guardian-view-on-cyberwar-an-urgent-problem",
+    "content": "In the desperate scramble to rearm before the second world war there was always an undercurrent of pessimism. \u201cThe bomber will always get through,\u201d Stanley Baldwin warned. In his dark fantasies, destruction and poison gas rained from the skies and obliterated civilisation. That isn\u2019t quite what happened, though the bombers did their best. Today\u2019s equivalent is the feeling that the hacker will always get through, and that attacks on computer networks will become the most devastating form of future warfare. There are certainly grounds for fear. Technological civilisation is now built on software, much of it desperately insecure. Even when the software itself is secure \u2013 and you\u2019d assume that the CIA at least would use properly secured software \u2013 the human parts of a bureaucracy can fail, as is shown by the extraordinary case of a teenage hacker, Kane Gamble, operating from his bedroom in Leicestershire, who managed to impersonate the director of the CIA and the deputy director of the FBI and gain access to part of their emails, which included a great deal of classified material. And it\u2019s nearly 10 years since the computers of the Tibetan government in exile were found to be infested with sophisticated spyware, presumably Chinese. But espionage like that is only a new front in an age old struggle. This is also the way to look at the exploitation of social media by Russian hacking groups to the benefit of Donald Trump. It was imaginative but not entirely unprecedented. States have used propaganda and disinformation to weaken their adversaries for centuries. What is almost entirely new is the use of computer networks for physical sabotage by state actors. The first known, and perhaps the most successful of these, was the joint US/Israeli Stuxnet attack on the Iranian nuclear programme in 2009. Since then there has been increasing evidence of attacks of this sort by Russia \u2013 against Estonia in 2009, and then against Ukraine, where tens of thousands of attacks on everything from power supplies to voting machines have opened an under-reported front in an under-reported war. Across the Baltic, the Swedish government has just announced a beefed-up programme of civil defence, of which the most substantial part will be an attempt to protect its software and networks from attacks. Meanwhile, North Korean state hackers are blamed by western intelligence services for the WannaCry ransomware attacks which last year shut down several NHS hospitals in the UK. Persistent reports suggest the US has interfered in this way with North Korea\u2019s nuclear missile programme. Parliament\u2019s intelligence and security committee concluded in its most recent report that China and Iran should be added to Russia and North Korea as countries that could threaten the infrastructure of the UK in this way. These attacks are hard to defend against. It is almost impossible to prove beyond doubt who the perpetrators are. International law provides little protection and there is no realistic prospect of general disarmament. Britain\u2019s GCHQ has developed a deterrent capacity of its own for use against other states, although the cost has been redacted in the intelligence and security committee\u2019s report. Cyber-attacks are far more urgent than the spectre of Russian tanks rolling towards underequipped British troops that has been raised by General Sir Nick Carter. Whatever GCHQ spends deterring or defending against them is better value than the billions on aircraft carriers or Trident, which we must all hope will never be used.",
+    "keywords": [
+        "war",
+        "software",
+        "problem",
+        "cyberwar",
+        "attacks",
+        "editorial",
+        "north",
+        "way",
+        "networks",
+        "used",
+        "underreported",
+        "intelligence",
+        "view",
+        "programme",
+        "guardian",
+        "urgent"
+    ],
+    "summary": "In the desperate scramble to rearm before the second world war there was always an undercurrent of pessimism.\nIn his dark fantasies, destruction and poison gas rained from the skies and obliterated civilisation.\nToday\u2019s equivalent is the feeling that the hacker will always get through, and that attacks on computer networks will become the most devastating form of future warfare.\nPersistent reports suggest the US has interfered in this way with North Korea\u2019s nuclear missile programme.\nCyber-attacks are far more urgent than the spectre of Russian tanks rolling towards underequipped British troops that has been raised by General Sir Nick Carter.",
+    "sentiment": {
+        "neg": 0.1672,
+        "neu": 0.7422,
+        "pos": 0.0907,
+        "compound": -0.0761
+    }
+}

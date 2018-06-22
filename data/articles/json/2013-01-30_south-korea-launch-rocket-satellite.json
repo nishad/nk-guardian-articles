@@ -1,0 +1,29 @@
+{
+    "date": "2013-01-30T10:29:43Z",
+    "title": "South Korea launches rocket carrying satellite in battle for space supremacy",
+    "url": "https://www.theguardian.com/world/2013/jan/30/south-korea-launch-rocket-satellite",
+    "content": "The battle for space supremacy on the Korean peninsula intensified on Wednesday when South Korea launched its first satellite, weeks after a similar launch by North Korea. Relief greeted the Naro rocket's flawless liftoff from a space centre on the south coast at 4pm local time. South Korea had twice failed to put a satellite into space, while two further attempts last year were aborted due to last-minute technical problems. Reports from Seoul said the 140-tonne rocket, which was built in Russia and South Korea, successfully completed its stage separation before the satellite entered orbit. There was no immediate confirmation that the satellite was following its intended trajectory. Before Wednesday, all of South Korea's satellite launches had been from overseas sites using foreign-made rockets. The country is thought to have about 10 satellites in orbit. US experts believe the satellite launched by North Korea on 12 December is tumbling through space, despite claims by Pyongyang that it is functioning normally. Seoul's launch is likely to anger the North, which incurred tougher UN sanctions after its recent launch. The regime insists rocket technology is central to its peaceful space programme, but the US, South Korea and Japan say the launches are being used to test ballistic missile technology. The North appeared to confirm those suspicions last week when its top military body, the national defence commission, said the rocket programme's secondary purpose was to target the US. North Korea responded to widespread condemnation of its latest rocket launch and tighter sanctions with a threat to conduct a third nuclear test, as early as next month. Possible dates are the birthday of its former leader, Kim Jong-il, on 16 February, or the inauguration of South Korea's newly elected president, Park Geun-hye, on 25 February. Intelligence officials in Seoul believe the North has a rocket capable of travelling 6,200 miles, potentially putting San Francisco in range, but it is not yet capable of mounting a long-range missile with a nuclear warhead.",
+    "keywords": [
+        "launch",
+        "south",
+        "carrying",
+        "korea",
+        "space",
+        "battle",
+        "seoul",
+        "supremacy",
+        "launches",
+        "technology",
+        "test",
+        "satellite",
+        "rocket",
+        "north"
+    ],
+    "summary": "The battle for space supremacy on the Korean peninsula intensified on Wednesday when South Korea launched its first satellite, weeks after a similar launch by North Korea.\nSouth Korea had twice failed to put a satellite into space, while two further attempts last year were aborted due to last-minute technical problems.\nReports from Seoul said the 140-tonne rocket, which was built in Russia and South Korea, successfully completed its stage separation before the satellite entered orbit.\nUS experts believe the satellite launched by North Korea on 12 December is tumbling through space, despite claims by Pyongyang that it is functioning normally.\nThe regime insists rocket technology is central to its peaceful space programme, but the US, South Korea and Japan say the launches are being used to test ballistic missile technology.",
+    "sentiment": {
+        "neg": 0.0686,
+        "neu": 0.8541,
+        "pos": 0.0772,
+        "compound": -0.0091
+    }
+}

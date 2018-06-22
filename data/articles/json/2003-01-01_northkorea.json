@@ -1,0 +1,29 @@
+{
+    "date": "2003-01-01T00:27:52Z",
+    "title": "North Korea: From famine to rat race",
+    "url": "https://www.theguardian.com/world/2003/jan/01/northkorea",
+    "content": "When Kim Hee-sun fled her North Korean home in the dead of night with only the clothes on her back and a bag of salt to ward off evil spirits, she and her family could only dream of the new year they have just passed in Seoul. Ms Kim's family was among tens, possibly hundreds of thousands of North Koreans, who crossed the border to China to escape floods and famines. Not recognised as refugees by China or the UN, they were forced to live in mountain hideouts or safehouses to escape arrest and repatriation by Chinese police or seizure by North Korean agents. It was not until their desperate asylum bid at the Japanese consulate in Shenyang was secretly filmed and images of a Chinese policeman trying to grab a screaming child from the arms of Ms Kim were broadcast around the world that they were able to win passage to the South. The Kims were among 1,100 defectors to the South last year. The number has doubled in each of the past two years and rising tensions in the peninsula could turn the trickle into a flood. In response to the North's nuclear brinksmanship, oil supplies have been halted and the World Food Programme, which feeds a quarter of the 24 million population, is warning of a new famine after failing to find sufficient donations. Ms Kim is no longer among the needy. Although she has to do two cleaning jobs to supplement her government stipend, she claims her standard of living is now better than that of a town mayor in the North. Her home may be a small council flat in a run-down area of Seoul, but she says: \"It is like heaven after what I have been through.\" Even so, Ms Kim is not celebrating. She worries about those left behind - a husband she believes is either dead or in jail - and friends who may once again have to face a hunger that she remembers as \"being like trying to survive on air alone\". After a life on a communist farm Ms Kim must also adapt to the capitalist urban rat race. \"We have to work so hard and there is some discrimination against us. To be honest, I would go back to China if South Korea would keep giving me a stipend and I could be recognised as a refugee. \"Many North Korean refugees think the same. We find it very hard to live here in South Korea.\"",
+    "keywords": [
+        "south",
+        "famine",
+        "stipend",
+        "korea",
+        "world",
+        "ms",
+        "kim",
+        "china",
+        "seoul",
+        "rat",
+        "korean",
+        "trying",
+        "north",
+        "race"
+    ],
+    "summary": "Not recognised as refugees by China or the UN, they were forced to live in mountain hideouts or safehouses to escape arrest and repatriation by Chinese police or seizure by North Korean agents.\nMs Kim is no longer among the needy.\nEven so, Ms Kim is not celebrating.\nAfter a life on a communist farm Ms Kim must also adapt to the capitalist urban rat race.\n\"Many North Korean refugees think the same.",
+    "sentiment": {
+        "neg": 0.1199,
+        "neu": 0.8211,
+        "pos": 0.0591,
+        "compound": -0.1222
+    }
+}

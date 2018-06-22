@@ -1,0 +1,27 @@
+{
+    "date": "2014-12-04T09:03:34Z",
+    "title": "North Korea denies hacking Sony Pictures",
+    "url": "https://www.theguardian.com/technology/2014/dec/04/north-korea-denies-hacking-sony-pictures-cyber-attack-movies",
+    "content": "North Korea has denied it was behind last week\u2019s cyber-attack on Sony Pictures, which resulted in the leak of several unreleased films and caused massive disruption to the company\u2019s email and other parts of its internal computer network. A Pyongyang diplomat in New York said recent speculative reports linking North Korean hackers to the attack were incorrect. \u201cLinking [North Korea] to the Sony hacking is another fabrication targeting the country,\u201d the official, who asked to remain anonymous, told broadcaster Voice of America. \u201cMy country publicly declared that it would follow international norms banning hacking and piracy.\u201d It is the first time that North Korea, which is known to have a sophisticated cyber-attack unit, has denied being behind the Sony hack. Earlier this week a spokesman for its mission to the UN refused to rule out Pyongyang\u2019s involvement, telling reporters to \u201cjust wait and see\u201d who was behind the attack. There had been speculation that Pyongyang, perhaps using hackers based in China, had got into Sony Pictures\u2019 computer system in retaliation for the release later this month of The Interview, a comedy about a fictitious plot to assassinate the North Korean leader, Kim Jong-un. Some experts also pointed to similarities between the Sony hack and a cyber-attack thought to have been carried out by Pyongyang on South Korean banks and TV networks last year. When details of The Interview were released this summer, North Korea threatened a \u201cmerciless and resolute\u201d response unless US authorities banned the movie. North Korea\u2019s ambassador to the UN, Ja Song-nam, called the film \u201cthe most undisguised sponsoring of terrorism as well as an act of war\u201d, in a letter to the UN secretary general, Ban Ki-moon. At least five high-profile titles, including Still Alice, a remake of the musical Annie, and To Write Love on Her Arms appeared on file-sharing sites after the hack. It also appeared to leak the salaries and other confidential information of more than 6,000 Sony employees. The Interview is scheduled for release in the US and dozens of other countries on Christmas Day, and stars Seth Rogen and James Franco.",
+    "keywords": [
+        "sony",
+        "interview",
+        "korea",
+        "hacking",
+        "pictures",
+        "denies",
+        "cyberattack",
+        "hack",
+        "pyongyang",
+        "release",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea has denied it was behind last week\u2019s cyber-attack on Sony Pictures, which resulted in the leak of several unreleased films and caused massive disruption to the company\u2019s email and other parts of its internal computer network.\nA Pyongyang diplomat in New York said recent speculative reports linking North Korean hackers to the attack were incorrect.\n\u201cLinking [North Korea] to the Sony hacking is another fabrication targeting the country,\u201d the official, who asked to remain anonymous, told broadcaster Voice of America.\n\u201cMy country publicly declared that it would follow international norms banning hacking and piracy.\u201d It is the first time that North Korea, which is known to have a sophisticated cyber-attack unit, has denied being behind the Sony hack.\nWhen details of The Interview were released this summer, North Korea threatened a \u201cmerciless and resolute\u201d response unless US authorities banned the movie.",
+    "sentiment": {
+        "neg": 0.0947,
+        "neu": 0.8716,
+        "pos": 0.0336,
+        "compound": -0.209
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "date": "2010-12-03T17:21:23Z",
+    "title": "Guardian Focus podcast: WikiLeaks and the US embassy cables",
+    "url": "https://www.theguardian.com/world/audio/2010/dec/03/us-embassy-cables-wikileaks-podcast",
+    "content": "This week the Guardian published a series of stories sourced from US embassies via the campaigning website Wikileaks. Among the revelations were allegations of organised crime linked to the Russian government, China's growing impatience with North Korea and alleged corruption at the heart of the Afghan government. The leaks have been condemned by governments in Washington and London. David Frum, a former speechwriter for George Bush, claims that the publication of the secret papers will put lives at risk in repressive regimes. David Leigh has led the Guardian's investigation and explains the significance of the stories. Sherard Cowper-Coles is a former British diplomat who has worked in Washington, Saudi Arabia and other parts of the Middle East. Julian Borger is the Guardian's diplomatic editor and a former Washington bureau chief. We also hear how the revelations have been received from Guardian correspondents Luke Harding (Moscow) and Declan Walsh (Islamabad), and from the Guardian's editor Alan Rusbridger. Leave your thoughts below.",
+    "keywords": [
+        "focus",
+        "embassy",
+        "wikileaks",
+        "podcast",
+        "washington",
+        "david",
+        "revelations",
+        "week",
+        "editor",
+        "guardians",
+        "worked",
+        "cables",
+        "website",
+        "guardian"
+    ],
+    "summary": "This week the Guardian published a series of stories sourced from US embassies via the campaigning website Wikileaks.\nDavid Leigh has led the Guardian's investigation and explains the significance of the stories.\nSherard Cowper-Coles is a former British diplomat who has worked in Washington, Saudi Arabia and other parts of the Middle East.\nJulian Borger is the Guardian's diplomatic editor and a former Washington bureau chief.\nWe also hear how the revelations have been received from Guardian correspondents Luke Harding (Moscow) and Declan Walsh (Islamabad), and from the Guardian's editor Alan Rusbridger.",
+    "sentiment": {
+        "neg": 0.0969,
+        "neu": 0.8821,
+        "pos": 0.021,
+        "compound": -0.1602
+    }
+}

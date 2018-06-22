@@ -1,0 +1,29 @@
+{
+    "date": "2005-03-07T01:50:39Z",
+    "title": "Iran hints it may play same nuclear card as Korea",
+    "url": "https://www.theguardian.com/world/2005/mar/07/iran.northkorea",
+    "content": "Iran hinted at the weekend that it could follow North Korea in abrogating its nuclear pledges if Washington took the ayatollahs to the UN security council because of suspicions about its nuclear programmes. Speaking at a nuclear technology conference in Tehran, Iran's chief nuclear negotiator, Hassan Rowhani, voiced frustration with EU attempts to defuse the nuclear dispute. He also threatened to cancel nuclear inspection agreements with the International Atomic Energy Agency, and insisted Iran would retain a programme for manufacturing nuclear fuel, a process that can also yield the fissile material for nuclear warheads. Talks on the dispute between Iran and the EU troika of Britain, France, and Germany resume next week in Geneva. The comments from Mr Rowhani were calculated to drive a wedge between the Europeans and the US at a time of the first transatlantic rapprochement on the issue in the two years since the dispute surfaced. He may also have been seeking to create tension between the European partners. He talked positively about France and Germany while failing to refer to Britain. The central topic of the negotiations is the fate of Iran's extensive uranium enrichment programme, which Tehran maintains is solely for generating nuclear power but which Washington and the Europeans fear is camouflage for a bomb project. Iran came under renewed criticism last week from the IAEA, Europe and the Americans for restricting UN inspectors' access to sites in Iran, for building deep underground tunnels to safeguard nuclear plants against possible air strikes, and for pressing ahead with a reactor project that will produce plutonium usable in nuclear bombs. As a result of President George Bush's recent visit to Europe, Washington is reconsidering its policy on Iran and edging towards tacit support of the EU diplomatic track, which would reward Iranian concessions. If the Americans back the EU diplomacy, it will be a major policy shift. But in return for its support, the White House is demanding that the EU backs US moves to punish Tehran if - and when, as the Americans expect - talks with Iran break down or become deadlocked. It is not clear whether the French or the Germans would support penalties. Also at issue is how long the talks should be allowed to continue without any agreement. It appears that if there were no agreement by June, the US would want the talks declared a failure and the issue moved to the UN security council.",
+    "keywords": [
+        "dispute",
+        "eu",
+        "iran",
+        "play",
+        "korea",
+        "washington",
+        "issue",
+        "nuclear",
+        "support",
+        "card",
+        "hints",
+        "americans",
+        "talks",
+        "tehran"
+    ],
+    "summary": "Iran hinted at the weekend that it could follow North Korea in abrogating its nuclear pledges if Washington took the ayatollahs to the UN security council because of suspicions about its nuclear programmes.\nSpeaking at a nuclear technology conference in Tehran, Iran's chief nuclear negotiator, Hassan Rowhani, voiced frustration with EU attempts to defuse the nuclear dispute.\nHe also threatened to cancel nuclear inspection agreements with the International Atomic Energy Agency, and insisted Iran would retain a programme for manufacturing nuclear fuel, a process that can also yield the fissile material for nuclear warheads.\nTalks on the dispute between Iran and the EU troika of Britain, France, and Germany resume next week in Geneva.\nAlso at issue is how long the talks should be allowed to continue without any agreement.",
+    "sentiment": {
+        "neg": 0.1283,
+        "neu": 0.7933,
+        "pos": 0.0783,
+        "compound": -0.2169
+    }
+}

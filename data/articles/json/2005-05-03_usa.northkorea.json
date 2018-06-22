@@ -1,0 +1,29 @@
+{
+    "date": "2005-05-03T23:00:45Z",
+    "title": "Simon Tisdall: World briefing",
+    "url": "https://www.theguardian.com/world/2005/may/04/usa.northkorea",
+    "content": "Many damaging accusations have been levelled at John Bolton, President George Bush's controversial nominee as US ambassador to the UN. But perhaps the most serious is that Mr Bolton, as undersecretary of state for arms control and international security since 200, bungled efforts to dissuade North Korea from developing nuclear weapons. Mr Bolton helped to scrap the Clinton administration's 1994 \"agreed framework\" that froze North Korea's weapons-related plutonium reprocessing programme. The framework was imperfect - but nothing remotely adequate replaced it. In 2002, President Bush denounced North Korea as part of the \"axis of evil\". In 2003, Pyongyang withdrew from the nuclear non-proliferation treaty and traded insults with Mr Bolton. In February, it declared itself a nuclear weapons state. And at the weekend, on the eve of the treaty review conference in New York, North Korea said stalled regional talks were effectively dead. The Pentagon's Defence Intelligence Agency conceded last week that North Korea probably now has nuclear-armed missiles capable of hitting US soil. This signal policy failure risks being repeated in Iran, with which Mr Bolton has also refused to deal directly. Western countries suspect Iran is secretly developing nuclear weapons. It says it is interested only in generating nuclear-powered electricity. Unlike Pyongyang, Tehran still belongs to the treaty and has signed the \"additional protocol\" allowing intrusive UN inspections. But as the conference met this week, EU-led efforts to persuade Iran to suspend uranium enrichment were on the verge of breakdown. Such problems go to the heart of the conundrum facing the 188-country conference. The treaty's article IV says state parties have the \"inalienable right to develop ... nuclear energy for peaceful purposes\" and to acquire technology to this end. But post-9/11, the US and its allies, newly alarmed about proliferation, want to curb the availability of such technology, starting with the nuclear fuel cycle. Mr Bush proposed last year to \"cap\" the number of states possessing fuel enrichment capabilities. The International Atomic Energy Agency has suggested a five-year moratorium on new facilities in return for guaranteed fuel supplies for certified users. But as the independent British-American Security Information Council points out: \"There is no international consensus on how to deal with the problem.\" \"The big loophole in the treaty is legal acquisition [of dual-use technology],\" a British official said. \"We want to try and address it as much as possible, but it's fiendishly difficult.\" Such pessimism appears well-founded. Non-weapons states accuse nuclear powers of double standards. They say the curbs are biased and the \"13 steps\" agreed at the last review in 2000 have not been honoured. The steps included the promise of a \"diminishing role for nuclear weapons in security policies [and] the engagement as soon as possible of all nuclear-weapons states in the process, leading to the total elimination of their nuclear weapons\", as stipulated by the treaty. The Bush administration's weapons modernisation and development plans, and its overall disdain for arms treaties, are said to undermine the treaty. So, too, is Britain's refusal to relinquish theoretical \"first use\" of nuclear weapons against a non-nuclear armed state. The west's de facto acceptance of states that have developed nuclear weapons - notably Israel, Pakistan and India - has also weakened potential collective action. North Korea's accelerating nuclear activities are linked by some analysts to Iraq. Pyongyang surmised that if Saddam Hussein really had possessed the bomb, the US would not have dared to attack him. Iran may have reached a similar conclusion. \"By holding open their own options, the weapons states contribute to a permissive climate that underscores the limits of non-proliferation,\" said Rebecca Johnson, editor of Disarmament Diplomacy. \"Nuclear weapons are viewed as the currency necessary for being taken seriously by the United States.\" She said those states wishing to retain their enrichment and reprocessing capacity while denying facilities to others must ask themselves how serious they are about the need to prevent proliferation.",
+    "keywords": [
+        "mr",
+        "bolton",
+        "iran",
+        "world",
+        "state",
+        "korea",
+        "states",
+        "nuclear",
+        "simon",
+        "weapons",
+        "briefing",
+        "tisdall",
+        "treaty",
+        "north"
+    ],
+    "summary": "Mr Bolton helped to scrap the Clinton administration's 1994 \"agreed framework\" that froze North Korea's weapons-related plutonium reprocessing programme.\nIn 2002, President Bush denounced North Korea as part of the \"axis of evil\".\nIn February, it declared itself a nuclear weapons state.\nThe Pentagon's Defence Intelligence Agency conceded last week that North Korea probably now has nuclear-armed missiles capable of hitting US soil.\nThis signal policy failure risks being repeated in Iran, with which Mr Bolton has also refused to deal directly.",
+    "sentiment": {
+        "neg": 0.1381,
+        "neu": 0.7894,
+        "pos": 0.0725,
+        "compound": -0.1466
+    }
+}

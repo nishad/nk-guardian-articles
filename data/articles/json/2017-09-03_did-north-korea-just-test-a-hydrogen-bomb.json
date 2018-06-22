@@ -1,0 +1,28 @@
+{
+    "date": "2017-09-03T15:59:34Z",
+    "title": "Did North Korea just test a hydrogen bomb? | Ian Sample",
+    "url": "https://www.theguardian.com/world/2017/sep/03/did-north-korea-just-test-a-hydrogen-bomb",
+    "content": "North Korea\u2019s nuclear test created tremors around the world. Shockwaves were first picked up at a seismic station 230 miles away in Mudanjiang, China, where the needle sprang into action less than a minute after the blast. Seconds later, the tremors reached instruments in South Korea and Japan, and within 12 minutes had been detected in Canada, Australia and at the Eskdalemuir Observatory in Scotland. More than 130 stations recorded shockwaves, which after 20 minutes had reached as far as Argentina 12,000 miles from the test site. Based on the strength of the tremors, equivalent to a magnitude 6.3 earthquake, according to the US Geological Survey, nuclear weapons specialists put the yield of the bomb at about 100 kilotons. That is roughly 10 times more powerful than previous nuclear bombs tested by the North Koreans, including what was claimed to be another hydrogen bomb at the same Punggye-ri facility in January 2016. Analysts have been sceptical that the 2016 test involved a hydrogen bomb because the energy released was comparatively small, but the latest test leaves less room for doubt, according to Anne Str\u00f8mmen Lycke at Norsar, the Norwegian centre responsible for detecting nuclear tests. \u201cFrom the seismic signal alone it\u2019s not possible to tell the difference between a conventional atomic explosion and a hydrogen bomb, but when it\u2019s as large as this one, the credibility of the claim that it\u2019s an H-bomb increases dramatically,\u201d she said. Hydrogen bombs can be a lot more powerful than conventional atomic bombs. In conventional atomic bombs, the blast is produced by atoms being ripped in two. But the fission process is inefficient and the bombs tend to be big and heavy. H-bombs instead fuse hydrogen atoms together to create heavier elements, a process that releases far more energy. In images released by North Korea, Kim Jong-un is seen inspecting a device, or perhaps a model of the bomb, in front of a diagram suggesting that it was small enough to fit into the nose cone of an intercontinental ballistic missile. If the North Koreans have built a 100 kiloton hydrogen bomb, its explosive power would dwarf that of the US nuclear bombs dropped on Japan in 1945. Those exploded with an energy of 15 to 20 kilotons. As well as its more obvious destructive power, a hydrogen bomb could be detonated in the atmosphere to release a massive electromagnetic pulse to knock out electrical devices. The best hope for confirming North Korea\u2019s claim of testing a hydrogen bomb comes from sniffer stations around the world that detect radioactive pollution released by nuclear explosions. Hydrogen bombs produce all manner of radioactive elements, but monitors will look specifically for isotopes of a gas called xenon that can bear the hallmark of H-bomb reactions. Depending on the wind and other weather conditions, the gases could be detected at stations in South Korea, Japan, Russia and China. An answer is not guaranteed though. After the January 2016 test, the sniffer stations failed to detect the signature of an H-bomb, possibly because very little gas leaked from the underground test site. \u201cThe radionuclides will only be recorded if there\u2019s leakage from the site and it spreads out and hits a monitoring station,\u201d said Svein Mykkeltveit, a special adviser at Norsar. \u201cAnd even if those observations are made in the coming days, weeks or months, there is still the question of whether the specialists will be able to tell the difference between a fission and a fusion bomb.\u201d",
+    "keywords": [
+        "bombs",
+        "released",
+        "korea",
+        "ian",
+        "sample",
+        "nuclear",
+        "site",
+        "tremors",
+        "test",
+        "stations",
+        "hydrogen",
+        "north",
+        "bomb"
+    ],
+    "summary": "North Korea\u2019s nuclear test created tremors around the world.\nMore than 130 stations recorded shockwaves, which after 20 minutes had reached as far as Argentina 12,000 miles from the test site.\nHydrogen bombs can be a lot more powerful than conventional atomic bombs.\nIf the North Koreans have built a 100 kiloton hydrogen bomb, its explosive power would dwarf that of the US nuclear bombs dropped on Japan in 1945.\nAs well as its more obvious destructive power, a hydrogen bomb could be detonated in the atmosphere to release a massive electromagnetic pulse to knock out electrical devices.",
+    "sentiment": {
+        "neg": 0.0437,
+        "neu": 0.8755,
+        "pos": 0.0808,
+        "compound": 0.0678
+    }
+}

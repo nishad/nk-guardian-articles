@@ -1,0 +1,28 @@
+{
+    "date": "2016-01-06T06:15:25Z",
+    "title": "North Korea test: what is a miniaturised hydrogen bomb?",
+    "url": "https://www.theguardian.com/world/2016/jan/06/north-korea-test-what-is-a-miniaturised-hydrogen-bomb",
+    "content": "North Korea is claiming it has successfully detonated a miniaturised hydrogen bomb. Tremors were picked up by seismologists in the US, South Korea and China at 10am local time (1.30am GMT) at a known nuclear test site at Punggye-ri and confirmed by state television. What is a thermonuclear bomb? According to John Carlson, the former head of the Australian Safeguards and Non-Proliferation Office, a thermonuclear bomb \u2013 colloquially known as a hydrogen bomb \u2013 is essentially a two-stage explosion: one a nuclear fission reaction, the other a nuclear fusion reaction. The primary explosion is the fission reaction \u2013 think, a conventional nuclear bomb \u2013 that emits x-rays that cause the secondary explosion, triggered by the fusion of tritium and deuterium, two hydrogen isotopes. These two isotopes naturally repel each other, but the x-rays weaken this repellent force, causing the pair to fuse together. It is the fusion of these two isotopes that triggers the enormous energy release that makes thermonuclear explosions so destructive. What is the difference between fission and fusion? In nuclear fission, the nucleus of an atom splits to produce two smaller elements, often releasing free subatomic particles and energy. In nuclear fusion, two or more atomic nuclei come together and combine. In the process, some of their mass is converted into large amounts of energy. Fusion is the reaction that powers the sun. How does this differ from past North Korean nuclear tests? Past nuclear tests in 2006, 2009 and 2013 \u2013 all at the same site in North Hamgyong province, in the east of the country \u2013 were purely the primary stage, a nuclear explosion, \u201cand fairly low yield at that\u201d, Carlson says. What is the significance of a \u201cminiaturised\u201d bomb? \u201cIf it\u2019s true, it means they\u2019ve made something smaller scale, capable of being put on to a missile,\u201d Carlson says. \u201cI think we can assume the previous tests they\u2019ve carried out have been devices too large to fit on to a missile. \u201cThere have been questions over whether those past tests were practical weapons at all, if they could even be dropped from aircraft.\u201d Carlson says the North Koreans would be aiming to develop a weapon \u201csmall enough and light enough to put on to a missile, and the usual parameters are something less than one metre in diameter, and less than a tonne in weight\u201d. \u201cIdeally it would be even smaller, maybe 750mm and half a tonne, but that would probably be beyond their capabilities,\u201d he adds. Admiral Bill Gortney, head of US Northern Command and the North American Aerospace Defense Command, said in October 2015 he believed North Korea had rockets with enough range to hit the continental US. The secretive state had already developed \u201cminiaturised\u201d nuclear bombs that could be fitted to these rockets, he added. Why develop this kind of weapon? The point is to show that North Korea can; that its powers have increased. \u201cIt\u2019s the psychological impact,\u201d Carlson says.",
+    "keywords": [
+        "miniaturised",
+        "korea",
+        "fusion",
+        "reaction",
+        "carlson",
+        "fission",
+        "nuclear",
+        "tests",
+        "test",
+        "explosion",
+        "hydrogen",
+        "north",
+        "bomb"
+    ],
+    "summary": "North Korea is claiming it has successfully detonated a miniaturised hydrogen bomb.\nAccording to John Carlson, the former head of the Australian Safeguards and Non-Proliferation Office, a thermonuclear bomb \u2013 colloquially known as a hydrogen bomb \u2013 is essentially a two-stage explosion: one a nuclear fission reaction, the other a nuclear fusion reaction.\nIn nuclear fission, the nucleus of an atom splits to produce two smaller elements, often releasing free subatomic particles and energy.\nAdmiral Bill Gortney, head of US Northern Command and the North American Aerospace Defense Command, said in October 2015 he believed North Korea had rockets with enough range to hit the continental US.\nThe point is to show that North Korea can; that its powers have increased.",
+    "sentiment": {
+        "neg": 0.0887,
+        "neu": 0.8482,
+        "pos": 0.0631,
+        "compound": -0.0695
+    }
+}

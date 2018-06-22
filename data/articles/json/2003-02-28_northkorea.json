@@ -1,0 +1,28 @@
+{
+    "date": "2003-02-28T02:19:36Z",
+    "title": "IAEA condemns North Korea for reviving reactor",
+    "url": "https://www.theguardian.com/world/2003/feb/28/northkorea",
+    "content": "The International Atomic Energy Agency condemned North Korea yesterday for resuming the operation of its Yongbyon reactor earlier this week, which added to the suspicion that it is pursuing a programme of plutonium production for nuclear weapons. At the same time the British minister for global issues, Bill Rammell, said that any attempt to reprocess used fuel at the plant would represent an \"extremely dangerous step\" and could invite economic sanctions. North Korea says that it would treat sanctions as an act of war. US officials said satellites had detected a plume of smoke from Yongbyon, indicating the 5mW experimental reactor had been started up for the first time since 1994, when it was shut down under the agreement to end the last nuclear crisis, when the Pentagon proposed a surgical strike on the plant North Korea insists that the Yongbyon reactor and others still under construction are needed to ease its desperate energy shortage, but it has raised suspicion by expelling the IAEA inspectors and withdrawing from the global nuclear non-proliferation treaty. The IAEA said it deplored the resumption of operations at the plant without the presence of inspectors to verify whether it was being used for peaceful purposes. \"Restarting this now unsafe guarded nuclear facility will further demonstrate [North Korea's] disregard for its nuclear non-proliferation obligations,\" its spokeswoman told reporters. North Korea has steadily increased the tension since the beginning of the year. Last week it threatened to end the armistice that has held since the Korean war was suspended in 1953. This week it overshadowed the inauguration of the new South Korean president, Roh Moo-hyun, by test-launching a missile into coastal waters a few hours before the ceremony. Until now its gestures have been provocatively timed but mostly symbolic. But its neighbours and UN security council members fear that the next step may amount to a strategic threat: the extraction of weapon's grade plutonium from spent nuclear fuel. If it begins reprocessing the 8,000 spent fuel canisters in Yongbyon's storage ponds, the IAEA says, it could have enough fissile material for up to six bombs in four to six weeks. The British government said this would be the \"extremely dangerous\" point at which North Korea's behaviour would cross the line from attention-grabbing antics to a threat that could be subject to punishment. \"Up until now our analysis is that this is a crude and ham-fisted attempt to gain attention and economic leverage, not a regime that is hell-bent on confrontation,\" Mr Rammell said during his visit to north-east Asia to discuss the crisis. \"Were North Korea to start reprocessing, we would have to revise that view.\" He said Britain would consider sanctions in response to such an escalation. The tough talk by London and Washington has not been echoed by Pyongyang's neighbours. Differences about how to deal with the regime have emerged. Mr Roh has ruled out the use of force. Rather seeing North Korea as a threat, his new government is to open talks with Washington on reducing or re-positioning the 37,000 US service personnel in his country. Yesterday China snubbed US appeals to exert pressure on its behalf, with a clear message to Washington and Pyongyang to \"cool down\". Its foreign minister, Tang Jaixuan, issued a joint communique with his Russian counterpart, Igor Ivanov,who is visiting China, calling for an \"equal and constructive dialogue\" between the US and North Korea. The official China Daily accused the US for having reversed the \"favourable development\" of the Korean peace process since Mr Bush took office. Beijing does not appear to have been persuaded by the US secretary of state, Colin Powell, during his visit earlier this week to adopt a higher profile on the Korean crisis. While it does not conceal its dislike for the North Korean nuclear programme, it also sees no advantage in siding with the US at the moment.",
+    "keywords": [
+        "iaea",
+        "condemns",
+        "korea",
+        "week",
+        "washington",
+        "threat",
+        "nuclear",
+        "yongbyon",
+        "sanctions",
+        "reviving",
+        "reactor",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea says that it would treat sanctions as an act of war.\nNorth Korea has steadily increased the tension since the beginning of the year.\n\"Were North Korea to start reprocessing, we would have to revise that view.\"\nIts foreign minister, Tang Jaixuan, issued a joint communique with his Russian counterpart, Igor Ivanov,who is visiting China, calling for an \"equal and constructive dialogue\" between the US and North Korea.\nWhile it does not conceal its dislike for the North Korean nuclear programme, it also sees no advantage in siding with the US at the moment.",
+    "sentiment": {
+        "neg": 0.1055,
+        "neu": 0.8462,
+        "pos": 0.0483,
+        "compound": -0.2393
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2002-12-23T00:29:31Z",
+    "title": "Leader: Fuelling a crisis",
+    "url": "https://www.theguardian.com/world/2002/dec/23/northkorea.guardianleaders",
+    "content": "North Korea's decision to remove UN monitoring equipment at its Yongbyon nuclear reactor and resume operations there is a direct result of the recent US-led move to cut off oil supplies to Pyongyang. North Korea says it needs the electricity only Yongbyon can produce. That the reactor, before its closure in 1994, was used to produce weapons-grade plutonium for nuclear warheads may well be true; the US certainly believes it to be so. But through its renewed pressure on the North Korean regime, the Bush administration has now produced the very opposite of what it says it wants. There will also be some sympathy in South Korea and from others in the region for the north's claim that it must obtain energy supplies somewhere if its people are not to freeze this winter. Rather than engaging directly as a way of reducing concerns about the regime's nuclear and other weapons of mass destruction activity, the US seems intent on driving the North Koreans into a corner, amid wild talk of military air strikes aimed at Yongbyon. This is dangerous, irresponsible behaviour. And it has already produced negative political results in South Korea, where opposition to Washington's confrontational line and its perceived bias in favour of the conservative candidate, played a significant part in last week's presidential election victory of Roh Moo-hyun. Mr Roh's success may be seen as an endorsement of the \"sunshine policy\" of detente pursued by the outgoing president, Kim Dae-jung, and as an indication that South Korea's confident, affluent younger generations increasingly refuse to be told what to do by their powerful ally. Mr Roh was elected to build bridges, not burn them. If it is wise, Washington will follow his lead.",
+    "keywords": [
+        "south",
+        "leader",
+        "roh",
+        "fuelling",
+        "korea",
+        "crisis",
+        "north",
+        "nuclear",
+        "produce",
+        "produced",
+        "supplies",
+        "reactor",
+        "yongbyon"
+    ],
+    "summary": "North Korea's decision to remove UN monitoring equipment at its Yongbyon nuclear reactor and resume operations there is a direct result of the recent US-led move to cut off oil supplies to Pyongyang.\nNorth Korea says it needs the electricity only Yongbyon can produce.\nThat the reactor, before its closure in 1994, was used to produce weapons-grade plutonium for nuclear warheads may well be true; the US certainly believes it to be so.\nBut through its renewed pressure on the North Korean regime, the Bush administration has now produced the very opposite of what it says it wants.\nThere will also be some sympathy in South Korea and from others in the region for the north's claim that it must obtain energy supplies somewhere if its people are not to freeze this winter.",
+    "sentiment": {
+        "neg": 0.1137,
+        "neu": 0.7845,
+        "pos": 0.1018,
+        "compound": 0.032
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "2006-07-05T16:56:19Z",
+    "title": "And then there were two ...",
+    "url": "https://www.theguardian.com/world/2006/jul/05/usa.northkorea",
+    "content": "\"North Korea is a regime arming with missiles and weapons of mass destruction while starving its citizens,\" President Bush declared in 2002 in his state of the union address. \"Iran aggressively pursues these weapons and exports terror ... Iraq continues to flaunt its hostility toward America and to support terror ... states like these, and their terrorist allies, constitute an axis of evil, arming to threaten the peace of the world.\" Four years on, the axis is down to two members. Saddam Hussein's regime has been removed, leaving Iraq in turmoil - and with no sign of the weapons that provided a basis for the US-led invasion. As far as North Korea and Iran are concerned though, little has changed. Iran insists that its nuclear programme is for peaceful purposes only, although the US and others suspect it is using that as a cover to develop weapons. Having originally signed the Nuclear Non-Proliferation Treaty in 1968, it signed an additional protocol in 2003 that allows detailed inspections by the International Atomic Energy Agency. In November 2004, under international pressure, Iran agreed to suspend uranium enrichment but - as the diplomatic cat-and-mouse game continued - it resumed again in January this year. US intentions towards Iran remain unclear. Washington's official position is that a nuclear-armed Iran would be unacceptable and that all options for preventing it, including military force, are on the table. Some argue a strike would be counter-productive and the world may eventually have to accept an Iranian bomb. Last month the US, Britain, France, Germany, Russia and China agreed on a package of incentives for Iran to stop its nuclear programme. Iran described the proposals as positive but says it will not give a formal reply until next month. President Bush's inclusion of North Korea - a tiny, impoverished dictatorship - in the axis of evil raised eyebrows at the time, with suggestions he had named it to avoid being accused of picking on Muslim countries. His stance also conflicted with South Korea's \"sunshine policy\" of seeking a gradual thaw in relations with its northern neighbour. North Korea pulled out of the non-proliferation treaty in 2003 and, far from denying nuclear weapons activity, has tended to boast about it and possibly even exaggerate. In February last year a foreign ministry statement claimed it had succeeded in making nuclear weapons. There are signs that North Korea is seeking to trade its nuclear activities for a package of aid and diplomatic benefits, but the US is wary of rewarding President Kim's regime.",
+    "keywords": [
+        "iran",
+        "regime",
+        "korea",
+        "world",
+        "president",
+        "nuclear",
+        "weapons",
+        "axis",
+        "treaty",
+        "north"
+    ],
+    "summary": "\"North Korea is a regime arming with missiles and weapons of mass destruction while starving its citizens,\" President Bush declared in 2002 in his state of the union address.\nAs far as North Korea and Iran are concerned though, little has changed.\nNorth Korea pulled out of the non-proliferation treaty in 2003 and, far from denying nuclear weapons activity, has tended to boast about it and possibly even exaggerate.\nIn February last year a foreign ministry statement claimed it had succeeded in making nuclear weapons.\nThere are signs that North Korea is seeking to trade its nuclear activities for a package of aid and diplomatic benefits, but the US is wary of rewarding President Kim's regime.",
+    "sentiment": {
+        "neg": 0.1482,
+        "neu": 0.7816,
+        "pos": 0.0703,
+        "compound": -0.205
+    }
+}

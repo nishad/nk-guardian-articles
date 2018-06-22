@@ -1,0 +1,30 @@
+{
+    "date": "2015-01-08T16:07:10Z",
+    "title": "FBI doubles down on North Korea accusation for Sony Pictures hack",
+    "url": "https://www.theguardian.com/technology/2015/jan/08/fbi-north-korea-accusation-sony-pictures-hack",
+    "content": "The FBI has reiterated its belief that North Korea is ultimately behind the hacking of Sony Pictures, in the face of continued criticism from independent security researchers who doubt the organisation\u2019s findings. \u201cThere\u2019s not much I have high confidence about,\u201d the FBI director, James Comey, told the press, but \u201cI have very high confidence \u2026 on North Korea.\u201d He pre-empted concerns of researchers that the North Korean connection was a smokescreen, saying they \u201cdon\u2019t have the facts I have, they don\u2019t see what I see\u201d. The key fact cited by Comey to justify his agency\u2019s continued suspicion was the evidence of the attackers\u2019 IP addresses, the 12-digit string that identifies the location of a remote computer. While the hackers apparently used proxy servers for most of the attack, which mask a user\u2019s true IP address, Comey said they \u201cgot sloppy\u201d on several occasions and neglected the precaution, revealing their own IP address which, he said, linked them to North Korea. The director also restated the FBI\u2019s conclusion that patterns in the attack, such as the language encoding and writing style, matched previous attacks which the agency had also attributed to North Korea. But Comey kept some evidence under wraps, saying that he could not share it publicly. Despite the new information from the FBI, independent researchers remain sceptical. IP addresses are easy to spoof, and even if some do point to North Korea, that is far from watertight evidence of the country\u2019s involvement. \u201cIf IP addresses are accurate (big if) then FBI have not said what the evidence is for maintaining they are used \u2018exclusively\u2019 by North Korea,\u201d the University of Surrey\u2019s Professor Alan Woodward told Forbes. \u201cBut the FBI are implying IP address is enough which it isn\u2019t without some supplementary evidence \u2026 people are making big decisions based on these attributions.\u201d And other assertions from the FBI have been continuously attracting criticism since the before organisation even made the claims. For instance, even if Korean language is used in some files linked with the attack, that says little about the involvement of North Korea, a country which uses a very different dialect of Korean from the South. And even that ignores the fact that the encoding language of a computer is easy to set manually, to throw investigators off the trail. Security researcher Bruce Schneier writes that \u201cwhen it\u2019s possible to identify the origins of cyberattacks \u2013 like forensic experts were able to do with many of the Chinese attacks against US networks \u2013 it\u2019s as a result of months of detailed analysis and investigation. \u201cThat kind of time frame doesn\u2019t help at the moment of attack, when you have to decide within milliseconds how your network is going to react and within days how your country is going to react. This, in part, explains the relative disarray within the Obama administration over what to do about North Korea. Officials in the US government and international institutions simply don\u2019t have the legal or even the conceptual framework to deal with these types of scenarios.\u201d",
+    "keywords": [
+        "language",
+        "sony",
+        "korea",
+        "pictures",
+        "used",
+        "evidence",
+        "accusation",
+        "doubles",
+        "fbi",
+        "ip",
+        "hack",
+        "researchers",
+        "comey",
+        "north",
+        "attack"
+    ],
+    "summary": "The FBI has reiterated its belief that North Korea is ultimately behind the hacking of Sony Pictures, in the face of continued criticism from independent security researchers who doubt the organisation\u2019s findings.\nThe director also restated the FBI\u2019s conclusion that patterns in the attack, such as the language encoding and writing style, matched previous attacks which the agency had also attributed to North Korea.\nIP addresses are easy to spoof, and even if some do point to North Korea, that is far from watertight evidence of the country\u2019s involvement.\n\u201cIf IP addresses are accurate (big if) then FBI have not said what the evidence is for maintaining they are used \u2018exclusively\u2019 by North Korea,\u201d the University of Surrey\u2019s Professor Alan Woodward told Forbes.\nThis, in part, explains the relative disarray within the Obama administration over what to do about North Korea.",
+    "sentiment": {
+        "neg": 0.0763,
+        "neu": 0.8759,
+        "pos": 0.0478,
+        "compound": -0.0956
+    }
+}

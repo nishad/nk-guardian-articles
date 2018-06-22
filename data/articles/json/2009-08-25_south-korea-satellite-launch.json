@@ -1,0 +1,28 @@
+{
+    "date": "2009-08-25T11:44:01Z",
+    "title": "South Korean satellite launch misses target",
+    "url": "https://www.theguardian.com/world/2009/aug/25/south-korea-satellite-launch",
+    "content": "South Korea's latest attempt to enter the Asian space race suffered a setback today when a satellite carried by the country's first rocket veered off course. South Korean space officials said an initial investigation showed the satellite had failed to enter its intended orbit. \"The first-stage engine and the second-stage kick motor operated normally and the satellite separated, but it did not put it precisely in the target orbit,\" said the science minister, Ahn Byong-man. Officials have so far been unable to identify the cause of the malfunction or judge whether it would jeopardise the mission. They said the satellite did not have a booster mechanism to correct its trajectory. Ahn said South Korean and Russian scientists were looking into the problem. After several technical glitches and objections from North Korea, all appeared to be going smoothly when the first stage of the Korea Space Launch Vehicle-1 separated from its second stage five minutes after lifting off from Naro space centre, about 300 miles south of Seoul, at 5pm local time. Millions of South Koreans watched live coverage of the launch, hoping to witness the first time their country had put a satellite into orbit from its own territory. Although South Korea has launched 11 satellites since 1992, all lifted off from overseas sites on foreign-made rockets. Science ministry officials said the US$400m (\u00a3245m) rocket, known as the Naro-1, was due to put a scientific observation satellite into orbit and propel South Korea into an exclusive group of nine nations that have launched domestically built satellites from their own territory. The Naro-1's launch was beset by last-minute technical problems and objections from North Korea, which drew condemnation from the UN security council after it test launched a long-range missile in early April. Pyongyang, which insisted that its rocket was carrying a communications satellite that is now broadcasting revolutionary songs from space, said it would \"closely watch\" other countries' response to today's launch. The international reaction is likely to be very different this time, however. Although concerns persist over weapons proliferation on both sides of the demilitarised zone that separates North and South, few question Seoul's claims that its space programme is entirely peaceful. The US pressured South Korea into agreeing in 2001 not to develop long-range ballistic missiles, but says it is confident that the country's space programme is transparent and in keeping with international agreements. If the malfunction is corrected, the launch will boost South Korea's confidence as it attempts to catch up with its rivals. Japan has sent several satellites into orbit, while India has one orbiting the moon and China put its first man in space in 2003. South Korea hopes to build a rocket without outside help by 2018 and to send a probe to the moon by 2025. The Naro-1 \u2013 whose first, liquid-fuel stage was built by Russia \u2013 was supposed to monitor the atmosphere and ocean, the science ministry said.",
+    "keywords": [
+        "launch",
+        "south",
+        "korea",
+        "satellites",
+        "space",
+        "stage",
+        "misses",
+        "target",
+        "science",
+        "satellite",
+        "orbit",
+        "rocket",
+        "korean"
+    ],
+    "summary": "South Korean space officials said an initial investigation showed the satellite had failed to enter its intended orbit.\nMillions of South Koreans watched live coverage of the launch, hoping to witness the first time their country had put a satellite into orbit from its own territory.\nAlthough South Korea has launched 11 satellites since 1992, all lifted off from overseas sites on foreign-made rockets.\nIf the malfunction is corrected, the launch will boost South Korea's confidence as it attempts to catch up with its rivals.\nSouth Korea hopes to build a rocket without outside help by 2018 and to send a probe to the moon by 2025.",
+    "sentiment": {
+        "neg": 0.0462,
+        "neu": 0.8992,
+        "pos": 0.0547,
+        "compound": 0.034
+    }
+}

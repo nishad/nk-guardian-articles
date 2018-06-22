@@ -1,0 +1,29 @@
+{
+    "date": "2009-04-09T13:40:40Z",
+    "title": "Kim Jong-il: Spot the difference",
+    "url": "https://www.theguardian.com/world/blog/2009/apr/09/kim-jong-il-team-america",
+    "content": "During George Bush's final months in office he appeared to look and act increasing like the monkey cartoon of himself by the Guardian's Steve Bell. Could something similar be happening to North Korea's leader Kim Jong-il, as he morphs into his Team America puppet? Can you tell the difference: Which is the marionette sent from \"planet Xiron to conquer the Earth,\" and which is the dynastic \"Dear Leader\" of a secretive Communist state making his first public appearance for months?",
+    "keywords": [
+        "spot",
+        "months",
+        "sent",
+        "secretive",
+        "leader",
+        "difference",
+        "state",
+        "tell",
+        "steve",
+        "kim",
+        "similar",
+        "jongil",
+        "xiron",
+        "team"
+    ],
+    "summary": "During George Bush's final months in office he appeared to look and act increasing like the monkey cartoon of himself by the Guardian's Steve Bell.\nCould something similar be happening to North Korea's leader Kim Jong-il, as he morphs into his Team America puppet?\nCan you tell the difference: Which is the marionette sent from \"planet Xiron to conquer the Earth,\" and which is the dynastic \"Dear Leader\" of a secretive Communist state making his first public appearance for months?",
+    "sentiment": {
+        "neg": 0.0,
+        "neu": 0.945,
+        "pos": 0.055,
+        "compound": 0.2477
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2009-05-25T22:20:19Z",
+    "title": "The earth tremor that said nuclear test",
+    "url": "https://www.theguardian.com/world/2009/may/25/nuclear-weapons-test-north-korea",
+    "content": "At 1.06am today, sensors at the British Geological Survey's stations in Devon, Herefordshire and Aberdeen picked up a tremor that registered around magnitude five on the Richter scale. Yet it was quickly clear this was no earthquake. \"Earthquakes and nuclear bombs have quite different seismographs,\" said the survey's David Booth. \"Earthquakes happen along fault lines and you get compression waves, known as P-waves, and shear waves from the movement. With a bomb it is mostly just compression waves meaning the seismograph is a lot less complicated.\" The epicentre of the explosion was in the county of Kilju, deep in the mountains of north-eastern North Korea and the home of the P'unggye-yok nuclear test site used when the authorities last exploded a nuclear device in October 2006. Analysts expecttoday's test to have been carried out in a similar way to the previous one, when a horizontal hole was drilled into the side of Mount Mantab. \"You drill a hole in the ground because you do not want the explosion to release any radioactive material at the surface,\" said Booth. \"The explosion would have produced a vibration similar to a very large quarry blast \u2013 most likely a single thump which local people, within several kilometres of the blast, would certainly have noticed. The explosion produces a cavity deep underground \u2013 this may collapse to create a saucer shaped depression in the ground perhaps 100m across, but not necessarily immediately.\" There are two main nuclear weapon technologies. The simpler is \"gun type\". Here a piece of fissile uranium is fired at a fissile uranium target, similar to firing a bullet down a gun barrel. Implosion devices, as stockpiled by the US and UK, are more complex and use plutonium, and are more suited to a lightweight weapon. In the implosion method, a fissile mass of plutonium, is surrounded by high explosives that compress the material with an imploding shock wave, resulting in an increased density and nuclear detonation. North Korean scientists are believed to have spent the past three years improving their implosion technology. \"They get the plutonium from their nuclear reactor at Yongbyon. The 2006 attempt is believed to have been a bit of a dud,\" said Ian Davis, a security consultant. \"This one is much bigger.\" Russian defence experts estimated the explosion's yield at between 10 and 20 kilotons, many times more than the 1 kiloton measured in its first nuclear test. Since the first nuclear test was carried out in July 1945, more than 2,000 have been carried out, more than half by the US military. The first British test was aboard HMS Plym off the Australian coast in 1952. It vaporised the ship. Experiments are conducted to assess whether the device will detonate successfully and second to get a measure of the damage it is likely to inflict on people, buildings and infrastructure. Tests have historically been divided into three categories depending on whether they are detonated in the air, underwater or underground. Signatories to the comprehensive test ban treaty halted all nuclear tests in 1996. Since then computer simulation and \"subcritical tests\" \u2013 explosions too small to produce a nuclear blast \u2014 have been used by the US and UK.",
+    "keywords": [
+        "tremor",
+        "plutonium",
+        "fissile",
+        "earth",
+        "nuclear",
+        "tests",
+        "implosion",
+        "similar",
+        "carried",
+        "test",
+        "waves",
+        "explosion"
+    ],
+    "summary": "The epicentre of the explosion was in the county of Kilju, deep in the mountains of north-eastern North Korea and the home of the P'unggye-yok nuclear test site used when the authorities last exploded a nuclear device in October 2006.\nRussian defence experts estimated the explosion's yield at between 10 and 20 kilotons, many times more than the 1 kiloton measured in its first nuclear test.\nSince the first nuclear test was carried out in July 1945, more than 2,000 have been carried out, more than half by the US military.\nSignatories to the comprehensive test ban treaty halted all nuclear tests in 1996.\nSince then computer simulation and \"subcritical tests\" \u2013 explosions too small to produce a nuclear blast \u2014 have been used by the US and UK.",
+    "sentiment": {
+        "neg": 0.0819,
+        "neu": 0.8787,
+        "pos": 0.0394,
+        "compound": -0.0857
+    }
+}

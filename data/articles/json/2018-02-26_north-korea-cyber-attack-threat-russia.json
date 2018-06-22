@@ -1,0 +1,29 @@
+{
+    "date": "2018-02-26T10:58:52Z",
+    "title": "North Korea is a bigger cyber-attack threat than Russia, says expert",
+    "url": "https://www.theguardian.com/technology/2018/feb/26/north-korea-cyber-attack-threat-russia",
+    "content": "North Korea poses a bigger threat of large-scale cyber-attacks than Russia, according to the co-founder of the information security firm that investigated the 2016 Democratic National Committee hacks. Speaking to the Guardian, Crowdstrike\u2019s Dmitri Alperovitch said: \u201cIn 2018, my biggest worry is actually about North Korea. I worry a great deal that they may do a destructive attack, perhaps against our financial sector, in an attempt to deter a potential US strike against either their nuclear facilities or even the regime itself. \u201cRegardless of whether a military strike is actually on the cards or not, what matters is whether they think one might happen. And given all the rhetoric over the last year or so, it wouldn\u2019t be irrational for them to assume that.\u201d North Korea has been implicated in a number of major cyber-attacks over the past few years, primarily against South Korea. They came to a head in 2017, when the \u201cLazarus group\u201d, an elite North Korean hacking unit, is believed to have created and deployed the WannaCry ransomworm. The malware spread rapidly, taking down IT systems worldwide and forcing a number of NHS trusts in the UK to close temporarily, before it was defused by a young British security researcher. Alperovitch was speaking before the launch of Crowdstrike\u2019s annual \u201cthreat report\u201d, which assesses the state of the hacking industry. Over the past year, the report says, \u201cnot only did the volume and intensity of cyberattacks hit new highs, [but] the overall level of sophistication across the global threat landscape experienced a meteoric rise\u201d. The report suggests that in the future, it won\u2019t just be nation states who wield the most damaging hacking tools: technology developed by the world\u2019s militaries will inevitably make it into the hands of criminal groups and other attackers. In 2018, the report says, \u201cDPRK-based adversaries are likely to continue malicious cyber activity against entities in South Korea, Japan and the US. Network access obtained via remote access tools \u2026 may be used to deploy wiper malware. \u201cThis specific targeting may represent DPRK posturing \u2026 that could deliver destructive effects against the US critical infrastructure, should a military conflict occur.\u201d WannaCry, Petya, NotPetya: how ransomware hit the big time in 2017",
+    "keywords": [
+        "tools",
+        "worry",
+        "korea",
+        "russia",
+        "hacking",
+        "threat",
+        "wannacry",
+        "report",
+        "strike",
+        "cyberattack",
+        "bigger",
+        "cyberattacks",
+        "expert",
+        "north"
+    ],
+    "summary": "North Korea poses a bigger threat of large-scale cyber-attacks than Russia, according to the co-founder of the information security firm that investigated the 2016 Democratic National Committee hacks.\nSpeaking to the Guardian, Crowdstrike\u2019s Dmitri Alperovitch said: \u201cIn 2018, my biggest worry is actually about North Korea.\nAnd given all the rhetoric over the last year or so, it wouldn\u2019t be irrational for them to assume that.\u201d North Korea has been implicated in a number of major cyber-attacks over the past few years, primarily against South Korea.\nAlperovitch was speaking before the launch of Crowdstrike\u2019s annual \u201cthreat report\u201d, which assesses the state of the hacking industry.\nIn 2018, the report says, \u201cDPRK-based adversaries are likely to continue malicious cyber activity against entities in South Korea, Japan and the US.",
+    "sentiment": {
+        "neg": 0.1032,
+        "neu": 0.8598,
+        "pos": 0.037,
+        "compound": -0.2618
+    }
+}

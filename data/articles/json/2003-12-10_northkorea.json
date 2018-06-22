@@ -1,0 +1,31 @@
+{
+    "date": "2003-12-10T09:10:32Z",
+    "title": "North Korea offers arms for aid deal",
+    "url": "https://www.theguardian.com/world/2003/dec/10/northkorea",
+    "content": "North Korea has offered to freeze its nuclear weapons programme if the US lifts economic sanctions, provides fuel aid, and removes its name from a list of state sponsors of terrorism. But President Bush promptly rejected the overture, saying he wanted Pyongyang to scrap, not suspend, its atomic weapons plans. \"The goal of the United States is not for a freeze of the nuclear programme. The goal is to dismantle a nuclear weapons programme in a verifiable and irreversible way,\" Mr Bush said. China has been working on a deal to get the two sides to launch a second round of talks to resolve a year-long nuclear standoff. A first round in August proved inconclusive. The talks had been tentatively set for next week, but are likely to be delayed over disagreements about which side should make the first move. Some US officials have suggested Pyongyang's latest initiative could be mere posturing to secure wider concessions in negotiations.",
+    "keywords": [
+        "deal",
+        "offers",
+        "round",
+        "korea",
+        "yearlong",
+        "freeze",
+        "talks",
+        "nuclear",
+        "weapons",
+        "goal",
+        "working",
+        "aid",
+        "programme",
+        "arms",
+        "north",
+        "bush"
+    ],
+    "summary": "North Korea has offered to freeze its nuclear weapons programme if the US lifts economic sanctions, provides fuel aid, and removes its name from a list of state sponsors of terrorism.\nBut President Bush promptly rejected the overture, saying he wanted Pyongyang to scrap, not suspend, its atomic weapons plans.\n\"The goal of the United States is not for a freeze of the nuclear programme.\nThe goal is to dismantle a nuclear weapons programme in a verifiable and irreversible way,\" Mr Bush said.\nChina has been working on a deal to get the two sides to launch a second round of talks to resolve a year-long nuclear standoff.",
+    "sentiment": {
+        "neg": 0.1314,
+        "neu": 0.8016,
+        "pos": 0.0669,
+        "compound": -0.2212
+    }
+}

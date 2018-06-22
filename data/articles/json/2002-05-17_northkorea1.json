@@ -1,0 +1,29 @@
+{
+    "date": "2002-05-17T00:58:41Z",
+    "title": "Birth of a nation and an eternal leader",
+    "url": "https://www.theguardian.com/world/2002/may/17/northkorea1",
+    "content": "\u00b7 The Democratic People's Republic of Korea was proclaimed on September 9 1948 after the peninsula was split along the 38th parallel \u00b7 As its first leader, the Soviet Union picked Kim Il-sung, a guerrilla commander who had fought the Japanese in China but spent the last years of the second world war in Soviet training camps \u00b7 Reflecting its hermetic, hierarchical traditions, North Korea developed a form of socialism built on a quasi-religious personality cult surrounding Kim and the philosophy of \"juche\" - self-reliance \u00b7 From 1950 to 1953, North Korea, backed by China and the Soviet Union, fought the US-backed South. No peace treaty has been signed, but the July 1953 armistice has held ever since \u00b7 Even after the fall of the Berlin wall deprived the North of its main allies and trading partners, Kim Il-sung showed no sign of relaxing his grip \u00b7 Tension on the peninsula has always been high as a result of assassination attempts, abductions, tunnelling under the border and murderous skirmishes. They reached a peak in 1994 over the North's plans to develop a nuclear bomb. An outbreak of war was prevented by a deal in which the international community promised to build light-water reactors in exchange for a promise by Pyongyang to halt its nuclear programme \u00b7After Kim Il-sung died on July 8 1994, he was replaced by his son, Kim Jong-il, the only hereditary transfer of power in a communist state \u00b7 On June 15 2000, Kim Jong-il held a summit with South Korean president Kim Dae-jung, who had pursued a \"sunshine policy\" of engagement with the North \u00b7 In January President Bush returned the US to a policy of brinkmanship by labelling the North as part of the axis of evil Korea guidance With strict control over access to information about the outside world, innocence and ignorance are evident even among graduates of Kim Il-sung university Beer taps \"Is it true that beer is piped to all homes in England?\" asked one graduate who had misconstrued the phrase \"on tap\" - an easy mistake in a country where beer only comes bottled. Football \"Yes, I know Beckham. He was captain when Germany won the World Cup in 1974,\" said one graduate who declared himself a football fan. Although the World Cup is in South Korea, the most recent international star most Pyongyang residents could name was Diego Maradona, a fan of Che Guevara. Internet A slogan at the Arirang festival implores the nation to modernise and computerise, but there are only a handful of PCs at the People's Study House, none of which is connected to the internet. \"We could have the internet if we wanted,\" insisted one librarian. \"But there is no demand. We are not curious because we have enough books to satisfy us.\"",
+    "keywords": [
+        "birth",
+        "war",
+        "south",
+        "nation",
+        "leader",
+        "beer",
+        "korea",
+        "world",
+        "internet",
+        "eternal",
+        "kim",
+        "ilsung",
+        "soviet",
+        "north"
+    ],
+    "summary": "They reached a peak in 1994 over the North's plans to develop a nuclear bomb.\nasked one graduate who had misconstrued the phrase \"on tap\" - an easy mistake in a country where beer only comes bottled.\nHe was captain when Germany won the World Cup in 1974,\" said one graduate who declared himself a football fan.\nAlthough the World Cup is in South Korea, the most recent international star most Pyongyang residents could name was Diego Maradona, a fan of Che Guevara.\nWe are not curious because we have enough books to satisfy us.\"",
+    "sentiment": {
+        "neg": 0.1281,
+        "neu": 0.7867,
+        "pos": 0.0851,
+        "compound": -0.0905
+    }
+}

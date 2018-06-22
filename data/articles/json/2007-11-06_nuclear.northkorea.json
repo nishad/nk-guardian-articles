@@ -1,0 +1,27 @@
+{
+    "date": "2007-11-06T23:54:49Z",
+    "title": "North Korea dismantles its nuclear reactor",
+    "url": "https://www.theguardian.com/world/2007/nov/06/nuclear.northkorea",
+    "content": "North Korea began disabling its nuclear facilities yesterday, marking the biggest step it has ever taken to scale back its atomic programme. The communist North shut down its sole functioning nuclear reactor at Yongbyon in July, and promised to disable it by the year's end in exchange for energy aid and political concessions from other members of talks on its nuclear programme: the US, China, Japan, South Korea and Russia. A team of American experts has arrived at the Yongbyon reactor and begun the disabling work. A state department spokesman, Tom Casey, said this was \"a positive first step in this process, and we hope to see it continue\". The South Korean news agency Yonhap quoted unnamed government sources as saying that the disablement includes extracting 8,000 spent fuel rods from the reactor, and will take six weeks. The rods, after a year of reactor operation, could yield enough plutonium to make a nuclear bomb, experts say. Mr Hill added that the US hoped to disable the North's uranium enrichment programme by December 31, not just its plutonium-production facilities at Yongbyon. Taking Pyongyang off the US terror list was one of a series of economic and political concessions offered for the country to disable its nuclear reactor.",
+    "keywords": [
+        "political",
+        "south",
+        "disable",
+        "step",
+        "korea",
+        "dismantles",
+        "nuclear",
+        "yongbyon",
+        "rods",
+        "programme",
+        "reactor",
+        "north"
+    ],
+    "summary": "North Korea began disabling its nuclear facilities yesterday, marking the biggest step it has ever taken to scale back its atomic programme.\nThe communist North shut down its sole functioning nuclear reactor at Yongbyon in July, and promised to disable it by the year's end in exchange for energy aid and political concessions from other members of talks on its nuclear programme: the US, China, Japan, South Korea and Russia.\nA team of American experts has arrived at the Yongbyon reactor and begun the disabling work.\nThe rods, after a year of reactor operation, could yield enough plutonium to make a nuclear bomb, experts say.\nTaking Pyongyang off the US terror list was one of a series of economic and political concessions offered for the country to disable its nuclear reactor.",
+    "sentiment": {
+        "neg": 0.0751,
+        "neu": 0.8701,
+        "pos": 0.0547,
+        "compound": -0.0346
+    }
+}

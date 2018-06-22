@@ -1,0 +1,28 @@
+{
+    "date": "2003-03-04T09:07:55Z",
+    "title": "North Korean jets harry US spy plane",
+    "url": "https://www.theguardian.com/world/2003/mar/04/northkorea",
+    "content": "Tensions between the US and North Korea were rising last night after it emerged that four armed North Korean fighter jets had intercepted an American reconnaissance aircraft over international waters on Sunday, one of them locking its radar on to the US plane in an apparent prelude to firing a weapon. Two MiG-29 jets and two others thought to be MiG-23s shadowed the US plane over the Sea of Japan, 150 miles from the North Korean coast, said Lieutenant Commander Jeff Davis, a Pentagon spokesman. One came within 50ft of the RC-135, a reconnaissance plane based on the Boeing 707 airliner. The North Korean planes broke off after 20 minutes, leaving the reconnaissance aircraft to return to its base in Japan. The encounter, in the early hours of Sunday, was the first interception of a US plane by North Korean forces since a US surveillance aircraft was shot down in 1969, killing 31 Americans. It comes at a critical point in Washington's relations with Pyongyang, which have been tense since North Korea said in October that it was abandoning a 1994 agreement not to develop nuclear weapons. It was unclear last night how the US planned to respond. A formal diplomatic protest appeared impossible, since the two nations have no official diplomatic relations. North Korea has repeatedly complained that military ex ercises by US and South Korean forces off its coast are signs of an impending US-led attack on the north. Pentagon sources were reported as characterising Sunday's incident as \"a show of frustration\". According to US surveillance, North Korea last week restarted a 5-megawatt reactor capable of producing plutonium for nuclear weapons. In another move interpreted as provocative, North Korea fired a short-range missile at sea during navy exercises.",
+    "keywords": [
+        "relations",
+        "korea",
+        "surveillance",
+        "harry",
+        "sea",
+        "aircraft",
+        "reconnaissance",
+        "plane",
+        "weapons",
+        "spy",
+        "jets",
+        "north",
+        "korean"
+    ],
+    "summary": "Two MiG-29 jets and two others thought to be MiG-23s shadowed the US plane over the Sea of Japan, 150 miles from the North Korean coast, said Lieutenant Commander Jeff Davis, a Pentagon spokesman.\nOne came within 50ft of the RC-135, a reconnaissance plane based on the Boeing 707 airliner.\nThe North Korean planes broke off after 20 minutes, leaving the reconnaissance aircraft to return to its base in Japan.\nNorth Korea has repeatedly complained that military ex ercises by US and South Korean forces off its coast are signs of an impending US-led attack on the north.\nAccording to US surveillance, North Korea last week restarted a 5-megawatt reactor capable of producing plutonium for nuclear weapons.",
+    "sentiment": {
+        "neg": 0.1321,
+        "neu": 0.8487,
+        "pos": 0.0192,
+        "compound": -0.3808
+    }
+}

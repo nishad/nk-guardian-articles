@@ -1,0 +1,30 @@
+{
+    "date": "2008-07-12T23:01:00Z",
+    "title": "Seoul seeks answers over shot tourist",
+    "url": "https://www.theguardian.com/world/2008/jul/13/korea",
+    "content": "North Korea has not co-operated with efforts to investigate the death of a South Korean woman tourist shot by a North Korean soldier at a mountain resort, a Seoul official said. Park Wang-ja, 53, was killed after she entered a restricted area along a beach near the Diamond Mountain resort. North Korea told the South Korean tour organiser that Park ignored a warning to halt and ran away. The South Korean government suspended tours to the resort pending an investigation. 'What cannot and should not happen has happened,' South Korean President Lee Myung-bak said.",
+    "keywords": [
+        "south",
+        "wangja",
+        "woman",
+        "korea",
+        "warning",
+        "answers",
+        "seoul",
+        "shot",
+        "seeks",
+        "resort",
+        "mountain",
+        "tourist",
+        "park",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea has not co-operated with efforts to investigate the death of a South Korean woman tourist shot by a North Korean soldier at a mountain resort, a Seoul official said.\nPark Wang-ja, 53, was killed after she entered a restricted area along a beach near the Diamond Mountain resort.\nNorth Korea told the South Korean tour organiser that Park ignored a warning to halt and ran away.\nThe South Korean government suspended tours to the resort pending an investigation.\n'What cannot and should not happen has happened,' South Korean President Lee Myung-bak said.",
+    "sentiment": {
+        "neg": 0.1782,
+        "neu": 0.8014,
+        "pos": 0.0204,
+        "compound": -0.4678
+    }
+}

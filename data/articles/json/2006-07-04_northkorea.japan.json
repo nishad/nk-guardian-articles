@@ -1,0 +1,26 @@
+{
+    "date": "2006-07-04T21:26:42Z",
+    "title": "North Korea test-fires missiles",
+    "url": "https://www.theguardian.com/world/2006/jul/04/northkorea.japan",
+    "content": "North Korea has test-launched two missiles which landed in the Sea of Japan, Japanese media reported tonight. A Pentagon official said they were Scud missiles and not the longer-range variety that have been the focus of international concern. North Korea launched the first missile at around 0332 Japan time (1832 GMT) and it crashed into the Sea of Japan minutes later, NHK TV reported. Japan's Kyodo news agency carried a similar report, saying a second missile was also test-fired. Kyodo said the missiles were believed to be mid-range Rodong missiles and landed about 600km (373 miles) off the western coast of Japan's Hokkaido island. Japanese officials were not immediately available to confirm the reports. The reported launches today came after weeks of speculation that North Korea was preparing to test its advanced Taepodong-2 missile from a site on its north-east coast. Experts believe a Taepodong-2 could reach the United States with a light payload. The preparations had generated stern warnings from the United States and Japan, which had threatened possible economic sanctions in response.",
+    "keywords": [
+        "reported",
+        "testfires",
+        "korea",
+        "sea",
+        "states",
+        "missiles",
+        "taepodong2",
+        "japan",
+        "missile",
+        "united",
+        "north"
+    ],
+    "summary": "North Korea has test-launched two missiles which landed in the Sea of Japan, Japanese media reported tonight.\nNorth Korea launched the first missile at around 0332 Japan time (1832 GMT) and it crashed into the Sea of Japan minutes later, NHK TV reported.\nKyodo said the missiles were believed to be mid-range Rodong missiles and landed about 600km (373 miles) off the western coast of Japan's Hokkaido island.\nThe reported launches today came after weeks of speculation that North Korea was preparing to test its advanced Taepodong-2 missile from a site on its north-east coast.\nThe preparations had generated stern warnings from the United States and Japan, which had threatened possible economic sanctions in response.",
+    "sentiment": {
+        "neg": 0.0231,
+        "neu": 0.9163,
+        "pos": 0.0606,
+        "compound": 0.0532
+    }
+}

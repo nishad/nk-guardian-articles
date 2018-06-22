@@ -1,0 +1,29 @@
+{
+    "date": "2002-12-05T01:46:23Z",
+    "title": "How Clinton came close to bombing",
+    "url": "https://www.theguardian.com/world/2002/dec/05/northkorea",
+    "content": "Seoul braced for a biological weapons attack, US forces on high alert in the demilitarised zone and White House staff arguing over whether to launch a surgical strike on a nuclear reactor. This was the scene in 1994 during the last North Korean crisis, though the world only learned several years later just how close the peninsula came to a devastating war. Then as now, the United States uncovered evidence of a nuclear weapons programme, which North Korea initially refused to give up. Diplomats negotiated frantically for a solution but participants are now revealing the terrifying game of \"chicken\" that was being played behind the scenes. \"The United States came to the brink of initiating war to stop North Korea from acquiring nuclear weapons,\" according to a recent article in the Washington Post by William Perry and Ashton Carter, who were secretary and assistant secretary of defence during the crisis. After satellites had discovered a plant in Yongbyon capable of producing weapons-grade plutonium, they said they spent most of the first half of 1993 planning a war on the Korean peninsula. \"We made our willingness to use military force crystal clear to the North Koreans by positioning forces to strike Yongbyon and reinforcing our military units that were deployed to defend South Korea against an onslaught from the North.\" But the projected casualties from a counter-strike by the North were too much for the Clinton administration to stomach. Seoul's population of 12 million, as well as 37,000 US troops, are in range of 500 North Korean artillery pieces dug deep into the mountains on the border. To avert tens of thousands of casualties and millions of refugees, a diplomatic compromise was drawn up: the agreed framework, under which the North was promised fuel oil and two light-water nuclear reactors in return for a promise to abandon its plutonium programme. Although critics condemned the agreement as a reward for an extortionist, the US administration accepted the deal in the expectation that the North would collapse within a couple of years so it would never have to live up to its side of the bargain. But eight years on, Kim Jong-il is still in power in Pyongyang, the agreed framework is close to collapse and a re-run of the nuclear chicken game is closer than it has been at any time since 1994.",
+    "keywords": [
+        "war",
+        "korea",
+        "came",
+        "north",
+        "states",
+        "nuclear",
+        "close",
+        "yongbyon",
+        "weapons",
+        "strike",
+        "united",
+        "bombing",
+        "clinton",
+        "korean"
+    ],
+    "summary": "This was the scene in 1994 during the last North Korean crisis, though the world only learned several years later just how close the peninsula came to a devastating war.\nThen as now, the United States uncovered evidence of a nuclear weapons programme, which North Korea initially refused to give up.\nDiplomats negotiated frantically for a solution but participants are now revealing the terrifying game of \"chicken\" that was being played behind the scenes.\nBut the projected casualties from a counter-strike by the North were too much for the Clinton administration to stomach.\nSeoul's population of 12 million, as well as 37,000 US troops, are in range of 500 North Korean artillery pieces dug deep into the mountains on the border.",
+    "sentiment": {
+        "neg": 0.1451,
+        "neu": 0.7645,
+        "pos": 0.0904,
+        "compound": -0.2135
+    }
+}

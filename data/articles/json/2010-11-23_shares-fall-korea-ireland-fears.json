@@ -1,0 +1,32 @@
+{
+    "date": "2010-11-23T13:52:00Z",
+    "title": "Shares fall on fears over North Korean attack and Irish bailout",
+    "url": "https://www.theguardian.com/business/2010/nov/23/shares-fall-korea-ireland-fears",
+    "content": "The European debt crisis and North Korea's military attack on South Korea combined to send shares falling across Europe today. Traders said the artillery shelling off the island of Yeonpyeong earlier today, in which two soldiers were killed, had heightened tensions. The South Korean won fell heavily, dropping by 3.5% against the dollar, and the cost of insuring South Korea's government debt jumped by a fifth. \"It is bad news all round this morning... as concerns over the Irish economy and the situation between North and South Korea continue to mount,\"said Yusuf Heusen, senior sales trader at IG Index. \"The uncertainty surrounding the stability of the Irish government has raised fears that the EU bailout could be delayed for some time to come.\" The London stock market saw a burst of selling, with the FTSE 100 index dropping 66 points, or 1.2%, to 5613. Mining stocks led the fallers, along with Lloyds Banking Group \u2013 one of the UK banks most exposed to Ireland's financial sector \u2013 which dropped nearly 3% to 62p at one stage. The Irish stock market fell by 3%, as investors digested the political crisis that erupted yesterday and forced prime minister Brian Cowen to promise a general election in the new year. Financial stocks were badly hit, with Bank of Ireland plunging by 30%. In Spain, the IBEX index of leading shares fell 2.5% while Portugal's main index dropped by 1.5%. Spread-betters had expected European stock markets to show small losses this morning, before the exchange of fire between North and South Korea. Contagion spreading The Irish crisis continued to dominate discussion in the City today following the \u20ac90bn rescue package agreed on Sunday night, and amid fears that the country may fail to pass its budget next month. In the bond markets, the yield - or rate of return - on Irish 10-year bonds jumped to 8.534% at midday, up from 7.971% overnight. The cost of insuring Irish debt also jumped, with the five-year credit default swap (CDS) gaining 26 basis points to 555bp. Gary Jenkins, head of fixed income research at Evolution Securities, warned that many investors are now expecting the weaker members of the eurozone to restructure their debt. \"This latest bout of the crisis gained momentum with the many comments regarding bond holders 'sharing the pain'. When it was clear that these statements were doing damage to the market and undermining confidence various G20 finance ministers published a statement to try and reassure the market that existing debt would not be affected. However it is clear from bond prices that the market does not consider this to be a realistic assessment of the situation. There is just too much outstanding debt,\" Jenkins said. European Union president Herman van Rompuy insisted today that Portugal and Spain were not facing the same problems as Ireland. in an attempt to calm fears that the debt crisis will spread. But Spain's five-year CDS rose by 4.5 basis points to 286.5bp, with the Portugese CDS contract rising 10.5bp to 468bp. The difference between the interest rate on Spanish 10-year government debt and its German equivalent also rose today to its highest level since the euro was created - 233 basis points. This followed an auction of Spanish debt in which the country offered higher interest rates to buyers than previously. The dollar, a traditional \"safe-haven\" in turbulent times, rose against other major currencies following the Korean attacks. The euro fell against the dollar, falling more than one cent to $1.3495, from $1.3618.",
+    "keywords": [
+        "index",
+        "stock",
+        "south",
+        "irish",
+        "fell",
+        "crisis",
+        "shares",
+        "attack",
+        "fall",
+        "market",
+        "fears",
+        "points",
+        "today",
+        "bailout",
+        "debt",
+        "north",
+        "korean"
+    ],
+    "summary": "The European debt crisis and North Korea's military attack on South Korea combined to send shares falling across Europe today.\n\"The uncertainty surrounding the stability of the Irish government has raised fears that the EU bailout could be delayed for some time to come.\"\nThe London stock market saw a burst of selling, with the FTSE 100 index dropping 66 points, or 1.2%, to 5613.\nThe cost of insuring Irish debt also jumped, with the five-year credit default swap (CDS) gaining 26 basis points to 555bp.\nin an attempt to calm fears that the debt crisis will spread.",
+    "sentiment": {
+        "neg": 0.148,
+        "neu": 0.7729,
+        "pos": 0.0789,
+        "compound": -0.2103
+    }
+}

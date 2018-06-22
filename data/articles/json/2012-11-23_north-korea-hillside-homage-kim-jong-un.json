@@ -1,0 +1,31 @@
+{
+    "date": "2012-11-23T13:29:09Z",
+    "title": "North Korea reveals giant hillside homage to Kim Jong-un",
+    "url": "https://www.theguardian.com/world/2012/nov/23/north-korea-hillside-homage-kim-jong-un",
+    "content": "North Korea is not known for hiding its devotion to its leader. Following a tradition set for his father (the \"dear leader\" Kim Jong-il) and grandfather (\"great leader\" Kim Il-sung), a slogan extolling the virtues of the new \"supreme leader\" Kim Jong-un has been built on a hillside in Ryanggang province \u2013 big enough to be visible from space. The 20-metre-tall (66ft) message, which is more than 550 metres long, reads: \"Long Live General Kim Jong-un, the Shining Sun!\" Kim Jong-un, who assumed power after Kim Jong-il died a year ago, has also been lauded as the \"great successor\" and \"a great person born of heaven\", echoing the personality cults built up around his grandfather, who founded the country, and his father. He also has his own signature song, titled Onwards Towards the Final Victory, as part of the propaganda drive to build up his image. The state media portray him as a young man with extraordinary abilities, repeating anecdotes about how he guided the flight training of pilots and taught the country's military band to play.",
+    "keywords": [
+        "giant",
+        "reveals",
+        "leader",
+        "father",
+        "korea",
+        "homage",
+        "young",
+        "built",
+        "north",
+        "kim",
+        "great",
+        "jongil",
+        "long",
+        "hillside",
+        "grandfather",
+        "jongun"
+    ],
+    "summary": "North Korea is not known for hiding its devotion to its leader.\nFollowing a tradition set for his father (the \"dear leader\" Kim Jong-il) and grandfather (\"great leader\" Kim Il-sung), a slogan extolling the virtues of the new \"supreme leader\" Kim Jong-un has been built on a hillside in Ryanggang province \u2013 big enough to be visible from space.\nThe 20-metre-tall (66ft) message, which is more than 550 metres long, reads: \"Long Live General Kim Jong-un, the Shining Sun!\"\nKim Jong-un, who assumed power after Kim Jong-il died a year ago, has also been lauded as the \"great successor\" and \"a great person born of heaven\", echoing the personality cults built up around his grandfather, who founded the country, and his father.\nHe also has his own signature song, titled Onwards Towards the Final Victory, as part of the propaganda drive to build up his image.",
+    "sentiment": {
+        "neg": 0.025,
+        "neu": 0.8353,
+        "pos": 0.1397,
+        "compound": 0.4099
+    }
+}

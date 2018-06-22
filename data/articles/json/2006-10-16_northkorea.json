@@ -1,0 +1,28 @@
+{
+    "date": "2006-10-16T17:29:37Z",
+    "title": "US tests confirm North Korea nuclear blast",
+    "url": "https://www.theguardian.com/world/2006/oct/16/northkorea",
+    "content": "Air samples confirmed today that North Korea did conduct a small nuclear explosion last week, according to research from the US that puts an end to any lingering doubts. Announcing the results of the analysis, the US national intelligence director, John Negroponte, said scientists had detected \"radioactive debris\" from samples taken last Wednesday - two days after North Korea's nuclear test. Until now, details of the explosion were sketchy. But Mr Negroponte said that it took place around P'unggye and had a force of less than one kiloton, which is equal to less than 1,000 tonnes of conventional TNT explosives. This is the first confirmation from US intelligence that a nuclear test actually took place, as North Korea announced last Monday. US security analyst have spent the last seven days poring over data collected since the explosion - air samples, seismic readings, satellite imagery and communications intercepts - in an effort to reach a conclusion on the nature of the test. The finding comes at a diplomatically sensitive time. Citing new inspections by China of trucks bound for North Korea, the Bush administration said earlier today that it expected Beijing would do its part to enforce a UN resolution punishing its reclusive ally for its nuclear programme. Nicholas Burns, undersecretary of state for political affairs, said there would be \"enormous pressure on China to live up to their responsibility\" in enforcing the sanctions. Japan and Australia, meanwhile, have announced that they may take measures beyond the new UN resolution, which could include stop-and-search mission against North Korea ships. The US-sponsored resolution demands North Korea eliminate nuclear weapons but rules out military action against the country, as the Russians and Chinese demanded. After the resolution was unanimously passed, North Korea's UN ambassador accused council members of a \"gangster-like\" action that neglected the nuclear threat posed by the US. Russia's foreign ministry said today that it wanted an \"adequate response\" from the North Korean leadership to the resolution. Its statement confirmed the unusual show of regional unity against North Korea.",
+    "keywords": [
+        "place",
+        "korea",
+        "nuclear",
+        "tests",
+        "test",
+        "blast",
+        "took",
+        "confirm",
+        "explosion",
+        "today",
+        "resolution",
+        "samples",
+        "north"
+    ],
+    "summary": "Air samples confirmed today that North Korea did conduct a small nuclear explosion last week, according to research from the US that puts an end to any lingering doubts.\nThis is the first confirmation from US intelligence that a nuclear test actually took place, as North Korea announced last Monday.\nJapan and Australia, meanwhile, have announced that they may take measures beyond the new UN resolution, which could include stop-and-search mission against North Korea ships.\nThe US-sponsored resolution demands North Korea eliminate nuclear weapons but rules out military action against the country, as the Russians and Chinese demanded.\nIts statement confirmed the unusual show of regional unity against North Korea.",
+    "sentiment": {
+        "neg": 0.0505,
+        "neu": 0.9195,
+        "pos": 0.03,
+        "compound": -0.0685
+    }
+}

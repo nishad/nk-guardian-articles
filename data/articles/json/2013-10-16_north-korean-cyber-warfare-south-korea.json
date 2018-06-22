@@ -1,0 +1,28 @@
+{
+    "date": "2013-10-16T12:34:54Z",
+    "title": "North Korean \u2018cyberwarfare\u2019 said to have cost South Korea \u00a3500m",
+    "url": "https://www.theguardian.com/world/2013/oct/16/north-korean-cyber-warfare-south-korea",
+    "content": "North Korea\u2019s alleged cyber-attacks against South Korea have cost the country more than half a billion pounds, according to a member of the South\u2019s national congress. Citing data from the country\u2019s defence ministry, representative Chung Hee-soo revealed that the most recent wave of cyber-attacks, which started on 20 March and ended on 25 June, caused 800bn won (\u00a3470m) of economic damage alone. The second most damaging strike was a distributed denial of service (DDoS) attack in 2009, which cost 50bn won (\u00a329m) to clear up, and the third was another DDoS attack in March 2011, costing 10bn won (\u00a35.9m). Since 2010, North Korea has conducted more than 6,000 cyber-attacks against the South, Chung claimed. The offensive this summer succeeded in bringing down the South Korean president's website, and in March this year, six banks were hit, affecting 30,000 computers and disrupting financial services nationwide. \"North Korea has 3,000 troops handling cyberwarfare, while we have around 400,\" said Chung, who is a member of the ruling Saenuri Party. \"We are seriously lacking in the necessary budget and professional staff. The establishment of a cybercommand centre with defence capabilities against North Korea's cyber-attacks and electromagnetic bombs is also being delayed.\" Cyberwarfare between the two countries has taken unusual turns in recent years. An effort to keep navigation data out of the hands of North Korea means foreign companies like Google are prevented from offering driving directions in the South, while efforts by North Korea have moved from maximising destructiveness to more subtle attempts at cyber-espionage. Even so, the alleged North Korean attacks are known among security researchers for being \u201cunsophisticated\u201d. The most recent breach of security was a small simple program designed to search and steal Hangul word processor documents, used widely by South Korean officials.",
+    "keywords": [
+        "south",
+        "member",
+        "won",
+        "recent",
+        "korea",
+        "cost",
+        "chung",
+        "cyberwarfare",
+        "500m",
+        "security",
+        "cyberattacks",
+        "north",
+        "korean"
+    ],
+    "summary": "North Korea\u2019s alleged cyber-attacks against South Korea have cost the country more than half a billion pounds, according to a member of the South\u2019s national congress.\nSince 2010, North Korea has conducted more than 6,000 cyber-attacks against the South, Chung claimed.\n\"North Korea has 3,000 troops handling cyberwarfare, while we have around 400,\" said Chung, who is a member of the ruling Saenuri Party.\nAn effort to keep navigation data out of the hands of North Korea means foreign companies like Google are prevented from offering driving directions in the South, while efforts by North Korea have moved from maximising destructiveness to more subtle attempts at cyber-espionage.\nEven so, the alleged North Korean attacks are known among security researchers for being \u201cunsophisticated\u201d.",
+    "sentiment": {
+        "neg": 0.0773,
+        "neu": 0.8493,
+        "pos": 0.0733,
+        "compound": -0.0358
+    }
+}

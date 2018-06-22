@@ -1,0 +1,27 @@
+{
+    "date": "2004-09-10T01:31:03Z",
+    "title": "Minister's mission to North Korea",
+    "url": "https://www.theguardian.com/world/2004/sep/10/northkorea.foreignpolicy",
+    "content": "The junior Foreign Office minister Bill Rammell said yesterday that he believed North Korea could already have one or two nuclear weapons. Mr Rammell is due to fly to North Korea today, the first visit to the communist regime by a British minister. He is hoping to persuade the government to stop its nuclear weapons programme. The US, supported by South Korea, Japan, China and Russia, has been in engaged in protracted negotiations with North Korea, so far without success. They are tentatively scheduled to resume later this year. North Korea has given conflicting accounts of its programme, sometimes denying it has weapons and at other times claiming to have them. Mr Rammell said the British government view was that it had sufficient fissile material to have one or two nuclear weapons. If it resumed nuclear fuel reprocessing it would be capable of producing a few bombs each year. The International Institute for Strategic Studies in London issued a report earlier this year predicting that North Korea could be making between 8 and 13 bombs annually within the next year or two. Mr Rammell will ask North Korea to cease its programme and destroy any existing weapons, or else face continued isolation from most of the rest of the world. He will also raise issues of human rights.",
+    "keywords": [
+        "bombs",
+        "mr",
+        "korea",
+        "rammell",
+        "nuclear",
+        "british",
+        "weapons",
+        "minister",
+        "programme",
+        "ministers",
+        "north",
+        "mission"
+    ],
+    "summary": "The junior Foreign Office minister Bill Rammell said yesterday that he believed North Korea could already have one or two nuclear weapons.\nMr Rammell is due to fly to North Korea today, the first visit to the communist regime by a British minister.\nThe US, supported by South Korea, Japan, China and Russia, has been in engaged in protracted negotiations with North Korea, so far without success.\nNorth Korea has given conflicting accounts of its programme, sometimes denying it has weapons and at other times claiming to have them.\nMr Rammell will ask North Korea to cease its programme and destroy any existing weapons, or else face continued isolation from most of the rest of the world.",
+    "sentiment": {
+        "neg": 0.1097,
+        "neu": 0.8471,
+        "pos": 0.0432,
+        "compound": -0.2059
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "date": "2017-09-26T10:05:54Z",
+    "title": "Twitter says Trump's threat to North Korea was 'newsworthy' and will not be taken down",
+    "url": "https://www.theguardian.com/technology/2017/sep/26/twitter-trump-threat-north-korea-newsworthy",
+    "content": "Twitter has refused to take down a tweet by Donald Trump threatening North Korea, arguing that the statement by the US president was \u201cnewsworthy\u201d and in the public interest. Trump posted a tweet in response to a speech by North Korea\u2019s Ri Yong-ho at the United Nations on Sunday, indicating that if the foreign minister \u201cechoed\u201d the thoughts of Kim Jong-un, the two men \u201cwon\u2019t be around for much longer\u201d. It is the latest in a series of hostile statements between the two countries. The tweet has been interpreted by many, including Ri, as a \u201cclear declaration of war\u201d \u2013 and by some as a violation of Twitter\u2019s terms of service. Twitter\u2019s terms of service forbid using the platform to make violent threats, either directly or indirectly. Any accounts that engage in such behaviour may be removed or subject to temporary suspension, it says. Twitter on Monday released a statement saying the company would update its public policy on which tweets should remain in the public domain. In a series of tweets, the social media platform argued that Trump\u2019s tweet did not meet the conditions for removal. However, the company pledged to \u201cconsider a number of factors when assessing whether tweets violate our rules\u201d including re-evaluating tweets that are in the \u201cpublic interest\u201d or deemed \u201cnewsworthy\u201d. \u201cThis has long been internal policy and we\u2019ll soon update our public-facing rules to reflect it. We need to do better on this, and will.\u201d It also emerged on Monday that an Iranian missile launch mentioned in a tweet by Trump on Sunday had not actually happened. \u201cIran just test-fired a Ballistic Missile capable of reaching Israel,\u201d the president had tweeted. \u201cThey are also working with North Korea. Not much of an agreement we have!\u201d The footage on which Trump had based his tweet, released by Iran\u2019s state-run TV, was in fact believed to be from an unsuccessful launch in January. Two US officials have since confirmed that the video supposedly depicting a recent missile launch was indeed fake. The Trump tweet has not been deleted.",
+    "keywords": [
+        "launch",
+        "korea",
+        "tweets",
+        "twitter",
+        "public",
+        "threat",
+        "twitters",
+        "newsworthy",
+        "terms",
+        "update",
+        "trumps",
+        "trump",
+        "missile",
+        "north",
+        "taken"
+    ],
+    "summary": "Twitter has refused to take down a tweet by Donald Trump threatening North Korea, arguing that the statement by the US president was \u201cnewsworthy\u201d and in the public interest.\nThe tweet has been interpreted by many, including Ri, as a \u201cclear declaration of war\u201d \u2013 and by some as a violation of Twitter\u2019s terms of service.\nTwitter\u2019s terms of service forbid using the platform to make violent threats, either directly or indirectly.\nTwitter on Monday released a statement saying the company would update its public policy on which tweets should remain in the public domain.\nTwo US officials have since confirmed that the video supposedly depicting a recent missile launch was indeed fake.",
+    "sentiment": {
+        "neg": 0.088,
+        "neu": 0.8622,
+        "pos": 0.0498,
+        "compound": -0.1061
+    }
+}

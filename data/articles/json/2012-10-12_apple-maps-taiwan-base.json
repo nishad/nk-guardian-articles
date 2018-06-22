@@ -1,0 +1,27 @@
+{
+    "date": "2012-10-12T13:10:22Z",
+    "title": "Apple told its maps are too good \u2013 at least in Taiwan",
+    "url": "https://www.theguardian.com/technology/2012/oct/12/apple-maps-taiwan-base",
+    "content": "Apple has a fresh problem with its new Maps app on the iPhone. But this time, rather than complaints that it's incorrect \u2013 labelling an Irish farm as an airfield, say \u2013 it's being accused of being too accurate. The Taiwanese government has asked it to blur satellite images of a new $1bn early warning radar station near Hsinchu Air base, northern Taiwan. Amid the bad publicity and chief executive's apology that surrounded the launch of the new maps, which Apple has created itself with the aid of third parties \u2013 while ejecting Google's maps from its iPhone and iPad \u2013 it might seem surprising that details such as a radar base would have been included. It turns out though that the satellite pictures, apparently collected a year ago by a commercial company, were more detailed than the military was comfortable with. \"Regarding images taken by commercial satellites, legally we can do nothing about it,\" David Lo, the spokesman for Taiwan's ministry of defence told reporters this week. \"But we'll ask Apple to lower the resolution of satellite images of some confidential military establishments the way we've asked Google in the past.\" Apple could perhaps swap it for the satellite images of Colchester \u2013 which on Thursday were still showing the city under cloud, nearly a month after the maps' launch. It is not only Taiwan in which Apple apparently offers more detail than Google. Like the open-source OpenStreetMap product, its coverage of North Korea provides far more detail than Google's, with town names and enough detail on satellite imagery to make out details of fields in the coastal town of Nampo, for example. Google blurs the details of military bases in a number of countries, as well as a large number of other locations. Wikipedia carries a long list of locations in 23 countries, including the US, Taiwan and North Korea, which have requested the blurring of satellite imagery. It lists eight areas in Taiwan, all of which appear to be military installations. Apple's maps in China are also reported to be better than Google's because it uses a local service, AutoNavi Holdings, which is the most widely used mobile mapping service in China according to the Wall Street Journal. But equally, it blocks showing satellite views outside China. The Hsinchu base is reportedly home to a long-range radar system bought from the US defence contractor Raytheon in 2003, which is reported to be still under construction. The Taiwanese newspaper Liberty Times discovered them during tests of the iPhone's new iOS 6 Maps app. Apple had not responded to a request for comment on whether it intends to blur the Taiwanese images when this story was being prepared for publication.",
+    "keywords": [
+        "taiwan",
+        "satellite",
+        "military",
+        "taiwanese",
+        "googles",
+        "maps",
+        "images",
+        "told",
+        "radar",
+        "good",
+        "google",
+        "apple"
+    ],
+    "summary": "The Taiwanese government has asked it to blur satellite images of a new $1bn early warning radar station near Hsinchu Air base, northern Taiwan.\n\"But we'll ask Apple to lower the resolution of satellite images of some confidential military establishments the way we've asked Google in the past.\"\nApple could perhaps swap it for the satellite images of Colchester \u2013 which on Thursday were still showing the city under cloud, nearly a month after the maps' launch.\nIt is not only Taiwan in which Apple apparently offers more detail than Google.\nApple had not responded to a request for comment on whether it intends to blur the Taiwanese images when this story was being prepared for publication.",
+    "sentiment": {
+        "neg": 0.05,
+        "neu": 0.8834,
+        "pos": 0.0666,
+        "compound": 0.0663
+    }
+}

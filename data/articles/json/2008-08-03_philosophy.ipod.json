@@ -1,0 +1,27 @@
+{
+    "date": "2008-08-03T12:00:00Z",
+    "title": "Julian Baggini: Is an iPod part of your mind?",
+    "url": "https://www.theguardian.com/commentisfree/2008/aug/03/philosophy.ipod",
+    "content": "If you had an iPod, would it be part of your mind? That's one of the odder, but surprisingly most relevant, questions being discussed here in Seoul at the World Congress of Philosophy. The Australian philosopher David Chalmers used the example of his iPod to illustrate the \"Extended Mind\" thesis (TXM), an idea he developed with his British colleague, Andy Clark. TXM argues that if something does outside the brain what is normally done inside it, then it is, in effect, part of the mind. An iPod, for example, \"remembers\" phone numbers, what appointments we have, even how to get from A to B. Given that it takes on the functions of a mind, isn't it, in some sense at least, part of it? The obvious arguments against aren't all that conclusive. Sure, the iPod is outside your skin, not inside it, but it doesn't seem to be a fundamental requirement of minds that they occupy a particular physical space. Indeed, on many traditional views, the mind is not a material thing at all, and hence occupies no space. Nor does the fact that an iPod is plastic and metal seem to be important. We might be able to create synthetic implants to repair damaged brain tissue, but if they managed to do the job, they'd be incorporated into your mind. But surely, you might think, isn't your iPod separate and separable from you? Again, it's not obvious that this is really critical: you can lose your mind as easily as you can lose your phone, by drugs or illness. If the iPod's memory is not totally reliable, the brain is hardly reliable either: I'm sure mine lose much more information than even the most basic IT device. The question may look like an irrelevant philosopher's puzzle, but it is in fact very important. Many commentators \u2013 such as Susan Greenfield, in her recent book ID \u2013 worry that new technology is undermining our intellectual capacities. But if the devices we use are artificial extensions of our minds, then they could be enhancing our cognitive powers more than they are diminishing them. Technology means I forget fewer birthdays, not more, for example. The idea that there is a sharp boundary between our true, inner selves and the outside world is pervasive, but highly questionable. The boundaries of the self might well be more porous than we ordinarily think. Where, for example, do you perceive a rock you stub your toe against? It is tempting to say \"in you head\" because it's only if the biochemical signal reaches the brain that the pain is felt. But the common sense answer \"at the end of your toe\" in many ways does greater justice to the integrated nature of the central nervous system. The brain does not work in isolation from the body, and to think it does would be to make a modern version of the old mistake of thinking that the mind is an invisible \"ghost in the machine\". The idea that the mind can extend even beyond the body is an intriguing one, and is bound to become more pressing as we increasingly develop technologies that augment our natural abilities. At the moment, it may seem weird to think a web browser can be an extension of your mind, but when the interface becomes more seamless (a Google chip in your head?) the question will become very real. It all goes to show how philosophers asking apparently silly questions, and giving apparently silly answers, can end up being more relevant to important issues of real life than many of those who set out to think practically in the first place.",
+    "keywords": [
+        "brain",
+        "baggini",
+        "think",
+        "important",
+        "example",
+        "idea",
+        "mind",
+        "does",
+        "julian",
+        "ipod",
+        "outside",
+        "lose"
+    ],
+    "summary": "If you had an iPod, would it be part of your mind?\nThe Australian philosopher David Chalmers used the example of his iPod to illustrate the \"Extended Mind\" thesis (TXM), an idea he developed with his British colleague, Andy Clark.\nTXM argues that if something does outside the brain what is normally done inside it, then it is, in effect, part of the mind.\nAn iPod, for example, \"remembers\" phone numbers, what appointments we have, even how to get from A to B.\nGiven that it takes on the functions of a mind, isn't it, in some sense at least, part of it?",
+    "sentiment": {
+        "neg": 0.0666,
+        "neu": 0.8624,
+        "pos": 0.0709,
+        "compound": 0.0102
+    }
+}

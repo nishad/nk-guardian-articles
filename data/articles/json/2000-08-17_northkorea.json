@@ -1,0 +1,29 @@
+{
+    "date": "2000-08-17T01:17:34Z",
+    "title": "Lines to repair the old divisions",
+    "url": "https://www.theguardian.com/world/2000/aug/17/northkorea",
+    "content": "The North Korean poet Oh Yong-jae knew he would not meet his mother yesterday, but that did not diminish the pain. The divided families chosen for the North-South exchange were at last able to meet individually after the emotional mass reunion of the previous day. Mr Oh's two younger brothers were there to welcome him in his hotel room on the second day. They brought him watches and clothes to take back to the poverty-stricken North. Mr Oh had brought a photo of his parents printed on a thin black slice of stone. He put it in the window and bowed deeply three times. Then with trembling hands he began to read a set of poems - Song for the Dead - dedicated to his mother. The tale of the people's poet Oh Yong-jae in a Korea divided for 50 years, and the grief which he and his brothers feel, sums up the experience of several million Koreans - even if they cannot all express it in verse. Mr Oh \"went North\" to become a volunteer soldier shortly before the Korean war in 1950. It was a time of intense partisan feelings in a country divided by the 1945 intervention of the US and the Soviet Union. A large number of southerners who \"went North\" are in the group of 100 people who are now meeting their long lost families in Seoul. Many young people were fleeing the brutal purges and the repressive society of the US-backed Syngman Rhee regime in the South. But once the Korean war began, far more Koreans \"went South\", many fleeing from communism, others simply displaced by the fighting. Relatives were left behind or simply lost in the chaos. According to the South's statistics, 1m people crossed to the South during the three years' war. About 100,000 went in the other direction or were captured and stayed there. Mr Oh stayed in the North and soon began to distinguish himself as a poet. He wrote patriotic verses, including Tower of Juche, now inscribed on the monument which celebrates Mr Kim's famous doctrine of self-reliance. Though shattered by the war, North Korea industrialised rapidly under Kim Il-sung's fiercely nationalistic leadership, taking help from China and the Soviet Union. South Korea began its own economic advance in the 1970s under the dictator Park Chung-hee, modelled partly on Japan - Korea's former colonial ruler. Mr Oh's younger brother Oh Hyong-jae graduated from a South Korean military academy, then studied mathematics and computer science in the US. Before the brothers were reunited, Hyong-jae expressed some worries about the meeting. \"My brother might be a complete leftist,\" he said. \"I am an anti-communist who graduated from an army school and studied in the US. Maybe we have to be cautious.\" But yesterday all was forgotten as they remembered their parents. Their mother died in 1995. Direct communication between North and South is banned, so a Southern poet sent news of her death via a third country. Mr Oh then sat down to write his sequence of poems, starting with a bitter reflection on divided Korea, Heartlessness (see below). Pyongyang's 100 include other famous names: painters, scientists, doctors and actors. Seoul's list has a much broader social mix, chosen mainly by computer. Pyongyang is anxious to correct the South's image of the North as backward. The South's economic growth in the past 20 years, although now flagging, has been phenomenal. North Korea lags desperately behind the South, suffering industrial stagnation and years of acute food shortage in the countryside. In spite of the euphoria created by the June summit between the two leaders, the gap between the societies is vast. \"We will start exchanging our feelings [about our mother]\", says younger brother Hyong-jae, \"and gradually, if possible, move into the subject of politics and economics.\" Similarly, North and South Korea are moving ahead with the process of detente by focusing on common ground. They are tackling the problem of divided families, rebuilding communications and railways severed by the Korean war, and expanding tourism. But as Mr Oh and the other relatives prepare to return home tomorrow in different directions, there is more optimism across Korea than at any time in the past 50 years. Heartless by Oh Yong-jae Are you gone Are you really gone? Mother, mother, I don't want to believe it! You promised to stay alive till we met again; You said my letters and pictures had brought happiness. You are not the kind of mother who breaks her promises; I am not the kind of son who won't believe in them. But promises and trust cannot conquer time; Our family separation lasted too long. Our country's division is too heartless. Division has no feelings.",
+    "keywords": [
+        "war",
+        "south",
+        "mr",
+        "old",
+        "korea",
+        "mother",
+        "went",
+        "lines",
+        "repair",
+        "divided",
+        "oh",
+        "divisions",
+        "north",
+        "korean"
+    ],
+    "summary": "Mr Oh had brought a photo of his parents printed on a thin black slice of stone.\nMr Oh \"went North\" to become a volunteer soldier shortly before the Korean war in 1950.\nBut once the Korean war began, far more Koreans \"went South\", many fleeing from communism, others simply displaced by the fighting.\nThough shattered by the war, North Korea industrialised rapidly under Kim Il-sung's fiercely nationalistic leadership, taking help from China and the Soviet Union.\nMother, mother, I don't want to believe it!",
+    "sentiment": {
+        "neg": 0.1259,
+        "neu": 0.8248,
+        "pos": 0.0492,
+        "compound": -0.1374
+    }
+}

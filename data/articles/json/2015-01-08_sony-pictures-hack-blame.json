@@ -1,0 +1,29 @@
+{
+    "date": "2015-01-08T13:07:55Z",
+    "title": "Don't know who to blame for the Sony hacks? Make it up",
+    "url": "https://www.theguardian.com/technology/2015/jan/08/sony-pictures-hack-blame",
+    "content": "It\u2019s hard to keep up with who is supposed to be behind the Sony Pictures hack. The FBI swears it\u2019s North Korea, but simultaneously also doubts it. Other researchers say it\u2019s a Sony insider, while the hackers themselves demanded The Interview be pulled from cinemas only after media reports had mooted the North Korean connection. Initially, it seems, the group just wanted money \u2013 so did they latch on to North Korea as a smokescreen, or just because they found it funny? If you can\u2019t get your head around it all, don\u2019t worry. No one else can either. So why not choose your own group to blame for the hack? The site Sony.Attributed.To (with its canny use of the island of Tonga\u2019s domain suffix) offers up a new, randomly generated attribution every time the page is loaded. From headlines such as \u201cSony breach linked to Sony executive\u201d (or \u201cSony breach linked to American state-affiliated actor\u201d, or \u201cSony breach linked to cashier in the Sony gift shop\u201d), the site generates a pseudo-random, convincing explanation as to why that\u2019s the correct party to blame. It \u201cquotes\u201d security researchers, cites IP addresses, and even generates \u201cMalware Indicators\u201d \u2013 strings of code which look to the untrained eye like evidence of \u2026 something. The site\u2019s the work of three data scientists, Kevin Thompson, Bob Rudis and Alex Pinto. And while it\u2019s obviously a quick laugh, it does have a deeper point. \u201cEverybody is talking about the Sony hack of November 2014,\u201d they write. \u201cWho did it? Why did they do it? Each theory more uninformed than the last. You might even find yourself asked to provide an expert opinion on the Sony hack. \u201cSurely you can\u2019t admit in public that you don\u2019t know anything about how the attack was executed or who is behind the whole thing?\u201d",
+    "keywords": [
+        "sony",
+        "dont",
+        "korea",
+        "north",
+        "group",
+        "hacks",
+        "linked",
+        "site",
+        "generates",
+        "breach",
+        "know",
+        "hack",
+        "researchers",
+        "blame"
+    ],
+    "summary": "It\u2019s hard to keep up with who is supposed to be behind the Sony Pictures hack.\nThe FBI swears it\u2019s North Korea, but simultaneously also doubts it.\nFrom headlines such as \u201cSony breach linked to Sony executive\u201d (or \u201cSony breach linked to American state-affiliated actor\u201d, or \u201cSony breach linked to cashier in the Sony gift shop\u201d), the site generates a pseudo-random, convincing explanation as to why that\u2019s the correct party to blame.\n\u201cEverybody is talking about the Sony hack of November 2014,\u201d they write.\nYou might even find yourself asked to provide an expert opinion on the Sony hack.",
+    "sentiment": {
+        "neg": 0.0717,
+        "neu": 0.8802,
+        "pos": 0.0481,
+        "compound": 0.0101
+    }
+}

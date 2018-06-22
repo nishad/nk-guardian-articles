@@ -1,0 +1,28 @@
+{
+    "date": "2008-09-24T23:01:00Z",
+    "title": "New crisis over North Korea's nuclear plans",
+    "url": "https://www.theguardian.com/world/2008/sep/25/korea.nuclear",
+    "content": "North Korea has triggered a new crisis over its nuclear ambitions by expelling UN inspectors and pledging to resume plutonium reprocessing - a precursor to producing atomic weapons. The International Atomic Energy Agency, the UN's nuclear watchdog, confirmed yesterday that it had, at Pyongyang's request, removed seals and surveillance equipment from the Yongbyon plant, delivering a blow to the 2007 deal scrapping its atomic weapons programmes. In a closed session of the IAEA's board in Vienna, the deputy director-general, Olli Heinonen, said North Korea had informed the inspectors that it planned to \"introduce nuclear material to the reprocessing plant in one week's time\". The move cast new doubt on years of attempts to denuclearise the isolated state at a time of deepening uncertainty abut the health of its reclusive leader, Kim Jong-il. Six-party disarmament talks stalled last month when North Korea stopped disabling Yongbyon in protest at delays in being removed from a US blacklist of states supporting terrorism. The White House called the latest development \"very disappointing\". Any resumption of reprocessing would \"further isolate North Korea\", said a spokesman. But Condoleezza Rice, the secretary of state, insisted that negotiations were still alive even if they appeared to be unravelling. \"We've been through ups and downs in this process before,\" she said. \"But this is a six-party process, and that means that there are other states that are carrying the same message to North Korea about their obligations.\" Analysts were uncertain whether Pyongyang was manoeuvring in pursuit of new concessions on aid, trade and political ties or reneging completely on last year's disarmament-for-aid agreement, which followed a test nuclear explosion in 2006. \"It's hard to say whether this is a negotiating tactic or if they've decided to pack up their marbles and go home,\" said Mark Fitzpatrick, a nuclear proliferation expert at the International Institute for Strategic Studies. A Jane's Defence analyst, Christian Le Mi\u00e8re, said: \"This could still be resolved by a last-minute deal but it's hard to see it recovering.\" Experts agree that it will take several months at least to bring the installation back on line, so reprocessing cannot resume immediately. Pyongyang's move will fuel doubts about the condition of Kim, 66, who has not been seen in public since mid-August and is thought to be incapacitated after suffering a stroke. Kim, unlike his father Kim Il-sung, has not appointed a successor. This has given rise to speculation about the role of the generals now running the country. \"Upping the ante is a change of posture so someone is clearly making decisions,\" said Fitzpatrick. \"And it could be a fateful decision. This is escalating in a very serious way.\" The 2007 agreement was reached after negotiations with the US, Russia, Japan, China and South Korea. North Korean scientists began disabling the reactor last November and in June blew up the cooling tower. Eight of the 11 steps needed to disable the reactor were completed by July. But later that month Washington made an additional request: detailed verification of the process, including soil samples and interviews with scientists. The US then pinned one of its concessions - removing North Korea from its list of nations that sponsor terrorism - on verification. North Korea rejected that demand.",
+    "keywords": [
+        "verification",
+        "plans",
+        "korea",
+        "crisis",
+        "nuclear",
+        "reprocessing",
+        "kim",
+        "process",
+        "yongbyon",
+        "weapons",
+        "atomic",
+        "north",
+        "koreas"
+    ],
+    "summary": "North Korea has triggered a new crisis over its nuclear ambitions by expelling UN inspectors and pledging to resume plutonium reprocessing - a precursor to producing atomic weapons.\nSix-party disarmament talks stalled last month when North Korea stopped disabling Yongbyon in protest at delays in being removed from a US blacklist of states supporting terrorism.\nAny resumption of reprocessing would \"further isolate North Korea\", said a spokesman.\nThe US then pinned one of its concessions - removing North Korea from its list of nations that sponsor terrorism - on verification.\nNorth Korea rejected that demand.",
+    "sentiment": {
+        "neg": 0.1101,
+        "neu": 0.851,
+        "pos": 0.0389,
+        "compound": -0.1421
+    }
+}
