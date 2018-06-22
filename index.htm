@@ -1,0 +1,70 @@
+<html lang='en'>
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+
+    <title>Sentiment and keyword analysis on North Korean news articles from The Guardian</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css' rel='stylesheet' type='text/css'>
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+
+    <link href='assets/css/metricsgraphics.css' rel='stylesheet' type='text/css'>
+
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <script src='https://d3js.org/d3.v4.min.js' charset='utf-8'></script>
+    <script src='assets/js/metricsgraphics.min.js'></script>
+</head>
+
+<body>
+        <div class='container'>
+            <div id='graph'>
+            </div>
+        </div>
+
+
+
+    <script>
+
+        d3.json('data/sentiment.json', function(data) {
+
+            MG.convert.date(data, 'date', "%Y-%m-%dT%H:%M:%SZ")
+
+            MG.data_graphic({
+                data: data,
+                target: "#graph",
+                x_accessor: "date",
+                y_accessor: "value",
+                brush: 'x',
+                full_width: true,
+                right: 40,
+                // area: false,
+                bottom: 60,
+                full_width: true,
+                height: 800,
+                color: '#8C001A',
+                chart_type:'point',
+                least_squares: true,
+                lowess: true,
+                // color_accessor:'z',
+                color_range: ['blue', 'red'],
+                color_type: 'number',
+                // size_accessor:'w',
+                x_rug: true,
+                y_rug: true,
+                // color: '#000000'
+                // show_confidence_band: ['l', 'u'],
+                x_extended_ticks: true,
+                y_extended_ticks: true,
+            })
+        })
+    </script>
+
+<style type="text/css">
+    #graph {
+        width: 100%;
+    }
+</style>
+
+</body>
+</html>
